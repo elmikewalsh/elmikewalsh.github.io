@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>elmikewalsh</title>
-    <link href="http://www.elmikewalsh.com/feed.xml" rel="self" />
-    <link href="http://www.elmikewalsh.com" />
-    <updated>2019-09-07T18:31:07-04:00</updated>
+    <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
+    <link href="https://www.elmikewalsh.com" />
+    <updated>2019-09-07T18:44:16-04:00</updated>
     <author>
         <name>Mike</name>
     </author>
-    <id>http://www.elmikewalsh.com</id>
+    <id>https://www.elmikewalsh.com</id>
 
     <entry>
         <title>Ode to Whiskey</title>
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/ode-to-whiskey.html"/>
-        <id>http://www.elmikewalsh.com/ode-to-whiskey.html</id>
+        <link href="https://www.elmikewalsh.com/ode-to-whiskey.html"/>
+        <id>https://www.elmikewalsh.com/ode-to-whiskey.html</id>
 
         <updated>2019-09-07T18:01:37-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" alt="" />
                     Soem reflexions on that magical liquid called whiskey Too much of anything is bad, but too much good whiskey is barely enough. - Mark Twain I like my whisky old and my women young. - Errol Flynn Whisky is liquid sunshine. - George Bernard Shaw Always&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" alt="" />
                 <p>Soem reflexions on that magical liquid called whiskey</p>
 <blockquote>
 <p>Too much of anything is bad, but too much good whiskey is barely enough. - Mark Twain</p>
@@ -51,19 +51,19 @@
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/tiny-technical-stuff.html"/>
-        <id>http://www.elmikewalsh.com/tiny-technical-stuff.html</id>
+        <link href="https://www.elmikewalsh.com/tiny-technical-stuff.html"/>
+        <id>https://www.elmikewalsh.com/tiny-technical-stuff.html</id>
 
         <updated>2019-08-21T20:23:00-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/19/binary-code-475664.jpg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/19/binary-code-475664.jpg" alt="" />
                     This website was created and published using Publii, a cool Static Website generator. They don't pay me to mention them - I just think they have a really cool product. It is being hosted on GitHub, where I have an account you can check out,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/19/binary-code-475664.jpg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/19/binary-code-475664.jpg" alt="" />
                 <blockquote>
 <p>This website was created and published using <a href="http://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>, a cool Static Website generator. They don't pay me to mention them - I just think they have a really cool product.</p>
 </blockquote>
@@ -78,19 +78,19 @@
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/a-few-words-about-me.html"/>
-        <id>http://www.elmikewalsh.com/a-few-words-about-me.html</id>
+        <link href="https://www.elmikewalsh.com/a-few-words-about-me.html"/>
+        <id>https://www.elmikewalsh.com/a-few-words-about-me.html</id>
 
         <updated>2019-08-18T17:34:44-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/17/bio.jpg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/17/bio.jpg" alt="" />
                     The BasicsHello and welcome to my website! If you've made it this far, you can probably guess that my name is Mike (Michael) Walsh, and I am a real, live human being! I was born and raised in Westmont, Illinois in the noth-centeral part of the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/17/bio.jpg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/17/bio.jpg" alt="" />
                 <h3 id="mcetoc_1digpmmn30">The Basics</h3>
 <p>Hello and welcome to my website! If you've made it this far, you can probably guess that my name is Mike (Michael) Walsh, and I am a real, live human being!</p>
 <p>I was born and raised in Westmont, Illinois in the noth-centeral part of the United States, for the first 30 or so years of my life.  During my time at the University, I also had the opportunity to spend 3 months in the south-central part of Chile, in a city called San Pedro de la Paz (Which is next to Concepción, an even larger city).</p>
@@ -114,19 +114,19 @@
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/work-2.html"/>
-        <id>http://www.elmikewalsh.com/work-2.html</id>
+        <link href="https://www.elmikewalsh.com/work-2.html"/>
+        <id>https://www.elmikewalsh.com/work-2.html</id>
 
         <updated>2019-08-08T19:44:26-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
                     2017- Present WEB DESIGNER / DEVELOPER, PROJECT MANAGER - OPTUNO I help Optuno create websites from start, customize existing themes and manage project content and client requests alongside a wonderful, world-wide remote team. 2007 - Present DIGITAL PRODUCT &amp; EXPERIENCE DESIGNER - IMAGINALGO I make&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
                 <blockquote>
 <p><strong><em>2017- Present<br></em></strong><strong>WEB DESIGNER / DEVELOPER, PROJECT MANAGER - OPTUNO<br></strong>I help Optuno create websites from start, customize existing themes and manage project content and client requests alongside a wonderful, world-wide remote team.</p>
 </blockquote>
@@ -187,8 +187,8 @@
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/cv.html"/>
-        <id>http://www.elmikewalsh.com/cv.html</id>
+        <link href="https://www.elmikewalsh.com/cv.html"/>
+        <id>https://www.elmikewalsh.com/cv.html</id>
 
         <updated>2019-07-30T00:18:46-04:00</updated>
             <summary>
@@ -377,19 +377,19 @@
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/the-last-of-the-mujicans.html"/>
-        <id>http://www.elmikewalsh.com/the-last-of-the-mujicans.html</id>
+        <link href="https://www.elmikewalsh.com/the-last-of-the-mujicans.html"/>
+        <id>https://www.elmikewalsh.com/the-last-of-the-mujicans.html</id>
 
         <updated>2019-08-17T18:02:02-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
                     The honest and consistent politician isn’t a unicorn — I think I just saw one over there…My special guestAn undeterminable number of days ago, I had a conversation with my wife. Out of nowhere, she asked me: “If you could invite any one person to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
                 <h3 id="mcetoc_1digp5gai0" class="bs fq gu ng bx">The honest and consistent politician isn’t a unicorn — I think I just saw one over there…</h3>
 <h3 id="9f45" class="oh go dg bt bs di oi oj ok ol om on oo op oq or os"><strong class="bi">My special guest</strong></h3>
 <p id="d711" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" >An undeterminable number of days ago, I had a conversation with my wife. Out of nowhere, she asked me:</p>
@@ -400,7 +400,7 @@
 <p id="4204" class="ho hp dg oz hq b hr nk ht nl nm nn no np nq nr ib" >“Well, in this world where all politicians appear to serve only themselves instead of the people, I feel that he could be one of the only honest and upright politicians remaining.”</p>
 <p id="d763" class="ho hp dg oz hq b hr nk ht nl nm nn no np nq nr ib" >“Ok, I’ll set the table for two and a unicorn. By the way, Mike, what do unicorns eat anyways?” she probably thought.</p>
 <hr>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/16/1.jpeg" alt="" width="1000" height="562">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/16/1.jpeg" alt="" width="1000" height="562">
 <figcaption ><strong class="bs oy">Image Credits: </strong>El Municipio, <a href="http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido</a></figcaption>
 </figure>
 <h3 id="2fdf" class="oh go dg bt bs di oi oj ok ol om on oo op oq or os align-left"><strong class="bi">The Last Hero</strong></h3>
@@ -417,7 +417,7 @@
 <p id="fcdd" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib align-left" >And what does Mujica have to say about facts and lies?</p>
 <blockquote class="wv">“I want to know the truth, but I don’t believe a damn in justice.” (Source: <a href="http://www.emol.com/noticias/magazine/2015/05/04/715320/mujica-en-filba.html" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">Emol.com</a>, translation mine)</blockquote>
 <hr>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/16/2.jpeg" alt="" width="1000" height="562">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/16/2.jpeg" alt="" width="1000" height="562">
 <figcaption ><strong class="bs oy">Image Credits: </strong>NTN24, <a href="http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294</a></figcaption>
 </figure>
 <section class="gc gd ge gf gg">
@@ -449,22 +449,22 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/shit-happens-according-to-religion-and-politics.html"/>
-        <id>http://www.elmikewalsh.com/shit-happens-according-to-religion-and-politics.html</id>
+        <link href="https://www.elmikewalsh.com/shit-happens-according-to-religion-and-politics.html"/>
+        <id>https://www.elmikewalsh.com/shit-happens-according-to-religion-and-politics.html</id>
 
         <updated>2019-08-17T17:51:08-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/15/cover.jpeg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/15/cover.jpeg" alt="" />
                     The famous “shit happens” in English: many flavors, one distinct smell…Into everyone’s life a little shit must fall. Call it what you will: poop, caca, defecation, excrement, bad things….it’s all the same — shit. It happens to everyone; no religion or politics can escape it’s&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/15/cover.jpeg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/15/cover.jpeg" alt="" />
                 <h3 id="mcetoc_1digokman0" class="bs fq gu ng bx">The famous “shit happens” in English: many flavors, one distinct smell…</h3>
 <p>Into everyone’s life a little shit must fall. Call it what you will: poop, caca, defecation, excrement, bad things….it’s all the same — shit.</p>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/15/1.png" alt="" width="512" height="512">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/15/1.png" alt="" width="512" height="512">
 <figcaption >Image Credits: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
 </figure>
 <p id="6612" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >It happens to everyone; no religion or politics can escape it’s soggy, magnetic pull.</p>
@@ -477,7 +477,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <li id="61be" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" ><strong class="hq oy">Buddhism:</strong> If shit happens, it isn’t really shit.</li>
 <li id="9b6f" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" ><strong class="hq oy">Zen Buddhism:</strong> What is the sound of shit happening?</li>
 </ul>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/15/2.png" alt="" width="512" height="512">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/15/2.png" alt="" width="512" height="512">
 <figcaption >Image Credits: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
 </figure>
 <ul class="">
@@ -492,7 +492,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <li id="b852" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" ><strong class="hq oy">Capitalism: </strong>Shit happens to me more than to you.</li>
 <li id="36d8" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" ><strong class="hq oy">Materialism: </strong>The winner is to whom the most shit happens.</li>
 </ul>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/15/3.png" alt="" width="512" height="512">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/15/3.png" alt="" width="512" height="512">
 <figcaption >Image Credits: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
 </figure>
 <ul class="">
@@ -508,7 +508,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <li id="7e27" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" ><strong class="hq oy">Rastafarianism:</strong> Let’s smoke this shit.</li>
 </ul>
 <br>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/15/4.png" alt="" width="512" height="512">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/15/4.png" alt="" width="512" height="512">
 <figcaption >Image Credits: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
 </figure>
             ]]>
@@ -519,24 +519,24 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/a-tale-of-chile-and-its-delightful-little-earthquakes.html"/>
-        <id>http://www.elmikewalsh.com/a-tale-of-chile-and-its-delightful-little-earthquakes.html</id>
+        <link href="https://www.elmikewalsh.com/a-tale-of-chile-and-its-delightful-little-earthquakes.html"/>
+        <id>https://www.elmikewalsh.com/a-tale-of-chile-and-its-delightful-little-earthquakes.html</id>
 
         <updated>2019-08-17T17:48:47-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/14/cover.jpeg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/14/cover.jpeg" alt="" />
                     How Chileans and non-Chileans understand the Richter Scale.Chilean’s are a particular bunch of people. They live in a country often mistaken for the word “Chili” (and, what’s worse, the geography just happens to resemble a chili….), are surrounded by ocean to the west, mountains to&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/14/cover.jpeg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/14/cover.jpeg" alt="" />
                 <h3 id="mcetoc_1dignvdri0" class="bs fq gu ng bx">How Chileans and non-Chileans understand the Richter Scale.</h3>
 <p id="1f69" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >Chilean’s are a particular bunch of people. They live in a country often mistaken for the word “Chili” (and, what’s worse, the geography just happens to resemble a chili….), are surrounded by ocean to the west, mountains to the east, and their country is only as wide as, say, the state of Illinois in the U.S., but over 4,000km long!</p>
 <p id="dbf4" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >Yup, it’s that “skinny country” down there in South America.</p>
 <p id="35ff" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >And, one other small detail — the Earth under their feet moves. A lot.</p>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/14/1.jpeg" alt="" width="1000" height="665">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/14/1.jpeg" alt="" width="1000" height="665">
 <figcaption >Image Credits: <a href="https://pixabay.com/en/users/Perlinator-491438/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Perlinator-491438/</a></figcaption>
 </figure>
 <p id="6a6f" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >It is natural, therefore, that Chileans have become accustomed to seismic events. However, the visitor to Chile may not be as experienced. Never fear, help is on the way!</p>
@@ -558,7 +558,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <p id="7e57" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >6 / The Chilean says: “It’s trembling” → <strong class="hq oy"><em class="oz">You</em></strong> will think it’s the end of the world, but nothing will happen. Don’t get the idea of leaving, because that’s much more dangerous. Just stay calm, watch the Chilean closely and wait. And please return to our country, or at least don’t bad-mouth us upon your return home, because we don’t have thaaaaaat many natural disasters.</p>
 <p id="83f0" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >7 / The Chilean says: “It s a strong one” → It is now acceptable to talk about “earthquakes”. In other countries, this would be a cataclysmic event, but here the construction resists quite a lot (and the ones that don’t, well…they already fell in previous earthquakes). It’s OK, we understand if you don’t ever want to return to Chile. Get yourself a good psychologist for the post-traumatic stress (really).</p>
 <p id="6c1b" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >8 / Chilean: “Mother fucker!” (CTM = ConchaTuMadre) → Hold on tight, because if you don’t, you’re gonna fall to the floor. Do exactly the same as the Chilean. Try not to cry, and definitely don’t scream. It’s very likely that nothing will happen, but you could have a run of bad luck, and the very same building you are in decides to part in two (Shit happens). That’s life.</p>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/14/2.jpeg" alt="" width="1000" height="600">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/14/2.jpeg" alt="" width="1000" height="600">
 <figcaption >Image Credits: <a href="https://pixabay.com/en/users/icheinfach-989720/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/icheinfach-989720/</a></figcaption>
 </figure>
 <p id="b648" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >9+ / Chilean is praying→ The shit hit the fan. Now it is indeed the end of the world for real, the Apocalypse. Try to pray and think of your loved ones, because it’s all coming to an end, and Chile won’t win the <em class="oz">Copa America</em>either (<strong class="hq oy">Translator’s Note: </strong>This “guide” was created specifically for foreigners visiting Chile during the <em class="oz">Copa America 2015</em>. Chile did, in fact, win the tournament….and would go on to win it again the following year). Try to take stock of your possessions, and be on the lookout for the famous “Chilean cleverness”.</p>
@@ -577,30 +577,30 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/excel-for-the-weak-split-first-and-last-names-into-separate-columns-with-functions.html"/>
-        <id>http://www.elmikewalsh.com/excel-for-the-weak-split-first-and-last-names-into-separate-columns-with-functions.html</id>
+        <link href="https://www.elmikewalsh.com/excel-for-the-weak-split-first-and-last-names-into-separate-columns-with-functions.html"/>
+        <id>https://www.elmikewalsh.com/excel-for-the-weak-split-first-and-last-names-into-separate-columns-with-functions.html</id>
 
         <updated>2019-08-17T17:49:03-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/13/cover.jpeg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/13/cover.jpeg" alt="" />
                     Not as hard as it looks. Breathe deeply, and follow along with me.A nerdy tip to manage those untidy Excel documents. There is no better way to spend an afternoon than by working hard, copying and pasting first and last names into different columns so&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/13/cover.jpeg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/13/cover.jpeg" alt="" />
                 <div id="eeef" class="gs gt bx bt bs fq na nb nc nd ne nf gw">
 <h3 id="mcetoc_1digmg86s0" class="bs fq gu ng bx">Not as hard as it looks. Breathe deeply, and follow along with me.</h3>
 <p id="7192" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >A nerdy tip to manage those untidy Excel documents.</p>
 <p id="f5c5" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >There is no better way to spend an afternoon than by working hard, copying and pasting first and last names into different columns so that you can import your Excel list into a program like <a href="http://www.mailchimp.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">Mailchimp</a> or <a href="http://www.surveymonkey.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">Surveymonkey</a> (or whatever) in order to send your emails, newsletters, surveys and the like.</p>
 <p id="81de" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >If you really like copying and pasting your life away, I recommend you stop reading this and get back to work. But, if you prefer to free up hours of your life and look smart in the process…..read on!</p>
-<p class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" ><img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/1.jpeg" alt="" width="1000" height="562"></p>
+<p class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" ><img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/1.jpeg" alt="" width="1000" height="562"></p>
 <h3 id="a355" class="oh go dg bt bs di oi oj ok ol om on oo op oq or os">The Context</h3>
 <p id="c9b9" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" >I will detail a case that frequently occurs in my work. Your experience should be modified to fit your reality. I am often tasked with sending out a newsletter or survey. The list of recipients arrives in the form of an Excel document. If I am fortunate, the document is relatively tidy and there are no spelling errors (one can dream). But, in almost all cases, the information comes in two columns — one with the email addresses, and one with the first and last name(s).</p>
 <p id="1d07" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >The problem? Programs and sites like <a href="http://www.mailchimp.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">Mailchimp</a> and <a href="http://www.surveymonkey.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">Surveymonkey</a> allow you great personalization of your emails, allowing you to target and use things like the recipient’s first name, last name, or other data, but <strong class="hq oy"><em class="oz">only if it is in its own column</em></strong>.</p>
 <p id="8cc3" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >So, how can we clean up our first/last name problem without cutting and pasting all day? With a couple of formulas.</p>
-<p ><img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/2.jpeg" alt="" width="1000" height="562"></p>
+<p ><img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/2.jpeg" alt="" width="1000" height="562"></p>
 <h3 id="42f1" class="oh go dg bt bs di oi oj ok ol om on oo op oq or os">The Process</h3>
 <p id="38c6" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" >I will use a few illustrations to demonstrate. First, we want to make sure that the first and last names are all in one nice and near column. Make sure that there are empty columns to the right of your <strong class="hq oy">First/Last Name</strong> column; it isn’t necessary, but it will make your life easier.</p>
 <ul class="">
@@ -617,12 +617,12 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <ul class="">
 <li id="7dbb" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib pa pb pc" >Then click <strong class="hq oy">Enter</strong>. If all went well, you should see the first name reproduced in the empty cell where you put the formula. One important note — look at the formula, where it shows B1. This assumes that the first entry for your First/Last name column is in cell B1. If it is not, you <strong class="hq oy"><em class="oz">must</em></strong> change it to the correct value. (B1, or whatever. See the image).</li>
 </ul>
-<img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/3.jpeg" alt="" width="1000" height="562">
+<img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/3.jpeg" alt="" width="1000" height="562">
 <ul class="">
 <li id="89a2" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib pa pb pc" >If you enter the formula correctly and press Enter, (<strong class="hq oy"><em class="oz">don’t</em></strong> click on a different cell while entering the formula!) you should see the first name alone in a cell. Congrats!</li>
 <li id="6a6e" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" >Now, left-click on the first cell and drag the mouse down to the end of your list. You should have the whole column highlighted. Then click CTRL + D, and the column will magically fill with all the first names from your previous First/Last Name column.</li>
 </ul>
-<img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/4.jpeg" alt="" width="1000" height="562"></div>
+<img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/4.jpeg" alt="" width="1000" height="562"></div>
 <div class="gs gt bx bt bs fq na nb nc nd ne nf gw">
 <ul class="">
 <li id="201a" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib pa pb pc" >Moving on, click on the first cell at the top of the next column (to the right of where your First Names only are. Then, enter the following formula:</li>
@@ -633,9 +633,9 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <li id="a509" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib pa pb pc" >Change the value B1 if necessary. Repeat the same process as above, and you should see the last name only in the first cell.</li>
 <li id="c30f" class="ho hp dg bt hq b hr pd ht pe nm pf no pg nq ph ib pa pb pc" >Duplicate the process noted above, left-clicking on the first cell and dragging down and pressing CTRL + D to fill the column with <strong class="hq oy">Last Names</strong> only.</li>
 </ul>
-<img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/5.jpeg" alt="" width="1000" height="562"></div>
+<img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/5.jpeg" alt="" width="1000" height="562"></div>
 <div class="gs gt bx bt bs fq na nb nc nd ne nf gw">Now, you could stop there, and save your document (I save it as both an Excel document and a .CSV document — the latter of which is a favorite for importing contacts). There is just one small issue. Your new First and Last Name columns are tied to formulas. If you click on a cell with the First/Last name only, you will see the formula we used instead of the plain text as the cell value.</div>
-<div class="gs gt bx bt bs fq na nb nc nd ne nf gw"><img class="post__image" src="http://www.elmikewalsh.com/media/posts/13/6.jpeg" alt="" width="1000" height="562"></div>
+<div class="gs gt bx bt bs fq na nb nc nd ne nf gw"><img class="post__image" src="https://www.elmikewalsh.com/media/posts/13/6.jpeg" alt="" width="1000" height="562"></div>
 <div class="gs gt bx bt bs fq na nb nc nd ne nf gw">
 <p id="6df7" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >To fix this, we simply highlight the First/Last Name columns, and press CTRL + C ( or right-click and select Copy…). Then, we paste the copied columns into two different, empty columns, (it doesn’t matter which columns you paste into). However, we don’t want to paste using CTRL + V. Instead, right-click and you will see multiple paste options. Select the icon that has a 123 at the bottom. This is called <strong class="hq oy">Paste as Values</strong>. If you do this, you are separating the First/Last Names from the formulas, and can freely cut and paste them wherever you want in the future.</p>
 <p id="88cb" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" >Well, that’s all here. Hope this makes your life easier. Hey, why not make my life easier and click that green heart icon at the bottom of this article, so that more people can enjoy it?</p>
@@ -648,19 +648,19 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
         <author>
             <name>Mike</name>
         </author>
-        <link href="http://www.elmikewalsh.com/your-internet-speed-and-that-of-your-websites-visitor-probably-sucks.html"/>
-        <id>http://www.elmikewalsh.com/your-internet-speed-and-that-of-your-websites-visitor-probably-sucks.html</id>
+        <link href="https://www.elmikewalsh.com/your-internet-speed-and-that-of-your-websites-visitor-probably-sucks.html"/>
+        <id>https://www.elmikewalsh.com/your-internet-speed-and-that-of-your-websites-visitor-probably-sucks.html</id>
 
         <updated>2019-08-17T17:49:20-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://www.elmikewalsh.com/media/posts/12/cover.jpeg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/12/cover.jpeg" alt="" />
                     Dear Designer: The Internet Is a Slow Enough Place. Don’t Screw It Up MoreGuess what, my beloved article reader? Your internet speed probably sucks. Sorry to break it to you. But, look on the bright side: you aren’t alone. In fact, you are part of&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://www.elmikewalsh.com/media/posts/12/cover.jpeg" alt="" />
+                    <img src="https://www.elmikewalsh.com/media/posts/12/cover.jpeg" alt="" />
                 <h3 id="mcetoc_1die96s5j0">Dear Designer: The Internet Is a Slow Enough Place. Don’t Screw It Up More</h3>
 <p id="aa6d" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" >Guess what, my beloved article reader? Your internet speed probably sucks. Sorry to break it to you.</p>
 <p id="ce6a" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" >But, look on the bright side: you aren’t alone. In fact, you are part of a majority I will call the 2G Internet — <strong class="hq of">G</strong>randma and <strong class="hq of">G</strong>randpa Speed Internet.</p>
@@ -696,7 +696,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 <li id="4748" class="ho hp dg bt hq b hr pz ht qa nz qb ob qc od qd ib pw px py" >What if the person or company you are creating the website for decides to expand their targeted audience into other countries — has your design taken that into consideration?</li>
 </ul>
 <hr>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/12/1.jpeg" alt="" width="1000" height="706">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/12/1.jpeg" alt="" width="1000" height="706">
 <figcaption >Image Credits: Photo by <a href="http://negativespace.co/photos/phone-booth-2/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://negativespace.co/photos/phone-booth-2/</a></figcaption>
 </figure>
 <h3 id="22fa" class="pf go dg bt bs di pg ph pi pj pk pl pm pn po pp pq">The Need for Speed</h3>
@@ -709,7 +709,7 @@ Gosh, it certainly is a real head-scratcher, isn’t it?</div>
 </blockquote>
 <p id="544c" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" >Just because you are top, top, top in California doesn’t mean you would cut it in India.</p>
 <hr>
-<figure class="post__image post__image" ><img src="http://www.elmikewalsh.com/media/posts/12/2.jpeg" alt="" width="1000" height="500">
+<figure class="post__image post__image" ><img src="https://www.elmikewalsh.com/media/posts/12/2.jpeg" alt="" width="1000" height="500">
 <figcaption >Image Credits: <a href="https://www.pexels.com/u/pixabay/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.pexels.com/u/pixabay/</a></figcaption>
 </figure>
 <h3 id="3a79" class="pf go dg bt bs di pg ph pi pj pk pl pm pn po pp pq">A Worldwide Plea for Consideration</h3>
