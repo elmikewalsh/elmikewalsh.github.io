@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ES - elmikewalsh</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
@@ -16,6 +16,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/cositas-tecnicas.html"/>
         <id>https://www.elmikewalsh.com/cositas-tecnicas.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" medium="image" />
 
         <updated>2022-10-24T16:48:07-03:00</updated>
             <summary>
@@ -26,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <p>Este sitio web fue creado y publicado usando <a href="http://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>, un generador de sitios web estáticos. No me pagan por mencionarlo - simplemente creo que tienen un producto super-mega-bacan.  :)</p>
 </blockquote>
@@ -43,6 +44,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/oda-al-whiskey.html"/>
         <id>https://www.elmikewalsh.com/oda-al-whiskey.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2022-10-24T09:44:52-03:00</updated>
@@ -54,7 +56,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Algunas reflexiones acerca del liquido mágico que es el whiskey.</p>
 <blockquote>
 <p>Es malo tener demasiado de cualquier cosa, pero demasiado buen whiskey es apenas suficiente. - Mark Twain</p>
@@ -81,6 +83,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/a-few-words-about-me.html"/>
         <id>https://www.elmikewalsh.com/a-few-words-about-me.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" medium="image" />
 
         <updated>2022-10-28T12:54:10-03:00</updated>
             <summary>
@@ -91,7 +94,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" class="type:primaryImage" alt="" /></p>
                 <h3>Lo escencial</h3>
 <p>¡Hola y bienvenidos a mi sitio web! Si llegaste hasta aquí probablemente podrías adivinar que me llamo Mike (Michael) Walsh, y soy un ser humano de verdad!</p>
 <p>Nací y viví en Westmont, Illinous, una ciudad en el centro-norte de los EUA durante los primeros 30-algo años de mi vida.  Durante mi estadía en la U, tuve la oportunidad de pasar 3 meses en el centro-sur de Chile, en una ciudad llamado San Pedro de la Paz (que se ubica al lado de una ciudad aún más grande, llamado Concepción).</p>
@@ -117,6 +120,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/mi-cv.html"/>
         <id>https://www.elmikewalsh.com/mi-cv.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" medium="image" />
 
         <updated>2022-10-27T16:49:22-03:00</updated>
             <summary>
@@ -127,7 +131,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" class="type:primaryImage" alt="" /></p>
                 <blockquote>
 <h5><em>2017- actual</em></h5>
 <h3>Diseñador / Gestor De Proyectos - Optuno</h3>
@@ -215,6 +219,7 @@
         </author>
         <link href="https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos.html"/>
         <id>https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2019-08-22T18:58:47-04:00</updated>
@@ -226,7 +231,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc pp bx">El político coherente y honesto no es unicornio — hay uno por allá</h3>
 <h3 id="5c10" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb"><strong class="bi">Mi invitado especial</strong></h3>
 <p id="d711" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" data-selectable-paragraph="">Hace una cantidad de días indeterminables, tuve una conversación con mi compañera de vida. Ella me preguntó de repente:</p>
@@ -236,7 +241,7 @@
 <p id="e0ff" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">«¿Y por qué?»</p>
 <p id="5cda" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">«Bueno, en un país y en un mundo en que los políticos se ven como sirvientes de sí mismos en vez del pueblo, siento que puede ser unos de los pocos políticos honestos y coherentes que hay.»</p>
 <hr>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/1.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/1-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-md.jpeg 768w"  alt="" width="1000" height="562">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/1.jpeg" alt="" width="1000" height="562" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-md.webp 768w">
 <figcaption ><strong class="bs oy"><strong class="bs qd">Créditos del imagen: </strong> </strong>El Municipio, <a href="http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido</a></figcaption>
 </figure>
 <h3 id="a63d" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb">«<strong class="bi">El último héroe</strong>»</h3>
@@ -253,7 +258,7 @@
 <p id="cc4c" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Y ¿qué dice Mujica al respecto?</p>
 <blockquote class="wv">«<a href="http://www.emol.com/noticias/magazine/2015/05/04/715320/mujica-en-filba.html" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Yo quiero saber la verdad, pero en la justicia no creo un carajo</a>»</blockquote>
 <hr>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/2.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/2-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-md.jpeg 768w"  alt="" width="1000" height="562">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/2.jpeg" alt="" width="1000" height="562" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-md.webp 768w">
 <figcaption ><strong class="bs oy"><strong class="bs qd">Créditos del imagen: </strong> </strong>NTN24, <a href="http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294</a></figcaption>
 </figure>
 <section class="gc gd ge gf gg">
@@ -287,6 +292,7 @@ Un rompecabezas, ¿no?</div>
         </author>
         <link href="https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque.html"/>
         <id>https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2022-10-20T12:08:42-03:00</updated>
@@ -298,12 +304,12 @@ Un rompecabezas, ¿no?</div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">Cuando vote por su presidente no olvides a la gente detrás de la cortina</h3>
 <p id="6e26" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">En mi última historia exploramos en breve la elección de presidente (específicamente en Chile, pero con aplicación general) y cómo hay una falacia lógica en creer que hay solo dos opciones cuando en realidad hay más. Esto se debe a varios factores, como la presión del grupo, en la que uno tiende querer votar por el «ganador» o, en realidad, por quien se percibe será el ganador, produciendo un tipo de <strong class="ou ns"><em class="qw">profecía autocumplida</em></strong> en que todos votan por quien <strong class="ou ns"><em class="qw">cree</em></strong> que ganará en vez de por quién <strong class="ou ns"><em class="qw">quiere</em></strong> que gane, así cumpliendo con las expectativas de las encuestas y expertos, y no los deseos de los votantes.</p>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/1.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/1-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-md.jpeg 768w"  alt="" width="4000" height="2506">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/1.jpeg" alt="" width="4000" height="2506" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, Pexels — <a href="https://pixabay.com/en/users/Pexels-2286921/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Pexels-2286921/</a></figcaption>
 </figure>
 </div>
@@ -315,7 +321,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/2.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/2-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-md.jpeg 768w"  alt="" width="4000" height="2828">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/2.jpeg" alt="" width="4000" height="2828" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, geralt — <a href="https://pixabay.com/en/users/geralt-9301/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/geralt-9301/</a></figcaption>
 </figure>
 </div>
@@ -332,7 +338,7 @@ Un rompecabezas, ¿no?</div>
 <p id="1ba1" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph=""><em class="qw">¿Votarías por alguien que no te promete nada, por miedo de no cumplir?</em></p>
 <p id="e7d2" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">Es como va el dicho, <em class="qw">«es más fácil pedir perdón que permiso».</em></p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/3.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/3-xs.png 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-sm.png 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-md.png 768w"  alt="" width="3535" height="3535">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/3.png" alt="" width="3535" height="3535" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Vecteezy, Poop Emoticon Vectors — <a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a></figcaption>
 </figure>
 <div class="r nx p q l m">
@@ -384,7 +390,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/4.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/4-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-md.jpeg 768w"  alt="" width="4000" height="2689">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/4.jpeg" alt="" width="4000" height="2689" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Clem Onojeghuo — <a href="https://www.pexels.com/u/clem-onojeghuo-47503/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/u/clem-onojeghuo-47503/</a></figcaption>
 </figure>
 </div>
@@ -432,6 +438,7 @@ Un rompecabezas, ¿no?</div>
         </author>
         <link href="https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo.html"/>
         <id>https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2019-08-23T18:17:27-04:00</updated>
@@ -443,7 +450,7 @@ Un rompecabezas, ¿no?</div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">¿Quiénes son los conductores que amenazan el camino que recorremos este verano?</h3>
 <p id="5faf" data-selectable-paragraph="">El verano en Chile (o cualquier lugar) es un tiempo especial. La gente deja las cadenas del trabajo atrás para disfrutar tiempo libre. Y muchos de ustedes viajan a lugares lejos de sus casas para veranear en la playa. Y manejan hasta acá.</p>
 <p id="8566" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">Tal vez seas la excepción, pero es probable que te odie.</p>
@@ -453,7 +460,7 @@ Un rompecabezas, ¿no?</div>
 <section class="gc gd ge gf gg">
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/1.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/1-xs.png 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-sm.png 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-md.png 768w"  alt="" width="2318" height="1710">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/1.png" alt="" width="2318" height="1710" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, hauteteazedesigns — <a href="https://pixabay.com/en/users/hauteteazedesigns-2974539/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/hauteteazedesigns-2974539/</a></figcaption>
 </figure>
 </div>
@@ -465,7 +472,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/2.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/2-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-md.jpeg 768w"  alt="" width="4000" height="2666">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/2.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-md.webp 768w">
 <figcaption >Put your caption here</figcaption>
 </figure>
 </div>
@@ -477,7 +484,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/3.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/3-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-md.jpeg 768w"  alt="" width="1280" height="688">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/3.jpeg" alt="" width="1280" height="688" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Freestocks — <a href="http://freestocks.org/photo/man-driving-rainy-day/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">http://freestocks.org/photo/man-driving-rainy-day/</a></figcaption>
 </figure>
 </div>
@@ -490,7 +497,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/4.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/4-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-md.jpeg 768w"  alt="" width="4000" height="2666">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/4.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Breakingpic — <a href="https://www.pexels.com/u/breakingpic/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/u/breakingpic/</a></figcaption>
 </figure>
 </div>
@@ -502,7 +509,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/5.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/5-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-md.jpeg 768w"  alt="" width="4000" height="2666">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/5.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Unsplash — <a href="https://www.pexels.com/photo/man-s-right-face-147433/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/photo/man-s-right-face-147433/</a></figcaption>
 </figure>
 </div>
@@ -516,7 +523,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/6.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/6-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-md.jpeg 768w"  alt="" width="1281" height="557">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/6.jpeg" alt="" width="1281" height="557" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-md.webp 768w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Argentina, Y2K — <a href="http://www.plateshack.com/y2k/Argentina/argentinay2k.html" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">http://www.plateshack.com/y2k/Argentina/argentinay2k.html</a> (con un pequeño cambio mío…)</figcaption>
 </figure>
 </div>
@@ -542,6 +549,7 @@ Un rompecabezas, ¿no?</div>
         </author>
         <link href="https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile.html"/>
         <id>https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2019-08-22T19:27:29-04:00</updated>
@@ -553,7 +561,7 @@ Un rompecabezas, ¿no?</div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="ao cx lh li at">Un instructivo ilustrado de cómo emitir un voto en las elecciones chilenas.</h3>
 <section class="jm jn jo jp jq">
 <div class="ae kn ab dn v w">
@@ -595,7 +603,7 @@ Un rompecabezas, ¿no?</div>
 <h3 id="4e8a" class="mz na ee ap ao ca nb nc nd ne nf ng nh ni nj nk nl">Entonces, <em class="oz">¿cómo es la cuestión?</em></h3>
 <p id="eba4" class="md me ee ap mf b mg nm mi nn mk no mm np mo nq mq" data-selectable-paragraph="">Ok, ya que establecimos cuáles son los tipos de votos y aclaramos un poco el mítico <strong class="mf ki"><em class="oi">voto blanco</em></strong>, viene la carne de la misiva: ¿cómo se hace el voto? Para ilustrar el asunto, fui a la fiel fuente de información digital: Wikipedia. Allí encontré un ejemplar del voto presidencial de 2013.</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1-xs.png 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-sm.png 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-md.png 768w"  alt="" width="964" height="936">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-md.webp 768w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -608,14 +616,14 @@ Un rompecabezas, ¿no?</div>
 <p id="bf5d" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">Para nuestra lección de hoy, vamos a editarlo un poco (¡gracias, Photoshop!), cambiando el año al actual —2017— y agregando los nombres de personajes que actualmente suenan como posibles candidatos.</p>
 <p id="7b45" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">De hecho… os nombres han sido cambiados para proteger la integridad (si existe) de las personas originales. Pero seguro que van a cachar…</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1_In-scCfNQNAID3__Jne7uw.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-xs.png 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-sm.png 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-md.png 768w"  alt="" width="964" height="936">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1_In-scCfNQNAID3__Jne7uw.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-md.webp 768w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
 <p id="bbcb" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">La otra cosa que necesitamos es el dibujo emblemático para indicar que nuestra cédula es un <strong class="mf ki"><em class="oi">voto blanco</em></strong> o un <strong class="mf ki"><em class="oi">voto nulo</em></strong>. En Chile, hay una formación anatómica que algunos genios escriben en forma de chiste o protesta.</p>
 <p id="fc26" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">No aparecerá dicho jeroglífico, porque se podría ofender las sensibilidades de algunos. En su lugar, quiero proponer el siguiente vehículo interestelar:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/3.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/3-xs.png 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-sm.png 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-md.png 768w"  alt="" width="312" height="311">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/3.png" alt="" width="312" height="311" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-md.webp 768w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Icons hecho por <a href="http://www.flaticon.com/authors/vectors-market" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">Vectors Market</a> from <a href="http://www.flaticon.com/" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">Flaticons.com</a> autorizado por <a href="http://creativecommons.org/licenses/by/3.0/" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">CC 3.0 BY</a>.</figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -632,7 +640,7 @@ Un rompecabezas, ¿no?</div>
 </blockquote>
 <p id="350d" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Como así:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/4.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/4-xs.png 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-sm.png 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-md.png 768w"  alt="" width="964" height="936">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/4.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-md.webp 768w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -650,10 +658,10 @@ Un rompecabezas, ¿no?</div>
 <p id="a8c3" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Ahora tiene que tener ojo, porque el voto blanco también puede tener un dibujito en el espacio, lejos de las preferencias claras. Sin embargo, si la marca/dibujito se acerca una de las opciones, tu voto se puede convertir en «contestado».</p>
 <p id="a4e2" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">Entonces, consideramos dos formas de la cédula del voto en blanco:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/1.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/1-thumbnail.png" alt="" width="768" height="746"></a>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/1.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/1-thumbnail.webp" alt="" width="768" height="746"></a>
 <figcaption class="gallery-description">Arriba: Voto evidentemente blanco. Créditos del imagen: Wikipedia, Voto presidente 2013.png, altamente editado por el autor. https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/5.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/5-thumbnail.png" alt="" width="768" height="746"></a>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/5.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/5-thumbnail.webp" alt="" width="768" height="746"></a>
 <figcaption class="gallery-description">Oto blanco, sin una preferencia claramente notada. Sin embargo, podría ser «contestados» por la cercanía del nave espacial a unos nombres. Créditos del imagen: Wikipedia, Voto presidente 2013.png, altamente editado por el autor. https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</figcaption>
 </figure>
 </div></div>
@@ -670,7 +678,7 @@ Un rompecabezas, ¿no?</div>
 </blockquote>
 <p id="2f56" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Se va al chancho más de un <em class="oi">shiiileno</em> en anular su voto. A continuación:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/6.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/6-xs.png 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-sm.png 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-md.png 768w"  alt="" width="964" height="936">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/6.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-md.webp 768w">
 <figcaption >El voto nulo, en toda su gloria. <strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -693,6 +701,7 @@ Un rompecabezas, ¿no?</div>
         </author>
         <link href="https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo.html"/>
         <id>https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2019-08-22T19:14:15-04:00</updated>
@@ -704,7 +713,7 @@ Un rompecabezas, ¿no?</div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <section class="gc gd ge gf gg">
 <div class="r oy p q l m">
 <div>
@@ -734,7 +743,7 @@ Un rompecabezas, ¿no?</div>
 <div class="r oy p q l m">
 <h3 id="f91c" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb"><strong class="bi">Entra: Juanita Pérez</strong></h3>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/1.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/1-xs.png 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-sm.png 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-md.png 768w"  alt="" width="256" height="256">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/1.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-md.webp 768w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -743,7 +752,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as lr">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/2.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/2-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-md.jpeg 768w"  alt="" width="4000" height="2482">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/2.jpeg" alt="" width="4000" height="2482" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-md.webp 768w">
 <figcaption >Créditos del imagen: Pixabay, Ramdlon — <a href="https://pixabay.com/en/users/Ramdlon-710044/" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Ramdlon-710044/</a></figcaption>
 </figure>
 </div>
@@ -752,7 +761,7 @@ Un rompecabezas, ¿no?</div>
 <p id="a292" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Los nombres <strong class="ic qd"><em class="jf">Bellier</em></strong> y <strong class="ic qd"><em class="jf">Piñata</em></strong> suenan juntos casi todos los días, así que Juanita empieza juntar la idea de los dos en su mente. Después de unas semanas (como la Sra. Juanita no solo vive en una burbuja sino también tiene que trabajar fuera de casa, volver a casa y ayudar a criar a sus tres hijos, dos hijos y marido) Juanita ya tiene instalada en su atención no solo que <strong class="ic qd"><em class="jf">Bellier</em></strong> y <strong class="ic qd"><em class="jf">Piñata</em></strong> son candidatos (en el momento de escribir este artículo, solo <strong class="ic qd"><em class="jf">Bellier</em></strong> se proclamó candidato; <strong class="ic qd"><em class="jf">Piñata</em></strong> todavía no) sino que <strong class="ic qd">esos probablemente serán los únicos candidatos</strong>.</p>
 <p id="1110" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Una transición de ideas súper sublímenos y sutil, ¿no?</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/3.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/3-xs.png 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-sm.png 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-md.png 768w"  alt="" width="256" height="256">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/3.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-md.webp 768w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -784,7 +793,7 @@ Un rompecabezas, ¿no?</div>
 <p id="2c09" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Además, esta falacia lógica se convirtió en una forma de <strong class="ic qd"><em class="jf">profecía autocumplida</em></strong>, porque ellas terminaron siendo las dos ganadoras (Bachelet, por supuesto, ganó).</p>
 <p id="8b54" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">En la elección anterior, nuestra heroína —Juanita Pérez— se identificaba con la n.° 5, Roxanda Miranda. Le gustó su manera directa y sin compromiso de hablar con la gente. Sin embargo, las encuestas —esas malditas estadísticas que no significan nada, que significan todo— no le daban mucha cuerda a la pobre Roxana. Según las encuestas, muy poca gente iba a votar por Roxana.</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/4.png" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/4-xs.png 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-sm.png 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-md.png 768w"  alt="" width="256" height="256">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/4.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-md.webp 768w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -797,7 +806,7 @@ Un rompecabezas, ¿no?</div>
 <section class="gc gd ge gf gg">
 <div class="gi">
 <div class="as lr">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/5.jpeg" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/5-xs.jpeg 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-sm.jpeg 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-md.jpeg 768w"  alt="" width="3112" height="2078">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/5.jpeg" alt="" width="3112" height="2078" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-md.webp 768w">
 <figcaption >Créditos del imagen: Pixabay, Wokandapix — <a href="https://pixabay.com/en/users/Wokandapix-614097/" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Wokandapix-614097/</a></figcaption>
 </figure>
 </div>
@@ -869,6 +878,7 @@ Un rompecabezas, ¿no?</div>
         </author>
         <link href="https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida.html"/>
         <id>https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida.html</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" medium="image" />
             <category term="Escritos"/>
 
         <updated>2019-08-22T19:04:26-04:00</updated>
@@ -880,7 +890,7 @@ Un rompecabezas, ¿no?</div>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" alt="" />
+                    <p><img src="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <div id="5310" class="ha hb bx bt bs fq pj pk pl pm pn po he">
 <h3 class="bs fq hc pp bx">Chicle mental, directo de Steven Wright</h3>
 <p>Steven Wright ha llegado a la fama —si uno existe en la Wikipedia, así debe ser—. Una breve introducción, para quienes no lo reconocen o ha escuchado de su trabajo:</p>
