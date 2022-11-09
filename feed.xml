@@ -3,7 +3,7 @@
     <title>ES - elmikewalsh</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2022-10-28T12:54:10-03:00</updated>
+    <updated>2022-11-09T11:22:50-03:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -83,18 +83,18 @@
         </author>
         <link href="https://www.elmikewalsh.com/a-few-words-about-me.html"/>
         <id>https://www.elmikewalsh.com/a-few-words-about-me.html</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" medium="image" />
+        <media:content url="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" medium="image" />
 
-        <updated>2022-10-28T12:54:10-03:00</updated>
+        <updated>2022-11-09T11:22:50-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" alt="" />
+                        <img src="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" alt="" />
                     Lo escencial ¡Hola y bienvenidos a mi sitio web! Si llegaste hasta aquí probablemente podrías adivinar que me llamo Mike (Michael) Walsh, y soy un ser humano de verdad! Nací y viví en Westmont, Illinous, una ciudad en el centro-norte de los EUA durante los&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/17/new-bio-pic-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" class="type:primaryImage" alt="" /></p>
                 <h3>Lo escencial</h3>
 <p>¡Hola y bienvenidos a mi sitio web! Si llegaste hasta aquí probablemente podrías adivinar que me llamo Mike (Michael) Walsh, y soy un ser humano de verdad!</p>
 <p>Nací y viví en Westmont, Illinous, una ciudad en el centro-norte de los EUA durante los primeros 30-algo años de mi vida.  Durante mi estadía en la U, tuve la oportunidad de pasar 3 meses en el centro-sur de Chile, en una ciudad llamado San Pedro de la Paz (que se ubica al lado de una ciudad aún más grande, llamado Concepción).</p>
