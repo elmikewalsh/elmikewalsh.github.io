@@ -1,63 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>ES - elmikewalsh</title>
-    <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
-    <link href="https://www.elmikewalsh.com" />
-    <updated>2023-04-19T18:08:53-04:00</updated>
+    <title>2023-ES-elmikewalsh</title>
+    <link href="https://en.elmikewalsh.com/feed.xml" rel="self" />
+    <link href="https://en.elmikewalsh.com" />
+    <updated>2023-11-03T17:45:47-04:00</updated>
     <author>
-        <name>Mike</name>
+        <name>elmikewalsh</name>
     </author>
-    <id>https://www.elmikewalsh.com</id>
+    <id>https://en.elmikewalsh.com</id>
 
     <entry>
-        <title>Cositas técnicas</title>
+        <title>Oda al Whisky</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/cositas-tecnicas/"/>
-        <id>https://www.elmikewalsh.com/cositas-tecnicas/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" medium="image" />
-
-        <updated>2022-10-24T16:48:07-03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" alt="" />
-                    Este sitio web fue creado y publicado usando Publii, un generador de sitios web estáticos. No me pagan por mencionarlo - simplemente creo que tienen un producto super-mega-bacan. :) Este sitio está almacenado en GitHub, donde tengo una cuenta con proyectos que puedes mirar, por si te gusta cosas&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/25/binary-code-475664.jpg" class="type:primaryImage" alt="" /></p>
-                <blockquote>
-<p>Este sitio web fue creado y publicado usando <a href="http://getpublii.com" target="_blank" rel="noopener noreferrer">Publii</a>, un generador de sitios web estáticos. No me pagan por mencionarlo - simplemente creo que tienen un producto super-mega-bacan.  :)</p>
-</blockquote>
-<blockquote>
-<p>Este sitio está almacenado en <a href="http://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a>, donde <a href="http://github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">tengo una cuenta</a> con proyectos que puedes mirar, por si te gusta cosas códigos sabor a nerd.</p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Oda al whisky</title>
-        <author>
-            <name>Mike</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/oda-al-whiskey/"/>
-        <id>https://www.elmikewalsh.com/oda-al-whiskey/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" medium="image" />
-            <category term="Todos Los Artículos"/>
+        <link href="https://en.elmikewalsh.com/oda-al-whisky/"/>
+        <id>https://en.elmikewalsh.com/oda-al-whisky/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/20/whiskey2.jpg" medium="image" />
             <category term="Humor"/>
+            <category term="Everything"/>
 
-        <updated>2023-04-12T18:37:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" alt="" />
-                    Algunas reflexiones acerca del líquido mágico que es el whisky. Es malo tener demasiado de cualquier cosa, pero demasiado buen whiskey es apenas suficiente. - Mark Twain A mí me gusta los whiskeys viejos y las mujeres jóvenes. - Errol Flynn Whiskey es el brillo&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T15:32:03-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/24/whiskey1.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/20/whiskey2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Algunas reflexiones acerca del líquido mágico que es el whisky.</p>
 <blockquote>
 <p>Es malo tener demasiado de cualquier cosa, pero demasiado buen whiskey es apenas suficiente. - Mark Twain</p>
@@ -78,169 +45,21 @@
         </content>
     </entry>
     <entry>
-        <title>Unas palabras sobre mi</title>
-        <author>
-            <name>Mike</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/unas-palabras-sobre-mi/"/>
-        <id>https://www.elmikewalsh.com/unas-palabras-sobre-mi/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" medium="image" />
-
-        <updated>2023-04-19T18:08:53-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" alt="" />
-                    En Pocas Palabras... Si pudiera resumirlo todo en unas 100 palabras o menos... probablemente (desafortunadamente) terminaría usando unas 1000. Nacido y criado en Westmont, Illinois, (en la parte norte central de los Estados Unidos) durante los primeros 30-tantos años de vida. Durante este tiempo, pasé&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/17/new-about-photo.jpg" class="type:primaryImage" alt="" /></p>
-                <h3>En Pocas Palabras...</h3>
-<p>Si pudiera resumirlo todo en unas 100 palabras o menos... probablemente (desafortunadamente) terminaría usando unas 1000.</p>
-<p>Nacido y criado en Westmont, Illinois, (en la parte norte central de los Estados Unidos) durante los primeros 30-tantos años de vida. Durante este tiempo, pasé por la rutina de la escuela secundaria y también pasé por la universidad. Durante mi etapa universitaria aprendería varias cosas, pero dos experiencias en particular marcarían el futuro</p>
-<ol>
-<li>Tuve la oportunidad de pasar 3 meses en el centro sur de Chile, en una ciudad que se llama San Pedro de la Paz (que está al lado de Concepción, una ciudad aún más grande).</li>
-<li>Descubrí el laboratorio de computación en el sótano del alojamiento para estudiantes.</li>
-</ol>
-<p>Es la pura verdad. Me fascinó la World Wide Web. Estamos hablando de los primeros años, estamos hablando de 1997, iba al sótano donde estaba el laboratorio de computación y buscaba "Cómo crear un sitio web" en Internet. En tiempos pre-Google (AltaVista para los ancianos). Como era un estudiante universitario pobre, el único almacenamiento para un sitio que podía acceder era... (suspenso)... <a href="https://es.wikipedia.org/wiki/GeoCities" target="_blank" rel="noopener noreferrer">GeoCities</a> (colócame el cono de la vergüenza).</p>
-<p>Poco a poco, a medida que pasaban los años, me volví más hábil en el diseño y la codificación. En lugar de salir a los bares, daba mis primeros pasos aprendiendo CSS, HTML, PHP...</p>
-<p>También descubrí que, una vez que aprendo cómo hacer algo, disfruto explicando cómo funciona a otras personas. Aquí es donde entra en juego la parte del "amor pedagógico" de mi educación, supongo.</p>
-<p>Bueno, una vez que terminó la parte universitaria de la vida, pasaron unos años para descubrir qué (o dónde) quería hacer esta cosa de la "vida". Así que tomé la loca decisión de mudarme a Chile.</p>
-<hr>
-<h3>La Aventura Sureña</h3>
-<p>El proceso real de mudarme a Chile fue laaaaargo e involucró dormir (si así se puede llamarlo) en el aeropuerto de Atlanta y el vuelo de 14 horas con todas mis pertenencias.</p>
-<p>Pero una vez que llegué a Chile, las cosas mejoraron rápidamente. Empecé a trabajar en un instituto en la ciudad de Chillán, lo que me conectó con muchas personas maravillosas (entre ellas mi esposa). ¡Y 2 años después nació nuestra hija! =)</p>
-<p>Un extraño giro de eventos me llevó a trabajar con TeachingChile, la empresa que me dio un punto de entrada en Chile. Empecé trabajando como freelance en actualizaciones periódicas del sitio web, mientras también trabajaba como freelance bajo el nombre de <a href="https://www.imaginalgo.com" target="_blank" rel="noopener noreferrer">Imaginalgo</a>. y me uní al equipo de TeachingChile a principios de 2012. Esta fue mi primera experiencia con el "trabajo remoto". Al mismo tiempo, terminé de trabajar en un instituto presencial (de idiomas) en Valdivia; hasta el día de hoy, ha sido el último trabajo al que tuve que irme en forma presencial.</p>
-<hr>
-<h3>El Cambio Hacia El Diseño</h3>
-<p>Pronto me buscó otro instituto de idiomas que me ofreció la oportunidad de dar clases a través de Internet. Continué con estos dos trabajos remotos durante los siguientes años. En 2017 cambié de rumbo y comencé a trabajar con <a href="https://www.optuno.com" target="_blank" rel="noopener noreferrer">Optuno</a> como diseñador web y luego como gerente de proyectos, lo que sigo disfrutando hasta ahora.</p>
-<hr>
-<p>¿Buscando como hacer contacto? Envíame un email: <strong>hola [arroba] elmikewalsh [punto] com</strong>.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mi CV</title>
-        <author>
-            <name>Mike</name>
-        </author>
-        <link href="https://www.elmikewalsh.com/mi-cv/"/>
-        <id>https://www.elmikewalsh.com/mi-cv/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" medium="image" />
-
-        <updated>2023-04-18T18:08:03-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" alt="" />
-                    2017- actual Diseñador / Gestor De Proyectos - Optuno Ayudo a Optuno crear sitios web desde cero, personalizar sitios desde plantillas y manejo contenidos y peticiones de clients junto on un equipo maravilloso remote en todas partes del mundo. Construyo cosas digitales interesantes y entretenidos&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/10/bw-resume.jpg" class="type:primaryImage" alt="" /></p>
-                <blockquote>
-<h5><em>2017- actual</em></h5>
-<h3>Diseñador / Gestor De Proyectos - Optuno</h3>
-<p>Ayudo a Optuno crear sitios web desde cero, personalizar sitios desde plantillas y manejo contenidos y peticiones de clients junto on un equipo maravilloso remote en todas partes del mundo.</p>
-</blockquote>
-<blockquote>
-<h5><em>222 - actual</em></h5>
-<h3>Front-End Diseñador y Desarrollador - <a href="https://www.yowalsh.com" target="_blank" rel="noopener noreferrer">yo walsh!</a></h3>
-<p>Construyo cosas digitales interesantes y entretenidos desde las afueras de Villarrica, Chile para clientes nacionales e internacionales. Mis proyectos preferidos suelen ser sitios web, pero también trabajo con diseños gráficos para impresión, como libros, etiquetas y tarjetas de presentación.</p>
-</blockquote>
-<blockquote>
-<h5><em>2007 - 2022</em></h5>
-<h3>Diseñador De Productos Y Experiencias Digitales - Imaginalgo</h3>
-<p>Diseño sitios web y diseños imprentas para libros/e-libros, tarjetas de presentación, etc. Mi especialidad principal es diseño y código limpio, rápido y organizado que se mantendrá vigente pese a cambios en la moda.</p>
-</blockquote>
-<blockquote>
-<h5><em>2012 - 2020</em></h5>
-<h3>Coordinador De Programas - TeachingChile</h3>
-<p>Coordinator de programas. Encargado del diseño, desarrollo, expansión y mantención del sitio web, publicidad y presencia digital de TeachingChile.</p>
-</blockquote>
-<blockquote>
-<h5><em>2015-2018</em></h5>
-<h3>Profesor De Inglés - eClass</h3>
-<p>Ejecuto clases en vivo por internet de todos niveles, desde los primeros pasos en inglés hasta lo más avanzados de la compañía. Desempeño muy bien en mi trabajo y mis coordinadores me consideran muy confiable.</p>
-</blockquote>
-<blockquote>
-<h5><em>2010 - 2012</em></h5>
-<h3>Profesor De Inglés - Wall St. English, Valdivia, Chile</h3>
-<p>Responsable para el desarrollo de todos niveles de inglés, en clases de 1 a 4 alumnos. También llevé a cabo clases de apoyo de lenguaje y conversación.</p>
-</blockquote>
-<blockquote>
-<h5><em>2007 - 2008</em></h5>
-<h3>Profesor De Español - Teutopolis H.S., EUA</h3>
-<p>Diseñé, desarrollé y utilicé material para estudiantes de español de primer y segundo año para crear un ambiente dinámico y una presentación multidisciplinaria de la cultura e idioma español.</p>
-</blockquote>
-<h2 class="align-center">Proyectos de diseño y desarrollo</h2>
-<hr>
-<blockquote>
-<h3><a href="https://www.imaginalgo.com/proyecto/multiuso-app-movil.html" target="_blank" rel="noopener noreferrer">Publii CMS: Traducción Español</a></h3>
-<p>Publii es un programa increíble que facilita la creación y administración de su sitio web. Durante un mes, revisé y traduje más de 1,300 líneas de código al español, tanto para el programa principal como para el editor de texto.</p>
-</blockquote>
-<blockquote>
-<h3><a href="https://www.yowalsh.com/sitio-web-para-un-proyecto-fondart/" target="_blank" rel="noopener noreferrer">Sitio web para un proyecto Fondart</a></h3>
-<p><a href="http://www.geraldineovalle.com/" target="_blank" title="Geraldine Ovalle" rel="noopener noreferrer">Geraldine Ovalle</a> y Natalia Barría, dos ganadoras del fondo regional de las artes (Fondart) en 2014, publicaron un libro llamado <a href="https://www.yowalsh.com/libro-para-un-proyecto-patrimonio-fondart/">Huellas y Sabores de Mujeres en la Cordillera</a>. Para acompañar el lanzamiento del libro un sitio web fue diseñado para difundir más información acerca del proyecto.</p>
-</blockquote>
-<blockquote>
-<h3><a href="https://www.yowalsh.com/libro-para-un-proyecto-patrimonio-fondart/" target="_blank" rel="noopener noreferrer">Libro para un proyecto patrimonio Fondart</a></h3>
-<p>Me contrataron <a href="http://www.geraldineovalle.com/" target="_blank" rel="noopener noreferrer" title="Geraldine Ovalle">Geraldine Ovalle</a> y Natalia Barría, dos ganadoras del fondo regional de las artes (Fondart) en 2014, para hacer el diseño de su libro, Huellas y Sabores de Mujeres en la Cordillera. La idea era que este sea el primer volumen de tres, y que cada libro está unido a los otros por algunos detalles de diseño comunes. Cada volumen tratará de un sector distinto de la Región de la Araucanía: la cordillera, el valle y la mar.</p>
-</blockquote>
-<blockquote>
-<h3><a href="https://www.yowalsh.com/etiquetas-para-una-linea-de-salsas/" target="_blank" rel="noopener noreferrer">Etiquetas para una linea de salsas</a></h3>
-<p>Salsa Macca es un producto estrenado cerca del fin de 2015 por Macca Producciones, una compañía familiar de una pareja australiana-chilena que opera entre Villarrica y Pucón en el centro-sur de Chile. Su lema es “The Original and the Best!” (¡La original y la mejor!)</p>
-</blockquote>
-<blockquote>
-<h3><a href="https://www.yowalsh.com/sitio-web-moderno-y-limpio-para-profesora-y-gastronoma/" target="_blank" rel="noopener noreferrer">Sitio web moderno y limpio para profesora y gastrónoma</a></h3>
-<p>Geraldine Ovalle es una cocinera y gastrónoma que vive en el centro sur de Chile. Ella quería re diseñar su sitio web y actualizarlo con algunos de los nuevos servicios que ofrece. Geraldine también esperaba combinar en un solo sitio su historia laboral y educacional, sus escritos personales, y algunos de sus proyectos anteriores y actuales.</p>
-</blockquote>
-<blockquote>
-<h3><a href="https://www.imaginalgo.com/proyecto/tema-wp-gliding-ghost.html" target="_blank" rel="noopener noreferrer">Tema WP: Gliding Ghost WP</a></h3>
-<p>Este es mi 8° tema para WordPress. Gliding Ghost es un tema sencillo y minimista basado en el <a href="https://github.com/tomcreighton/Glider" target="_blank" rel="noopener noreferrer">tema Glider para WordPress</a> y el tema <a href="http://roryg.github.io/ghostwriter/" target="_blank" rel="noopener noreferrer">Ghostwriter</a> para Ghost CMS.</p>
-</blockquote>
-<h2 class="align-center">Educación</h2>
-<hr>
-<blockquote>
-<h5><em>2007 - 2008</em></h5>
-<h3>Programa Alternativa A Certificación De Pedagogía (Español)</h3>
-<p>Eastern Illinois University, EUA</p>
-</blockquote>
-<blockquote>
-<h5><em>1995 - 2003</em></h5>
-<h3>Licenciatura: Idiomas Extranjeros, Literatura Y Linguisticas (Español)</h3>
-<p>Eastern Illinois University, EUA</p>
-</blockquote>
-<blockquote>
-<h5><em>1995 - 2003</em></h5>
-<h3>Licenciatura: Historia - Mención En Estudios Y Ciencia Política de Latinoamérica</h3>
-<p>Eastern Illinois University, EUA</p>
-</blockquote>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>El último de los mujicanos</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos/"/>
-        <id>https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
-            <category term="Política"/>
+        <link href="https://en.elmikewalsh.com/el-ultimo-de-los-mujicanos/"/>
+        <id>https://en.elmikewalsh.com/el-ultimo-de-los-mujicanos/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
+            <category term="Político"/>
+            <category term="Everything"/>
 
-        <updated>2023-04-12T18:38:07-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" alt="" />
-                    El político coherente y honesto no es unicornio — hay uno por allá Mi invitado especial Hace una cantidad de días indeterminables, tuve una conversación con mi compañera de vida. Ella me preguntó de repente: «Si pudieras invitar a cualquier persona a la casa a&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T15:30:53-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/16/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc pp bx">El político coherente y honesto no es unicornio — hay uno por allá</h3>
 <h3 id="5c10" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb"><strong class="bi">Mi invitado especial</strong></h3>
 <p id="d711" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" data-selectable-paragraph="">Hace una cantidad de días indeterminables, tuve una conversación con mi compañera de vida. Ella me preguntó de repente:</p>
@@ -250,7 +69,7 @@
 <p id="e0ff" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">«¿Y por qué?»</p>
 <p id="5cda" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">«Bueno, en un país y en un mundo en que los políticos se ven como sirvientes de sí mismos en vez del pueblo, siento que puede ser unos de los pocos políticos honestos y coherentes que hay.»</p>
 <hr>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/1.jpeg" alt="" width="1000" height="562" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/1-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/1.jpeg" alt="" width="1000" height="562" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/1-2xl.webp 1600w">
 <figcaption ><strong class="bs oy"><strong class="bs qd">Créditos del imagen: </strong> </strong>El Municipio, <a href="http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.elmunicipio.com.do/index.php/america-latina/3762-las-42-frases-de-pepe-mujica-el-presidente-mas-querido</a></figcaption>
 </figure>
 <h3 id="a63d" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb">«<strong class="bi">El último héroe</strong>»</h3>
@@ -267,7 +86,7 @@
 <p id="cc4c" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Y ¿qué dice Mujica al respecto?</p>
 <blockquote class="wv">«<a href="http://www.emol.com/noticias/magazine/2015/05/04/715320/mujica-en-filba.html" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Yo quiero saber la verdad, pero en la justicia no creo un carajo</a>»</blockquote>
 <hr>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/16/2.jpeg" alt="" width="1000" height="562" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/16/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/16/responsive/2-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/2.jpeg" alt="" width="1000" height="562" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/16/responsive/2-2xl.webp 1600w">
 <figcaption ><strong class="bs oy"><strong class="bs qd">Créditos del imagen: </strong> </strong>NTN24, <a href="http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.ntn24.com/noticia/pepe-mujica-dice-adios-a-almagro-por-la-carta-que-envio-al-cne-sobre-situacion-de-venezuela-78294</a></figcaption>
 </figure>
 <section class="gc gd ge gf gg">
@@ -297,30 +116,24 @@ Un rompecabezas, ¿no?</div>
     <entry>
         <title>Querido votante, los árboles no te dejan ver el bosque</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/"/>
-        <id>https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
-            <category term="Política"/>
+        <link href="https://en.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/"/>
+        <id>https://en.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/23/cover-2xl.webp" medium="image" />
+            <category term="Político"/>
             <category term="Humor"/>
 
-        <updated>2023-04-12T18:37:51-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" alt="" />
-                    Cuando vote por su presidente no olvides a la gente detrás de la cortina En mi última historia exploramos en breve la elección de presidente (específicamente en Chile, pero con aplicación general) y cómo hay una falacia lógica en creer que hay solo dos opciones&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T15:29:38-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/23/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/23/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">Cuando vote por su presidente no olvides a la gente detrás de la cortina</h3>
 <p id="6e26" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">En mi última historia exploramos en breve la elección de presidente (específicamente en Chile, pero con aplicación general) y cómo hay una falacia lógica en creer que hay solo dos opciones cuando en realidad hay más. Esto se debe a varios factores, como la presión del grupo, en la que uno tiende querer votar por el «ganador» o, en realidad, por quien se percibe será el ganador, produciendo un tipo de <strong class="ou ns"><em class="qw">profecía autocumplida</em></strong> en que todos votan por quien <strong class="ou ns"><em class="qw">cree</em></strong> que ganará en vez de por quién <strong class="ou ns"><em class="qw">quiere</em></strong> que gane, así cumpliendo con las expectativas de las encuestas y expertos, y no los deseos de los votantes.</p>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/1.jpeg" alt="" width="4000" height="2506" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/1-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/1.jpeg" alt="" width="4000" height="2506" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/1-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, Pexels — <a href="https://pixabay.com/en/users/Pexels-2286921/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Pexels-2286921/</a></figcaption>
 </figure>
 </div>
@@ -332,7 +145,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/2.jpeg" alt="" width="4000" height="2828" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/2-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/2.jpeg" alt="" width="4000" height="2828" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/2-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, geralt — <a href="https://pixabay.com/en/users/geralt-9301/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/geralt-9301/</a></figcaption>
 </figure>
 </div>
@@ -349,7 +162,7 @@ Un rompecabezas, ¿no?</div>
 <p id="1ba1" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph=""><em class="qw">¿Votarías por alguien que no te promete nada, por miedo de no cumplir?</em></p>
 <p id="e7d2" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">Es como va el dicho, <em class="qw">«es más fácil pedir perdón que permiso».</em></p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/3.png" alt="" width="3535" height="3535" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/3-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/3.png" alt="" width="3535" height="3535" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/3-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Vecteezy, Poop Emoticon Vectors — <a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a></figcaption>
 </figure>
 <div class="r nx p q l m">
@@ -401,7 +214,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/23/4.jpeg" alt="" width="4000" height="2689" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/23/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/23/responsive/4-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/4.jpeg" alt="" width="4000" height="2689" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/23/responsive/4-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Clem Onojeghuo — <a href="https://www.pexels.com/u/clem-onojeghuo-47503/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/u/clem-onojeghuo-47503/</a></figcaption>
 </figure>
 </div>
@@ -445,24 +258,18 @@ Un rompecabezas, ¿no?</div>
     <entry>
         <title>Los conductores veraneantes de miedo</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo/"/>
-        <id>https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
+        <link href="https://en.elmikewalsh.com/los-conductores-veraneantes-de-miedo/"/>
+        <id>https://en.elmikewalsh.com/los-conductores-veraneantes-de-miedo/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/27/cover-2xl.webp" medium="image" />
             <category term="Humor"/>
 
-        <updated>2023-04-12T18:37:42-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" alt="" />
-                    ¿Quiénes son los conductores que amenazan el camino que recorremos este verano? El verano en Chile (o cualquier lugar) es un tiempo especial. La gente deja las cadenas del trabajo atrás para disfrutar tiempo libre. Y muchos de ustedes viajan a lugares lejos de sus&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T17:45:47-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/22/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/27/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">¿Quiénes son los conductores que amenazan el camino que recorremos este verano?</h3>
 <p id="5faf" data-selectable-paragraph="">El verano en Chile (o cualquier lugar) es un tiempo especial. La gente deja las cadenas del trabajo atrás para disfrutar tiempo libre. Y muchos de ustedes viajan a lugares lejos de sus casas para veranear en la playa. Y manejan hasta acá.</p>
 <p id="8566" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">Tal vez seas la excepción, pero es probable que te odie.</p>
@@ -472,7 +279,7 @@ Un rompecabezas, ¿no?</div>
 <section class="gc gd ge gf gg">
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/1.png" alt="" width="2318" height="1710" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/1-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/1.png" alt="" width="2318" height="1710" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/1-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pixabay, hauteteazedesigns — <a href="https://pixabay.com/en/users/hauteteazedesigns-2974539/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/hauteteazedesigns-2974539/</a></figcaption>
 </figure>
 </div>
@@ -484,7 +291,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/2.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/2-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/2.jpeg" alt="" width="4000" height="2666" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/2-2xl.webp 1600w">
 <figcaption >Put your caption here</figcaption>
 </figure>
 </div>
@@ -496,7 +303,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/3.jpeg" alt="" width="1280" height="688" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/3-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/3.jpeg" alt="" width="1280" height="688" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/3-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Freestocks — <a href="http://freestocks.org/photo/man-driving-rainy-day/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">http://freestocks.org/photo/man-driving-rainy-day/</a></figcaption>
 </figure>
 </div>
@@ -509,7 +316,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/4.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/4-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/4.jpeg" alt="" width="4000" height="2666" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/4-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Breakingpic — <a href="https://www.pexels.com/u/breakingpic/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/u/breakingpic/</a></figcaption>
 </figure>
 </div>
@@ -521,7 +328,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/5.jpeg" alt="" width="4000" height="2666" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/5-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/5.jpeg" alt="" width="4000" height="2666" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/5-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Pexels, Unsplash — <a href="https://www.pexels.com/photo/man-s-right-face-147433/" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">https://www.pexels.com/photo/man-s-right-face-147433/</a></figcaption>
 </figure>
 </div>
@@ -535,7 +342,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as kk">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/22/6.jpeg" alt="" width="1281" height="557" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/22/responsive/6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/22/responsive/6-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/6.jpeg" alt="" width="1281" height="557" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/22/responsive/6-2xl.webp 1600w">
 <figcaption ><strong class="bs ns">Créditos del imagen:</strong> Argentina, Y2K — <a href="http://www.plateshack.com/y2k/Argentina/argentinay2k.html" class="bc co nt nu nv nw" target="_blank" rel="noopener noreferrer">http://www.plateshack.com/y2k/Argentina/argentinay2k.html</a> (con un pequeño cambio mío…)</figcaption>
 </figure>
 </div>
@@ -557,25 +364,19 @@ Un rompecabezas, ¿no?</div>
     <entry>
         <title>Guía pictórica del voto en Chile</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile/"/>
-        <id>https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
-            <category term="Política"/>
+        <link href="https://en.elmikewalsh.com/guia-pictorica-del-voto-en-chile/"/>
+        <id>https://en.elmikewalsh.com/guia-pictorica-del-voto-en-chile/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/24/cover-2xl.webp" medium="image" />
+            <category term="Político"/>
             <category term="Humor"/>
 
-        <updated>2023-04-12T18:37:31-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" alt="" />
-                    Un instructivo ilustrado de cómo emitir un voto en las elecciones chilenas. Cada vez que haya una elección, surge la confusión: en qué consiste un voto válido, blanco, y nulo. Quiero dejar el tema un poco más claro, ya que llevo más de 8 años&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T17:20:39-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/21/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/24/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="ao cx lh li at">Un instructivo ilustrado de cómo emitir un voto en las elecciones chilenas.</h3>
 <section class="jm jn jo jp jq">
 <div class="ae kn ab dn v w">
@@ -617,7 +418,7 @@ Un rompecabezas, ¿no?</div>
 <h3 id="4e8a" class="mz na ee ap ao ca nb nc nd ne nf ng nh ni nj nk nl">Entonces, <em class="oz">¿cómo es la cuestión?</em></h3>
 <p id="eba4" class="md me ee ap mf b mg nm mi nn mk no mm np mo nq mq" data-selectable-paragraph="">Ok, ya que establecimos cuáles son los tipos de votos y aclaramos un poco el mítico <strong class="mf ki"><em class="oi">voto blanco</em></strong>, viene la carne de la misiva: ¿cómo se hace el voto? Para ilustrar el asunto, fui a la fiel fuente de información digital: Wikipedia. Allí encontré un ejemplar del voto presidencial de 2013.</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/1.png" alt="" width="964" height="936" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1-2xl.webp 1600w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -630,14 +431,14 @@ Un rompecabezas, ¿no?</div>
 <p id="bf5d" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">Para nuestra lección de hoy, vamos a editarlo un poco (¡gracias, Photoshop!), cambiando el año al actual —2017— y agregando los nombres de personajes que actualmente suenan como posibles candidatos.</p>
 <p id="7b45" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">De hecho… os nombres han sido cambiados para proteger la integridad (si existe) de las personas originales. Pero seguro que van a cachar…</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/1_In-scCfNQNAID3__Jne7uw.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/1_In-scCfNQNAID3__Jne7uw.png" alt="" width="964" height="936" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/1_In-scCfNQNAID3__Jne7uw-2xl.webp 1600w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
 <p id="bbcb" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">La otra cosa que necesitamos es el dibujo emblemático para indicar que nuestra cédula es un <strong class="mf ki"><em class="oi">voto blanco</em></strong> o un <strong class="mf ki"><em class="oi">voto nulo</em></strong>. En Chile, hay una formación anatómica que algunos genios escriben en forma de chiste o protesta.</p>
 <p id="fc26" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">No aparecerá dicho jeroglífico, porque se podría ofender las sensibilidades de algunos. En su lugar, quiero proponer el siguiente vehículo interestelar:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/3.png" alt="" width="312" height="311" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/3-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/3.png" alt="" width="312" height="311" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/3-2xl.webp 1600w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Icons hecho por <a href="http://www.flaticon.com/authors/vectors-market" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">Vectors Market</a> from <a href="http://www.flaticon.com/" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">Flaticons.com</a> autorizado por <a href="http://creativecommons.org/licenses/by/3.0/" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">CC 3.0 BY</a>.</figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -654,7 +455,7 @@ Un rompecabezas, ¿no?</div>
 </blockquote>
 <p id="350d" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Como así:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/4.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/4-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/4.png" alt="" width="964" height="936" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/4-2xl.webp 1600w">
 <figcaption ><strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -672,10 +473,10 @@ Un rompecabezas, ¿no?</div>
 <p id="a8c3" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Ahora tiene que tener ojo, porque el voto blanco también puede tener un dibujito en el espacio, lejos de las preferencias claras. Sin embargo, si la marca/dibujito se acerca una de las opciones, tu voto se puede convertir en «contestado».</p>
 <p id="a4e2" class="md me ee ap mf b mg mh mi mj mk ml mm mn mo mp mq" data-selectable-paragraph="">Entonces, consideramos dos formas de la cédula del voto en blanco:</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/1.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/1-thumbnail.webp" alt="" width="768" height="746"></a>
+<figure class="gallery__item"><a href="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/gallery/1.png" data-size="964x936"><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/gallery/1-thumbnail.webp" alt="" width="768" height="746"></a>
 <figcaption class="gallery-description">Arriba: Voto evidentemente blanco. Créditos del imagen: Wikipedia, Voto presidente 2013.png, altamente editado por el autor. https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.com/media/posts/21/gallery/5.png" data-size="964x936"><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/gallery/5-thumbnail.webp" alt="" width="768" height="746"></a>
+<figure class="gallery__item"><a href="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/gallery/5.png" data-size="964x936"><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/gallery/5-thumbnail.webp" alt="" width="768" height="746"></a>
 <figcaption class="gallery-description">Oto blanco, sin una preferencia claramente notada. Sin embargo, podría ser «contestados» por la cercanía del nave espacial a unos nombres. Créditos del imagen: Wikipedia, Voto presidente 2013.png, altamente editado por el autor. https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</figcaption>
 </figure>
 </div></div>
@@ -692,7 +493,7 @@ Un rompecabezas, ¿no?</div>
 </blockquote>
 <p id="2f56" class="md me ee ap mf b mg ou mi ov mk ow mm ox mo oy mq" data-selectable-paragraph="">Se va al chancho más de un <em class="oi">shiiileno</em> en anular su voto. A continuación:</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/21/6.png" alt="" width="964" height="936" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/21/responsive/6-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/21/responsive/6-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/6.png" alt="" width="964" height="936" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/21/responsive/6-2xl.webp 1600w">
 <figcaption >El voto nulo, en toda su gloria. <strong class="ao ki">Créditos del imagen:</strong> Wikipedia, Voto presidente 2013.png, altamente editado por el autor. <a href="https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png" class="dd bt kj kk kl km" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Archivo:Voto_presidente_2013.png</a></figcaption>
 </figure>
 <div class="ae kn ab dn v w">
@@ -711,25 +512,19 @@ Un rompecabezas, ¿no?</div>
     <entry>
         <title>Llegó otro año electoral: ¿Lo vas a cagar de nuevo?</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/"/>
-        <id>https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
-            <category term="Política"/>
+        <link href="https://en.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/"/>
+        <id>https://en.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/25/cover-2xl.webp" medium="image" />
+            <category term="Político"/>
             <category term="Humor"/>
 
-        <updated>2023-04-12T18:37:01-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" alt="" />
-                    Los votantes estadounidenses ya dejaron la mansaca en su elección. No dejamos la misma mancha de mierda aquí Probablemente has vivido durante una elección gubernamental. Incluso, hay una alta probabilidad de que hayas participado en una (o lo harás luego). Y, apuesto que, pese a&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T17:34:31-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/20/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/25/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <section class="gc gd ge gf gg">
 <div class="r oy p q l m">
 <div>
@@ -759,7 +554,7 @@ Un rompecabezas, ¿no?</div>
 <div class="r oy p q l m">
 <h3 id="f91c" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb"><strong class="bi">Entra: Juanita Pérez</strong></h3>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/1.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/1-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/1.png" alt="" width="256" height="256" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/1-2xl.webp 1600w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -768,7 +563,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 <div class="gi">
 <div class="as lr">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/2.jpeg" alt="" width="4000" height="2482" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/2-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/2.jpeg" alt="" width="4000" height="2482" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/2-2xl.webp 1600w">
 <figcaption >Créditos del imagen: Pixabay, Ramdlon — <a href="https://pixabay.com/en/users/Ramdlon-710044/" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Ramdlon-710044/</a></figcaption>
 </figure>
 </div>
@@ -777,7 +572,7 @@ Un rompecabezas, ¿no?</div>
 <p id="a292" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Los nombres <strong class="ic qd"><em class="jf">Bellier</em></strong> y <strong class="ic qd"><em class="jf">Piñata</em></strong> suenan juntos casi todos los días, así que Juanita empieza juntar la idea de los dos en su mente. Después de unas semanas (como la Sra. Juanita no solo vive en una burbuja sino también tiene que trabajar fuera de casa, volver a casa y ayudar a criar a sus tres hijos, dos hijos y marido) Juanita ya tiene instalada en su atención no solo que <strong class="ic qd"><em class="jf">Bellier</em></strong> y <strong class="ic qd"><em class="jf">Piñata</em></strong> son candidatos (en el momento de escribir este artículo, solo <strong class="ic qd"><em class="jf">Bellier</em></strong> se proclamó candidato; <strong class="ic qd"><em class="jf">Piñata</em></strong> todavía no) sino que <strong class="ic qd">esos probablemente serán los únicos candidatos</strong>.</p>
 <p id="1110" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Una transición de ideas súper sublímenos y sutil, ¿no?</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/3.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/3-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/3.png" alt="" width="256" height="256" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/3-2xl.webp 1600w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -809,7 +604,7 @@ Un rompecabezas, ¿no?</div>
 <p id="2c09" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Además, esta falacia lógica se convirtió en una forma de <strong class="ic qd"><em class="jf">profecía autocumplida</em></strong>, porque ellas terminaron siendo las dos ganadoras (Bachelet, por supuesto, ganó).</p>
 <p id="8b54" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">En la elección anterior, nuestra heroína —Juanita Pérez— se identificaba con la n.° 5, Roxanda Miranda. Le gustó su manera directa y sin compromiso de hablar con la gente. Sin embargo, las encuestas —esas malditas estadísticas que no significan nada, que significan todo— no le daban mucha cuerda a la pobre Roxana. Según las encuestas, muy poca gente iba a votar por Roxana.</p>
 </div>
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/4.png" alt="" width="256" height="256" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/4-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/4.png" alt="" width="256" height="256" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/4-2xl.webp 1600w">
 <figcaption >Créditos del imagen: <a href="https://www.vecteezy.com/vector-art/126996-mommy-emotions-expression-vector" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">Mommy Emotions Expression Vector, Vecteezy</a></figcaption>
 </figure>
 <div class="r oy p q l m">
@@ -822,7 +617,7 @@ Un rompecabezas, ¿no?</div>
 <section class="gc gd ge gf gg">
 <div class="gi">
 <div class="as lr">
-<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/20/5.jpeg" alt="" width="3112" height="2078" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://www.elmikewalsh.com/media/posts/20/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/20/responsive/5-md.webp 768w">
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/5.jpeg" alt="" width="3112" height="2078" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/20/responsive/5-2xl.webp 1600w">
 <figcaption >Créditos del imagen: Pixabay, Wokandapix — <a href="https://pixabay.com/en/users/Wokandapix-614097/" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Wokandapix-614097/</a></figcaption>
 </figure>
 </div>
@@ -890,25 +685,18 @@ Un rompecabezas, ¿no?</div>
     <entry>
         <title>20 observaciones ironisecos sobre la vida</title>
         <author>
-            <name>Mike</name>
+            <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/"/>
-        <id>https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/</id>
-        <media:content url="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" medium="image" />
-            <category term="Todos Los Artículos"/>
-            <category term="Política"/>
+        <link href="https://en.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/"/>
+        <id>https://en.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/26/cover-2xl-2.webp" medium="image" />
             <category term="Humor"/>
 
-        <updated>2023-04-12T18:37:24-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" alt="" />
-                    Chicle mental, directo de Steven Wright Steven Wright ha llegado a la fama —si uno existe en la Wikipedia, así debe ser—. Una breve introducción, para quienes no lo reconocen o ha escuchado de su trabajo: Steven Alexander Wright es un cómico, actor, escritor, y&hellip;
-                ]]>
-            </summary>
+        <updated>2023-11-03T17:39:53-04:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.com/media/posts/19/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://en.elmikewalsh.com/media/posts/26/cover-2xl-2.webp" class="type:primaryImage" alt="" /></p>
                 <div id="5310" class="ha hb bx bt bs fq pj pk pl pm pn po he">
 <h3 class="bs fq hc pp bx">Chicle mental, directo de Steven Wright</h3>
 <p>Steven Wright ha llegado a la fama —si uno existe en la Wikipedia, así debe ser—. Una breve introducción, para quienes no lo reconocen o ha escuchado de su trabajo:</p>
@@ -942,6 +730,226 @@ Un rompecabezas, ¿no?</div>
 <li id="90ef" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in acc zz aba" data-selectable-paragraph="">Si tu auto pudiera viajar a la velocidad de la luz, ¿funcionarían los focos?</li>
 </ol>
 </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cómo la vida te jode, según la religión o política</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://en.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/"/>
+        <id>https://en.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/15/cover.jpeg" medium="image" />
+            <category term="Humor"/>
+
+        <updated>2023-11-03T17:15:21-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.elmikewalsh.com/media/posts/15/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                <h3 class="bs fq hc pp bx">El famoso ‘shit happens’ de inglés: muchos sabores, un solo olor</h3>
+<p>En inglés existe un sinfín de listas de cómo a veces las cosas pasan mal. En este caso, hay una riqueza del idioma inglés con la frase <em class="jf">Shit Happens</em>. Sin embargo, la traducción literal —la mierda sucede—, es algo torpe y no comúnmente utilizada. Por otro lado, las frases que se usa en español/castellano en condiciones similares —<strong class="ic qd"><em class="jf">Cosas que pasan</em></strong> / <strong class="ic qd"><em class="jf">Es así </em></strong>/ <strong class="ic qd"><em class="jf">No queda otra</em></strong><em class="jf">—</em> tampoco sirven porque no captan el sentido de <em class="jf">Shit Happens</em>, una frase que indica que cosas malas suceden (de la nada) sobre las cuales no tenemos control. Además hay una sugerencia de que sufriremos (o ya sufrimos) a causa de ello.</p>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/1.png" alt="" width="512" height="512" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-2xl.webp 1600w">
+<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
+</figure>
+<p id="6612" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Pero me mata esto porque es bastante chistoso la lista anteriormente mencionada. Entonces, aunque no una traducción literal, una frase que mejor capta la idea de <em class="jf">Shit Happens</em> sería <strong class="ic qd"><em class="jf">La vida te jode</em></strong>.</p>
+<p id="4bae" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Entonces, sin más demora…</p>
+<hr>
+<h3 id="7865" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb">Como la vida te jode en…</h3>
+<ul class="">
+<li id="184d" class="ia ib dg bt ic b id zt if zu rb zv rd zw rf zx in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Taoísmo:</strong> La vida te jode.</li>
+<li id="0b7b" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Confucianismo: </strong>Confucio dice «La vida te jode».</li>
+<li id="61be" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Budismo:</strong> Si la vida te jode, no te jode en realidad.</li>
+<li id="9b6f" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Budismo Zen:</strong> ¿Cuál es el sonido de la vida jodiéndote?</li>
+</ul>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/2.png" alt="" width="512" height="512" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/2-2xl.webp 1600w">
+<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
+</figure>
+<ul class="">
+<li id="d9b2" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Hinduismo:</strong> La vida me ha jodido antes.</li>
+<li id="dab6" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Mormonismo: </strong>La vida me joderá otra vez.</li>
+<li id="e0c6" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Islam:</strong> Si la vida me jode, es la voluntad de Alá.</li>
+<li id="0816" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Estoicismo:</strong>La vida jodida es su propia recompensa.</li>
+<li id="a981" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Protestantismo: </strong>Que la vida le jode a otro.</li>
+<li id="b79d" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Catolicismo:</strong> La vida te jode porque lo mereces.</li>
+<li id="82c5" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Judismo:</strong> ¿Por qué la vida siempre nos jode?</li>
+<li id="8016" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Capitalismo: </strong>La vida me jode más a mi que a ti.</li>
+<li id="36d8" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Materialismo: </strong>Gane a quien la vida más jode.</li>
+</ul>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/3.png" alt="" width="512" height="512" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/3-2xl.webp 1600w">
+<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
+</figure>
+<ul class="">
+<li id="6f3b" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Ateísmo: </strong>No puedo creer que la vida nos jode.</li>
+<li id="1267" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Adventista del Séptimo Día: </strong>La vida nos jode solo el sábado.</li>
+<li id="98df" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Existencialismo: </strong>La vida nos jode absurdamente.</li>
+<li id="19c5" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Agnosticismo: </strong>¿Puede ser que la vida nos jode?</li>
+<li id="c512" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Testigos de Jehová: </strong>Toc, toc… la vida te jode.</li>
+<li id="7c85" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Feminismo: </strong>La vida nos jode mejor que a los hombres.</li>
+<li id="70cd" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Comunismo: </strong>A todos les jode la vida… menos a los líderes.</li>
+<li id="0f3f" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Correctísmo político:</strong> A todos la vida le da una mala pasada de vez en cuando.</li>
+<li id="62f6" class="ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba" data-selectable-paragraph=""><strong class="ic qd">Masoquismo:</strong> ¡Oh! ¡Oh! ¡Jódeme más! ¡Me gusta!</li>
+</ul>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/4.png" alt="" width="512" height="512" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/4-2xl.webp 1600w">
+<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href="https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Una historia de Chile y sus maravillosos terremotos</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://en.elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/"/>
+        <id>https://en.elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/14/cover.jpeg" medium="image" />
+            <category term="Humor"/>
+
+        <updated>2023-11-03T17:18:27-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.elmikewalsh.com/media/posts/14/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                <h3 class="bs fq hc pp bx">Como chilenos y extranjeros entienden la escala Richter en la tierra de temblores.</h3>
+<p id="1f69" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Los chilenos son una gente muy particular. Viven en un país que el mundo con frecuencia confunde con la palabra «Chili» (y peor aún, la geografía le da cuerda a la idea…), está rodeada por océano al oeste, los Andes al este, y el país es solo tan ancho como el estado de Illinois de los EUA, ¡pero se extiende por más de 4.000 km!</p>
+<p id="dbf4" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Pues, es el «país angosto» por allá en América del Sur.</p>
+<p id="35ff" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Oh, y un detalle más: la tierra bajo sus pies tiende moverse. Con frecuencia.</p>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/1.jpeg" alt="" width="1000" height="665" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/1-2xl.webp 1600w">
+<figcaption >Créditos del imagen: <a href="https://pixabay.com/en/users/Perlinator-491438/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/Perlinator-491438/</a></figcaption>
+</figure>
+<p id="6a6f" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Es algo natural, entonces, que los chilenos se han acostumbrado a los eventos sísmicos. Sin embargo, el visitante a Chile probablemente no comparte este nivel de experiencia telúrica. ¡No te preocupes! ¡Viene ayuda en camino!</p>
+<p id="ff98" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Un escritor chileno de libros para niños, Mauricio Paredes, escribo el humoroso, educativo, y frecuentemente plagiado manual llamado <a href="https://www.facebook.com/habiaotravez/posts/10153313619048972" class="bc co io ip iq ir" target="_blank" rel="noopener noreferrer"><em class="jf">Manual sísmico para extranjeros</em></a> (en español). Es una mirada chistosa (y bastante acertada) de como los chilenos reaccionan frente un evento sísmico, según su puntaje correspondiente en la escala Richter.</p>
+<p id="643d" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Ahora, a continuación…</p>
+<hr>
+<section class="gc gd ge gf gg">
+<div class="r mp p q l m">
+<h2 id="6933" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb" data-selectable-paragraph="">Manual sísmico para extranjeros</h2>
+<p id="a000" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" data-selectable-paragraph="">→ En caso de movimiento telúrico, lo primero que debe hacer es encontrar a un chileno. Los puede identificar porque son los que le echan sal a la comida antes de probarla.</p>
+<p id="4b48" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph=""><em class="bt">Grado del temblor / Reacción del chileno → Explicación.</em></p>
+</div>
+</section>
+<hr class="pm fq kx pn po lh pp pq pr ps pt">
+<section class="gc gd ge gf gg">
+<div class="r mp p q l m">
+<p id="d069" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">1 a 3 / Absolutamente ninguna reacción → Los chilenos hemos mutado y somos incapaces de sentir movimientos sísmicos tan suaves. Somos algo así como los <em class="bt">X-men</em> del terremoto (averiguar otras acepciones de terremoto, en particular bebestibles).</p>
+<p id="9344" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">4 a 5 / Ninguna reacción → El chileno sabe que está temblando, pero no va a interrumpir lo que está haciendo por algo tan pichiruchi (poca cosa). Tampoco va a interrumpir lo que no está haciendo.</p>
+<p id="7e57" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">6 / El chileno dice: «Ta temblando» → Usted creerá que es el fin del mundo, pero no pasa nada, no se le ocurra salir, que es mucho más peligroso. Quédese tranquilo, mire al chileno con atención y espere. Y, <em class="bt">porfa</em>, vuelva a nuestro país, o por lo menos no nos haga mala fama, si no son <em class="bt">taaantos</em> los desastres naturales que tenemos ;) (Ah, no si no).</p>
+<p id="83f0" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">7 / El chileno dice: «Ta fuerte» → Ya podemos empezar a hablar de terremoto. En otros países sería un cataclismo, pero acá las construcciones aguantan bastante (y las que no, ya se cayeron con otros terremotos del pasado). Está bien, comprendemos si no quiere volver nunca a Chile. Contrate un buen psicólogo para el estrés post traumático, la dura (en serio).</p>
+<p id="6c1b" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">8 / Chileno: «¡CSM!» (buscar significado de esa abreviatura) → Afírmese porque si no, se va a caer al suelo. Haga exactamente lo mismo que el chileno. Trate de no llorar y menos gritar. Es muy probable que no pase nada, pero le puede tocar la mala cuea (suerte) de que justo el edificio en que usted está se parta en dos <em class="bt">(shit happens)</em>. Así nomás la cosa.</p>
+<figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/2.jpeg" alt="" width="1000" height="600" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/14/responsive/2-2xl.webp 1600w">
+<figcaption >Créditos del imagen: <a href="https://pixabay.com/en/users/icheinfach-989720/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">https://pixabay.com/en/users/icheinfach-989720/</a></figcaption>
+</figure>
+<p id="f036" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">9+ / Chileno rezando → La mansaca. Ahora sí que es el fin del mundo en serio, el Apocalipsis. Trate de rezar y pensar en sus seres queridos, porque todo ha llegado a su fin y su país no ganará la Copa América, porque no habrá copa ni América tampoco. Cuide sus pertenencias de la famosa «viveza del chileno».</p>
+<p id="6e26" class="ia ib dg jf ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph=""><strong class="ic qd">¡Bienvenidos a Chile!</strong></p>
+<blockquote class="vw vx vy">
+<p id="6145" class="ho hp dg oz hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">— Mauricio Paredes, escritor de libros para niños</p>
+</blockquote>
+<p id="1b17" class="ho hp dg bt hq b hr nk ht nl nm nn no np nq nr ib" data-selectable-paragraph="">Bueno, eso es todo por ahora. Que lo pases bien y, cuando en Chile, haz como los chilenos (bueno, más o menos…)</p>
+</div>
+</section>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Of Bathroom Door Symbols and Flags For Languages</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://en.elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/"/>
+        <id>https://en.elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/</id>
+        <media:content url="https://en.elmikewalsh.com/media/posts/11/mainimg.jpeg" medium="image" />
+            <category term="Tecnología"/>
+            <category term="Everything"/>
+
+        <updated>2023-07-20T08:47:24-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://en.elmikewalsh.com/media/posts/11/mainimg.jpeg" class="type:primaryImage" alt="" /></p>
+                <p><strong>Flags do not represent languages. They represent countries, histories and so much more.</strong></p>
+<p id="3763" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Ever enter the wrong public bathroom by accident? Did your experience have anything to do with how the door was labeled?</p>
+<p id="eec7" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">The next time you find yourself in a public place and need to use the restroom, take a moment (if it’s not too urgent) and note the indications on the doors. Many locations use the words <strong class="hq od">Men</strong> and <strong class="hq od">Women</strong>, taking all the mystery out of your decision-making process. But some places like to be ….creative in labeling the bathroom doors. Sometimes the symbols are clear, while other times…not so much. In one location, images of James Dean and Marilyn Monroe were used on the door. I suppose that represents <strong class="hq od">Men</strong> and <strong class="hq od">Women Do Your Business Here</strong>, and not <strong class="hq od">Dead Famous People Hide Out Here</strong>.</p>
+<p id="ecd5" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">In one location, I actually saw a rooster and hen as the bathroom symbols. That sure assumes that the user can discern between the two, and has had some previous experience with them.</p>
+<p id="a588" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">In fact, the <a href="http://uxmyths.com/post/715009009/myth-icons-enhance-usability" class="bc co ic id ie if">UX Myths website</a> talks about the usefulness of icons and notes that</p>
+<blockquote class="oe">
+<div id="e940" class="of og dn bt nc b gu oh oi oj ok ol ib" data-selectable-paragraph="">
+<p class="nc b om on bx">“A user’s understanding of an icon is based on previous experience.”</p>
+</div>
+</blockquote>
+<p id="732a" class="ho hp dg bt hq b hr oo ht op nx oq nz or ob os ib" data-selectable-paragraph="">So when we use symbols that are recognizable, we must be certain that we understand what they <strong class="hq od"><em class="it">really</em></strong> represent. And, of course, we must be sure that they are <em class="it">universally recognizable</em>.</p>
+<figure class="post__image post__image" ><img loading="lazy" src="https://en.elmikewalsh.com/media/posts/11/1.jpeg" alt="Image Credits: Photo by https://pixabay.com/en/users/geralt-9301/" width="1000" height="681" sizes="100vw" srcset="https://en.elmikewalsh.com/media/posts/11/responsive/1-xs.webp 300w ,https://en.elmikewalsh.com/media/posts/11/responsive/1-sm.webp 480w ,https://en.elmikewalsh.com/media/posts/11/responsive/1-md.webp 768w ,https://en.elmikewalsh.com/media/posts/11/responsive/1-lg.webp 1024w ,https://en.elmikewalsh.com/media/posts/11/responsive/1-xl.webp 1360w ,https://en.elmikewalsh.com/media/posts/11/responsive/1-2xl.webp 1600w">
+<figcaption >Image Credits: Photo by <a href="https://pixabay.com/en/users/geralt-9301/" class="bc co ic id ie if">https://pixabay.com/en/users/geralt-9301/</a></figcaption>
+</figure>
+<h2 id="549d" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">Flag ≠ Language</h2>
+<p id="6c44" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">Take the example of country flags in website language selectors:</p>
+<ul class="">
+<li id="ff1c" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib py pz qa" data-selectable-paragraph="">You go to a website, and it is in a language you do not know. So, the first thing you want to do is discover how to change the language to something you know. So, you look around on the screen — probably in the top-right corner — and you spot it…. The “language switcher”. You are looking for the option to change the language to English, and there you see it, perhaps in a drop down menu — the word English. And, what is that little image to the left of the word English? Why, it’s a flag — a United States flag. “That’s great” you think, as you are navigating the website from your office in Canada. Where you live. Where you are from.<br><br><em class="it">Good thing you recognize the U.S. flag, because that is the only country which speaks English in the world.<br><br></em></li>
+<li id="79dc" class="ho hp dg bt hq b hr qb ht qc nx qd nz qe ob qf ib py pz qa" data-selectable-paragraph="">You visit the same website, but this time you are automatically directed to the English version of the website. Because the web developer, in their infinite wisdom and analysis of user statistics in your country (Canada) decided that their multi-lingual website should just save you the time and frustration of looking for the language you want. So it redirects you to English, since you live in Canada. However, you live in Quebec, and you speak French. And the stupid website keeps redirecting you to English.<br><br>Great user experience, right? <em class="it">You can have whatever you like, as long as you choose this one.</em></li>
+</ul>
+<hr>
+<figure class="post__image post__image" ><img loading="lazy" src="https://en.elmikewalsh.com/media/posts/11/2.png" alt="" width="1000" height="686" sizes="100vw" srcset="https://en.elmikewalsh.com/media/posts/11/responsive/2-xs.webp 300w ,https://en.elmikewalsh.com/media/posts/11/responsive/2-sm.webp 480w ,https://en.elmikewalsh.com/media/posts/11/responsive/2-md.webp 768w ,https://en.elmikewalsh.com/media/posts/11/responsive/2-lg.webp 1024w ,https://en.elmikewalsh.com/media/posts/11/responsive/2-xl.webp 1360w ,https://en.elmikewalsh.com/media/posts/11/responsive/2-2xl.webp 1600w">
+<figcaption >Image Credits: Photo by <a href="https://pixabay.com/en/users/Maialisa-905513/" class="bc co ic id ie if">https://pixabay.com/en/users/Maialisa-905513/</a></figcaption>
+</figure>
+<h2 id="47dc" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">Plant the Flag</h2>
+<p id="ab26" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">So, you have been to (or perhaps designed) a website in multiple languages, and have seen each language alongside the language name. (Or far worse, there is only a flag!) What did you think/feel?</p>
+<ol class="">
+<li id="38e5" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib qp pz qa" data-selectable-paragraph="">Perhaps you felt identified, because your language happens to use the flag of the country you are from.</li>
+<li id="8062" class="ho hp dg bt hq b hr qb ht qc nx qd nz qe ob qf ib qp pz qa" data-selectable-paragraph="">Maybe you felt a bit strange that your language shows a different flag (I speak that language, but I don’t fly that flag).</li>
+<li id="34b3" class="ho hp dg bt hq b hr qb ht qc nx qd nz qe ob qf ib qp pz qa" data-selectable-paragraph="">It is possible that you are offended by the use of a flag that not only does not represent you, but perhaps represents something <strong class="hq od"><em class="it">opposed</em></strong> to what you are.</li>
+</ol>
+<p id="4bac" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Let’s briefly consider each point now.</p>
+<hr>
+<h2 id="4176" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">1. Identified By the Flag</h2>
+<p id="98c9" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">Congratulations! You are from England. You live in England. You have been a fan of Manchester City all your life. And now, you have the fortune to visit a website that uses the name of your language and your flag in the language switcher. That’s wonderful. But, how many other people don’t have that luck? Let’s imagine the case of England, as mentioned in James Offer’s <a href="http://www.flagsarenotlanguages.com/blog/why-flags-do-not-represent-language/" class="bc co ic id ie if"><em class="it">Why flags do not represent languages</em></a>. He states that,</p>
+<blockquote class="oe">
+<div id="8650" class="of og dn bt nc b gu oh oi oj ok ol ib" data-selectable-paragraph="">
+<p class="nc b om on bx"><em class="hn">“…the flag of England is the most appropriate flag to represent the English language. But how recognizable is the English flag?”</em></p>
+</div>
+</blockquote>
+<p id="b92e" class="ho hp dg bt hq b hr oo ht op nx oq nz or ob os ib" data-selectable-paragraph="">Completely true. So, after all the English language originated, to a certain degree, from ….England. But it needs to be more <strong class="hq od"><em class="it">recognizable</em></strong>, right?</p>
+<h2 id="936e" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">2. Hey, That’s Not My Flag! (But I speak that stuff)</h2>
+<p id="beae" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">OK, what flag is more recognizable than the United States flag, right? Consider that, according to Offer, <em class="it">“while the USA has far more English speakers than Britain, English does not originate from the United States.”</em></p>
+<p id="f93c" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Oh, and since you are from England, there is the possibility that you learned in your history class that the U.S. were “the colonies that got away.” Maybe you even feel bothered about it, and their silly “American” accents.</p>
+<p id="a073" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Good point? So, if you are from England, your flag isn’t a good idea because it isn’t so recognizable. And a U.S. flag isn’t so representative. But, it could be worse — let’s fly the Union Jack!</p>
+<h2 id="d952" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">3. I Hate That Flag!</h2>
+<p id="a655" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">So, since the flags of England and the United States don’t serve very well to accompany the word English in our language selector, let’s try the Union Jack. There’s a big problem with that, however. Let’s imagine you are a former colony of England/Great Britain/whatever. You surely aren’t going to be pleased to see the flag of the “former masters” as representative of your current language, right?</p>
+<p id="3e6f" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">In closing, as so many others have said before me: flags represent <em class="it">countries</em>, not languages. So unless you are targeting countries, <strong class="hq od"><em class="it">do not</em></strong> use their flags (No matter what the <a href="https://wpml.org/" class="bc co ic id ie if">WPML plugin for WordPress</a> suggests!).</p>
+<hr>
+<h2 id="8f66" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">So What’s a Girl/Boy/Other To Do?</h2>
+<p id="42e9" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">That, my friend, is a really good question. The simplest answer, of course, would be to not use any country’s flag. Nobody is confused, nobody is offended, and — in the case of websites with many, many languages — there are fewer design concerns regarding how to display them all.</p>
+<p id="0cde" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Simple, right?</p>
+<p id="488b" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">However, in looking into the issue of Flags vs. No Flags, I came across an interesting article that seemed to buck the trend of “Flags-For-Languages-Are-Evil” opinions. Andrey Mima, in the article, <a href="https://coderwall.com/p/knyvug/using-flag-in-language-selector-is-still-okay" class="bc co ic id ie if"><em class="it">Using flag in language selector is still okay</em></a><em class="it">, </em>acknowledges that flags really aren’t a good combination for languages in a selector. He continues by showing a screenshot of Twitter’s homepage, with the text completely displayed using Chinese characters. The argument is that</p>
+<blockquote class="qq qr qs">
+<p id="daf6" class="ho hp dg it hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">“How do you find the language selector in order to switch the language? You can’t. And flags don’t match languages, so there are no flags.”</p>
+</blockquote>
+<p id="a7dd" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">OK, good point. If you can’t find the language switcher, you can’t switch the language. But, this only shows that a language switcher needs some sort of visual representation to draw attention to it. This doesn’t necessarily mean it should be a country’s flag. So, what other options are there?</p>
+<hr>
+<h2 id="0fde" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">A Flag by Any Other Name…</h2>
+<p id="9f29" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">The great minds behind international language standards and design (who are far more intelligent that I am) came up with a possible icon to use in such situations.</p>
+<figure class="post__image post__image" style="margin: 0 auto;" ><img loading="lazy" src="https://en.elmikewalsh.com/media/posts/11/3.png" alt="" width="512" height="512" sizes="100vw" srcset="https://en.elmikewalsh.com/media/posts/11/responsive/3-xs.webp 300w ,https://en.elmikewalsh.com/media/posts/11/responsive/3-sm.webp 480w ,https://en.elmikewalsh.com/media/posts/11/responsive/3-md.webp 768w ,https://en.elmikewalsh.com/media/posts/11/responsive/3-lg.webp 1024w ,https://en.elmikewalsh.com/media/posts/11/responsive/3-xl.webp 1360w ,https://en.elmikewalsh.com/media/posts/11/responsive/3-2xl.webp 1600w">
+<figcaption >Language Icon: <a href="http://www.languageicon.org/" class="bc co ic id ie if">http://www.languageicon.org</a></figcaption>
+</figure>
+<p class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib align-left" data-selectable-paragraph="">It’s a ….<em class="it">nice</em> icon, but just doesn’t seem to get the job done for me. I see what it is trying to represent, but I think that the icon is just too<em class="it"> detailed</em> to be useful, especially at smaller sizes.</p>
+<p id="b489" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">Let’s try something else: the famous globe icon:</p>
+<figure class="post__image post__image" ><img loading="lazy" src="https://en.elmikewalsh.com/media/posts/11/4.png" alt="" width="512" height="512" sizes="100vw" srcset="https://en.elmikewalsh.com/media/posts/11/responsive/4-xs.webp 300w ,https://en.elmikewalsh.com/media/posts/11/responsive/4-sm.webp 480w ,https://en.elmikewalsh.com/media/posts/11/responsive/4-md.webp 768w ,https://en.elmikewalsh.com/media/posts/11/responsive/4-lg.webp 1024w ,https://en.elmikewalsh.com/media/posts/11/responsive/4-xl.webp 1360w ,https://en.elmikewalsh.com/media/posts/11/responsive/4-2xl.webp 1600w">
+<figcaption >Icon made by <a href="http://www.flaticon.com/authors/dave-gandy" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com/authors/dave-gandy</a> from <a href="http://www.flaticon.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com</a>.</figcaption>
+</figure>
+<p id="e722" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">I can think of two reasons immediately why this icon might not be such a good idea:</p>
+<ol class="">
+<li id="1102" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib qo px py" data-selectable-paragraph="">The globe icon suspiciously sets North America at the center of the icon. We know the rest of the world must be on the other side….we just can’t see them. (They aren’t as important?)</li>
+<li id="9f73" class="ho hp dg bt hq b hr pz ht qa nz qb ob qc od qd ib qo px py" data-selectable-paragraph="">It looks similar to the Facebook notifications icon. Normally what one website decides to use for a notifications icon doesn’t make much difference, but Facebook is no ordinary website…</li>
+</ol>
+<p id="c2de" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">So the globe icon could be easily misunderstood and, like the flag icon, could also be offensive.</p>
+<hr>
+<p id="08cb" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">OK, so since I am so talented in explaining what doesn’t work, what do I suggest?</p>
+<p id="53ed" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">Since most website visitors are now accustomed to seeing a flag alongside the language name, why not keep the flag idea? But, instead of showing a specific country’s flag for each language, why not just show a generic flag icon?</p>
+<figure class="post__image post__image" ><img loading="lazy" src="https://en.elmikewalsh.com/media/posts/11/5.png" alt="" width="512" height="512" sizes="100vw" srcset="https://en.elmikewalsh.com/media/posts/11/responsive/5-xs.webp 300w ,https://en.elmikewalsh.com/media/posts/11/responsive/5-sm.webp 480w ,https://en.elmikewalsh.com/media/posts/11/responsive/5-md.webp 768w ,https://en.elmikewalsh.com/media/posts/11/responsive/5-lg.webp 1024w ,https://en.elmikewalsh.com/media/posts/11/responsive/5-xl.webp 1360w ,https://en.elmikewalsh.com/media/posts/11/responsive/5-2xl.webp 1600w">
+<figcaption >Icon made by <a href="http://www.flaticon.com/authors/dave-gandy" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com/authors/dave-gandy</a> from <a href="http://www.flaticon.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com</a>.</figcaption>
+</figure>
+<p id="205a" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">It is non-specific, non-offensive, and already a familiar icon to use for languages? There are several possibilities; I am showing the Font Awesome version here simply because it is more recognizable.</p>
+<p id="cd66" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">What are your thoughts?</p>
             ]]>
         </content>
     </entry>
