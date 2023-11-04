@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>2023-ES-elmikewalsh</title>
-    <link href="https://elmikewalsh.com/feed.xml" rel="self" />
-    <link href="https://elmikewalsh.com" />
+    <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
+    <link href="https://www.elmikewalsh.com" />
     <updated>2023-11-03T17:45:47-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
-    <id>https://elmikewalsh.com</id>
+    <id>https://www.elmikewalsh.com</id>
 
     <entry>
         <title>Oda al Whisky</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/oda-al-whisky/"/>
-        <id>https://elmikewalsh.com/oda-al-whisky/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/20/whiskey2.jpg" medium="image" />
+        <link href="https://www.elmikewalsh.com/oda-al-whisky/"/>
+        <id>https://www.elmikewalsh.com/oda-al-whisky/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" medium="image" />
             <category term="Humor"/>
             <category term="Everything"/>
 
@@ -24,7 +24,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/20/whiskey2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Algunas reflexiones acerca del líquido mágico que es el whisky.</p>
 <blockquote>
 <p>Es malo tener demasiado de cualquier cosa, pero demasiado buen whiskey es apenas suficiente. - Mark Twain</p>
@@ -49,9 +49,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/el-ultimo-de-los-mujicanos/"/>
-        <id>https://elmikewalsh.com/el-ultimo-de-los-mujicanos/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
+        <link href="https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos/"/>
+        <id>https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
             <category term="Político"/>
             <category term="Everything"/>
 
@@ -59,7 +59,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/16/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc pp bx">El político coherente y honesto no es unicornio — hay uno por allá</h3>
 <h3 id="5c10" class="py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb"><strong class="bi">Mi invitado especial</strong></h3>
 <p id="d711" class="ho hp dg bt hq b hr ot ht ou nm ov no ow nq ox ib" data-selectable-paragraph="">Hace una cantidad de días indeterminables, tuve una conversación con mi compañera de vida. Ella me preguntó de repente:</p>
@@ -118,9 +118,9 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/"/>
-        <id>https://elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/23/cover-2xl.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/"/>
+        <id>https://www.elmikewalsh.com/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/23/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
 
@@ -128,7 +128,7 @@ Un rompecabezas, ¿no?</div>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/23/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/23/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">Cuando vote por su presidente no olvides a la gente detrás de la cortina</h3>
 <p id="6e26" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">En mi última historia exploramos en breve la elección de presidente (específicamente en Chile, pero con aplicación general) y cómo hay una falacia lógica en creer que hay solo dos opciones cuando en realidad hay más. Esto se debe a varios factores, como la presión del grupo, en la que uno tiende querer votar por el «ganador» o, en realidad, por quien se percibe será el ganador, produciendo un tipo de <strong class="ou ns"><em class="qw">profecía autocumplida</em></strong> en que todos votan por quien <strong class="ou ns"><em class="qw">cree</em></strong> que ganará en vez de por quién <strong class="ou ns"><em class="qw">quiere</em></strong> que gane, así cumpliendo con las expectativas de las encuestas y expertos, y no los deseos de los votantes.</p>
 <div class="gi">
@@ -260,16 +260,16 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/los-conductores-veraneantes-de-miedo/"/>
-        <id>https://elmikewalsh.com/los-conductores-veraneantes-de-miedo/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/27/cover-2xl.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo/"/>
+        <id>https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/27/cover-2xl.webp" medium="image" />
             <category term="Humor"/>
 
         <updated>2023-11-03T17:45:47-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/27/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/27/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc oo bx">¿Quiénes son los conductores que amenazan el camino que recorremos este verano?</h3>
 <p id="5faf" data-selectable-paragraph="">El verano en Chile (o cualquier lugar) es un tiempo especial. La gente deja las cadenas del trabajo atrás para disfrutar tiempo libre. Y muchos de ustedes viajan a lugares lejos de sus casas para veranear en la playa. Y manejan hasta acá.</p>
 <p id="8566" class="os ot dg bt ou b ov ow ox oy oz pa pb pc pd pe pf" data-selectable-paragraph="">Tal vez seas la excepción, pero es probable que te odie.</p>
@@ -366,9 +366,9 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/guia-pictorica-del-voto-en-chile/"/>
-        <id>https://elmikewalsh.com/guia-pictorica-del-voto-en-chile/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/24/cover-2xl.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile/"/>
+        <id>https://www.elmikewalsh.com/guia-pictorica-del-voto-en-chile/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/24/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
 
@@ -376,7 +376,7 @@ Un rompecabezas, ¿no?</div>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/24/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/24/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <h3 class="ao cx lh li at">Un instructivo ilustrado de cómo emitir un voto en las elecciones chilenas.</h3>
 <section class="jm jn jo jp jq">
 <div class="ae kn ab dn v w">
@@ -514,9 +514,9 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/"/>
-        <id>https://elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/25/cover-2xl.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/"/>
+        <id>https://www.elmikewalsh.com/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/25/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
 
@@ -524,7 +524,7 @@ Un rompecabezas, ¿no?</div>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/25/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/25/cover-2xl.webp" class="type:primaryImage" alt="" /></p>
                 <section class="gc gd ge gf gg">
 <div class="r oy p q l m">
 <div>
@@ -687,16 +687,16 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/"/>
-        <id>https://elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/26/cover-2xl-2.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/"/>
+        <id>https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/26/cover-2xl-2.webp" medium="image" />
             <category term="Humor"/>
 
         <updated>2023-11-03T17:39:53-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/26/cover-2xl-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/26/cover-2xl-2.webp" class="type:primaryImage" alt="" /></p>
                 <div id="5310" class="ha hb bx bt bs fq pj pk pl pm pn po he">
 <h3 class="bs fq hc pp bx">Chicle mental, directo de Steven Wright</h3>
 <p>Steven Wright ha llegado a la fama —si uno existe en la Wikipedia, así debe ser—. Una breve introducción, para quienes no lo reconocen o ha escuchado de su trabajo:</p>
@@ -738,16 +738,16 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/"/>
-        <id>https://elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/15/cover.jpeg" medium="image" />
+        <link href="https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/"/>
+        <id>https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/15/cover.jpeg" medium="image" />
             <category term="Humor"/>
 
         <updated>2023-11-03T17:15:21-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/15/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/15/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc pp bx">El famoso ‘shit happens’ de inglés: muchos sabores, un solo olor</h3>
 <p>En inglés existe un sinfín de listas de cómo a veces las cosas pasan mal. En este caso, hay una riqueza del idioma inglés con la frase <em class="jf">Shit Happens</em>. Sin embargo, la traducción literal —la mierda sucede—, es algo torpe y no comúnmente utilizada. Por otro lado, las frases que se usa en español/castellano en condiciones similares —<strong class="ic qd"><em class="jf">Cosas que pasan</em></strong> / <strong class="ic qd"><em class="jf">Es así </em></strong>/ <strong class="ic qd"><em class="jf">No queda otra</em></strong><em class="jf">—</em> tampoco sirven porque no captan el sentido de <em class="jf">Shit Happens</em>, una frase que indica que cosas malas suceden (de la nada) sobre las cuales no tenemos control. Además hay una sugerencia de que sufriremos (o ya sufrimos) a causa de ello.</p>
 <figure class="post__image post__image" ><img loading="lazy" src="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/1.png" alt="" width="512" height="512" sizes="100vw" srcset="file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-xs.webp 300w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-sm.webp 480w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-md.webp 768w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-lg.webp 1024w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-xl.webp 1360w ,file:///Users/michaelwalsh/Documents/Publii/sites/testing-2023-es-elmikewalsh/input/media/posts/15/responsive/1-2xl.webp 1600w">
@@ -802,16 +802,16 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/"/>
-        <id>https://elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/14/cover.jpeg" medium="image" />
+        <link href="https://www.elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/"/>
+        <id>https://www.elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/14/cover.jpeg" medium="image" />
             <category term="Humor"/>
 
         <updated>2023-11-03T17:18:27-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/14/cover.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/14/cover.jpeg" class="type:primaryImage" alt="" /></p>
                 <h3 class="bs fq hc pp bx">Como chilenos y extranjeros entienden la escala Richter en la tierra de temblores.</h3>
 <p id="1f69" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Los chilenos son una gente muy particular. Viven en un país que el mundo con frecuencia confunde con la palabra «Chili» (y peor aún, la geografía le da cuerda a la idea…), está rodeada por océano al oeste, los Andes al este, y el país es solo tan ancho como el estado de Illinois de los EUA, ¡pero se extiende por más de 4.000 km!</p>
 <p id="dbf4" class="ia ib dg bt ic b id qz if ra rb rc rd re rf rg in" data-selectable-paragraph="">Pues, es el «país angosto» por allá en América del Sur.</p>
@@ -857,9 +857,9 @@ Un rompecabezas, ¿no?</div>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/"/>
-        <id>https://elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/</id>
-        <media:content url="https://elmikewalsh.com/media/posts/11/mainimg.jpeg" medium="image" />
+        <link href="https://www.elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/"/>
+        <id>https://www.elmikewalsh.com/of-bathroom-door-symbols-and-flags-for-languages/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/11/mainimg.jpeg" medium="image" />
             <category term="Tecnología"/>
             <category term="Everything"/>
 
@@ -867,7 +867,7 @@ Un rompecabezas, ¿no?</div>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://elmikewalsh.com/media/posts/11/mainimg.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.com/media/posts/11/mainimg.jpeg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Flags do not represent languages. They represent countries, histories and so much more.</strong></p>
 <p id="3763" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">Ever enter the wrong public bathroom by accident? Did your experience have anything to do with how the door was labeled?</p>
 <p id="eec7" class="ho hp dg bt hq b hr nv ht nw nx ny nz oa ob oc ib" data-selectable-paragraph="">The next time you find yourself in a public place and need to use the restroom, take a moment (if it’s not too urgent) and note the indications on the doors. Many locations use the words <strong class="hq od">Men</strong> and <strong class="hq od">Women</strong>, taking all the mystery out of your decision-making process. But some places like to be ….creative in labeling the bathroom doors. Sometimes the symbols are clear, while other times…not so much. In one location, images of James Dean and Marilyn Monroe were used on the door. I suppose that represents <strong class="hq od">Men</strong> and <strong class="hq od">Women Do Your Business Here</strong>, and not <strong class="hq od">Dead Famous People Hide Out Here</strong>.</p>
@@ -879,7 +879,7 @@ Un rompecabezas, ¿no?</div>
 </div>
 </blockquote>
 <p id="732a" class="ho hp dg bt hq b hr oo ht op nx oq nz or ob os ib" data-selectable-paragraph="">So when we use symbols that are recognizable, we must be certain that we understand what they <strong class="hq od"><em class="it">really</em></strong> represent. And, of course, we must be sure that they are <em class="it">universally recognizable</em>.</p>
-<figure class="post__image post__image" ><img loading="lazy" src="https://elmikewalsh.com/media/posts/11/1.jpeg" alt="Image Credits: Photo by https://pixabay.com/en/users/geralt-9301/" width="1000" height="681" sizes="100vw" srcset="https://elmikewalsh.com/media/posts/11/responsive/1-xs.webp 300w ,https://elmikewalsh.com/media/posts/11/responsive/1-sm.webp 480w ,https://elmikewalsh.com/media/posts/11/responsive/1-md.webp 768w ,https://elmikewalsh.com/media/posts/11/responsive/1-lg.webp 1024w ,https://elmikewalsh.com/media/posts/11/responsive/1-xl.webp 1360w ,https://elmikewalsh.com/media/posts/11/responsive/1-2xl.webp 1600w">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/11/1.jpeg" alt="Image Credits: Photo by https://pixabay.com/en/users/geralt-9301/" width="1000" height="681" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/11/responsive/1-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/11/responsive/1-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/11/responsive/1-md.webp 768w ,https://www.elmikewalsh.com/media/posts/11/responsive/1-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/11/responsive/1-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/11/responsive/1-2xl.webp 1600w">
 <figcaption >Image Credits: Photo by <a href="https://pixabay.com/en/users/geralt-9301/" class="bc co ic id ie if">https://pixabay.com/en/users/geralt-9301/</a></figcaption>
 </figure>
 <h2 id="549d" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">Flag ≠ Language</h2>
@@ -889,7 +889,7 @@ Un rompecabezas, ¿no?</div>
 <li id="79dc" class="ho hp dg bt hq b hr qb ht qc nx qd nz qe ob qf ib py pz qa" data-selectable-paragraph="">You visit the same website, but this time you are automatically directed to the English version of the website. Because the web developer, in their infinite wisdom and analysis of user statistics in your country (Canada) decided that their multi-lingual website should just save you the time and frustration of looking for the language you want. So it redirects you to English, since you live in Canada. However, you live in Quebec, and you speak French. And the stupid website keeps redirecting you to English.<br><br>Great user experience, right? <em class="it">You can have whatever you like, as long as you choose this one.</em></li>
 </ul>
 <hr>
-<figure class="post__image post__image" ><img loading="lazy" src="https://elmikewalsh.com/media/posts/11/2.png" alt="" width="1000" height="686" sizes="100vw" srcset="https://elmikewalsh.com/media/posts/11/responsive/2-xs.webp 300w ,https://elmikewalsh.com/media/posts/11/responsive/2-sm.webp 480w ,https://elmikewalsh.com/media/posts/11/responsive/2-md.webp 768w ,https://elmikewalsh.com/media/posts/11/responsive/2-lg.webp 1024w ,https://elmikewalsh.com/media/posts/11/responsive/2-xl.webp 1360w ,https://elmikewalsh.com/media/posts/11/responsive/2-2xl.webp 1600w">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/11/2.png" alt="" width="1000" height="686" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/11/responsive/2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/11/responsive/2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/11/responsive/2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/11/responsive/2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/11/responsive/2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/11/responsive/2-2xl.webp 1600w">
 <figcaption >Image Credits: Photo by <a href="https://pixabay.com/en/users/Maialisa-905513/" class="bc co ic id ie if">https://pixabay.com/en/users/Maialisa-905513/</a></figcaption>
 </figure>
 <h2 id="47dc" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">Plant the Flag</h2>
@@ -928,12 +928,12 @@ Un rompecabezas, ¿no?</div>
 <hr>
 <h2 id="0fde" class="ph go dg bt bs di pi pj pk pl pm pn po pp pq pr ps" data-selectable-paragraph="">A Flag by Any Other Name…</h2>
 <p id="9f29" class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib" data-selectable-paragraph="">The great minds behind international language standards and design (who are far more intelligent that I am) came up with a possible icon to use in such situations.</p>
-<figure class="post__image post__image" style="margin: 0 auto;" ><img loading="lazy" src="https://elmikewalsh.com/media/posts/11/3.png" alt="" width="512" height="512" sizes="100vw" srcset="https://elmikewalsh.com/media/posts/11/responsive/3-xs.webp 300w ,https://elmikewalsh.com/media/posts/11/responsive/3-sm.webp 480w ,https://elmikewalsh.com/media/posts/11/responsive/3-md.webp 768w ,https://elmikewalsh.com/media/posts/11/responsive/3-lg.webp 1024w ,https://elmikewalsh.com/media/posts/11/responsive/3-xl.webp 1360w ,https://elmikewalsh.com/media/posts/11/responsive/3-2xl.webp 1600w">
+<figure class="post__image post__image" style="margin: 0 auto;" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/11/3.png" alt="" width="512" height="512" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/11/responsive/3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/11/responsive/3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/11/responsive/3-md.webp 768w ,https://www.elmikewalsh.com/media/posts/11/responsive/3-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/11/responsive/3-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/11/responsive/3-2xl.webp 1600w">
 <figcaption >Language Icon: <a href="http://www.languageicon.org/" class="bc co ic id ie if">http://www.languageicon.org</a></figcaption>
 </figure>
 <p class="ho hp dg bt hq b hr pt ht pu nx pv nz pw ob px ib align-left" data-selectable-paragraph="">It’s a ….<em class="it">nice</em> icon, but just doesn’t seem to get the job done for me. I see what it is trying to represent, but I think that the icon is just too<em class="it"> detailed</em> to be useful, especially at smaller sizes.</p>
 <p id="b489" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">Let’s try something else: the famous globe icon:</p>
-<figure class="post__image post__image" ><img loading="lazy" src="https://elmikewalsh.com/media/posts/11/4.png" alt="" width="512" height="512" sizes="100vw" srcset="https://elmikewalsh.com/media/posts/11/responsive/4-xs.webp 300w ,https://elmikewalsh.com/media/posts/11/responsive/4-sm.webp 480w ,https://elmikewalsh.com/media/posts/11/responsive/4-md.webp 768w ,https://elmikewalsh.com/media/posts/11/responsive/4-lg.webp 1024w ,https://elmikewalsh.com/media/posts/11/responsive/4-xl.webp 1360w ,https://elmikewalsh.com/media/posts/11/responsive/4-2xl.webp 1600w">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/11/4.png" alt="" width="512" height="512" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/11/responsive/4-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/11/responsive/4-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/11/responsive/4-md.webp 768w ,https://www.elmikewalsh.com/media/posts/11/responsive/4-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/11/responsive/4-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/11/responsive/4-2xl.webp 1600w">
 <figcaption >Icon made by <a href="http://www.flaticon.com/authors/dave-gandy" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com/authors/dave-gandy</a> from <a href="http://www.flaticon.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com</a>.</figcaption>
 </figure>
 <p id="e722" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">I can think of two reasons immediately why this icon might not be such a good idea:</p>
@@ -945,7 +945,7 @@ Un rompecabezas, ¿no?</div>
 <hr>
 <p id="08cb" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">OK, so since I am so talented in explaining what doesn’t work, what do I suggest?</p>
 <p id="53ed" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">Since most website visitors are now accustomed to seeing a flag alongside the language name, why not keep the flag idea? But, instead of showing a specific country’s flag for each language, why not just show a generic flag icon?</p>
-<figure class="post__image post__image" ><img loading="lazy" src="https://elmikewalsh.com/media/posts/11/5.png" alt="" width="512" height="512" sizes="100vw" srcset="https://elmikewalsh.com/media/posts/11/responsive/5-xs.webp 300w ,https://elmikewalsh.com/media/posts/11/responsive/5-sm.webp 480w ,https://elmikewalsh.com/media/posts/11/responsive/5-md.webp 768w ,https://elmikewalsh.com/media/posts/11/responsive/5-lg.webp 1024w ,https://elmikewalsh.com/media/posts/11/responsive/5-xl.webp 1360w ,https://elmikewalsh.com/media/posts/11/responsive/5-2xl.webp 1600w">
+<figure class="post__image post__image" ><img loading="lazy" src="https://www.elmikewalsh.com/media/posts/11/5.png" alt="" width="512" height="512" sizes="100vw" srcset="https://www.elmikewalsh.com/media/posts/11/responsive/5-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/11/responsive/5-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/11/responsive/5-md.webp 768w ,https://www.elmikewalsh.com/media/posts/11/responsive/5-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/11/responsive/5-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/11/responsive/5-2xl.webp 1600w">
 <figcaption >Icon made by <a href="http://www.flaticon.com/authors/dave-gandy" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com/authors/dave-gandy</a> from <a href="http://www.flaticon.com/" class="bc co ic id ie if" target="_blank" rel="noopener noreferrer">http://www.flaticon.com</a>.</figcaption>
 </figure>
 <p id="205a" class="ho hp dg bt hq b hr nx ht ny nz oa ob oc od oe ib" data-selectable-paragraph="">It is non-specific, non-offensive, and already a familiar icon to use for languages? There are several possibilities; I am showing the Font Awesome version here simply because it is more recognizable.</p>
