@@ -3,12 +3,54 @@
     <title>2023-ES-elmikewalsh</title>
     <link href="https://www.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.com" />
-    <updated>2023-11-06T16:40:44-04:00</updated>
+    <updated>2023-11-17T17:05:53-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.com</id>
 
+    <entry>
+        <title>Apps por defecto, apps por doquier</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.com/apps-por-defecto-apps-por-doquier/"/>
+        <id>https://www.elmikewalsh.com/apps-por-defecto-apps-por-doquier/</id>
+        <media:content url="https://www.elmikewalsh.com/media/posts/28/app-defaults.webp" medium="image" />
+            <category term="Tech"/>
+            <category term="Artículos Por Doquier"/>
+
+        <updated>2023-11-17T17:04:45-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.elmikewalsh.com/media/posts/28/app-defaults.webp" class="type:primaryImage" alt="" /></p>
+                <p>Esta pequeña lista parece estar circulando por todos lados: la encontré <a href="https://manuelmoreale.com/app-defaults" target="_blank" rel="noopener noreferrer">aquí</a> en el sitio web de <a href="https://manuelmoreale.com/" target="_blank" rel="noopener noreferrer">Manuel Moreale</a> y parece que la encontró en otro sitio. Parece divertido, así que comparto la mía aquí:</p>
+<ul>
+<li><strong>Cliente de correo:</strong> Apple Mail</li>
+<li><strong>Servidor de correo:</strong> Reboto entre iCloud y postale.io</li>
+<li><strong>Notas: </strong>Notas de Apple</li>
+<li><strong> Tareas pendientes:</strong> Notas de Apple</li>
+<li><strong> Toma de fotografías:</strong> Cámara Apple</li>
+<li><strong>Gestión de fotografías:</strong> Fotos de Apple</li>
+<li><strong> Calendario:</strong> Calendario de Apple</li>
+<li><strong>Almacenamiento de archivos en la nube:</strong> iCloud y OneDrive</li>
+<li><strong> RSS:</strong> Lamentablemente, no lo uso.</li>
+<li><strong> Contactos:</strong> Contactos de Apple</li>
+<li><strong> Navegador:</strong> Safari para el hogar/trabajo; Firefox para el trabajo</li>
+<li><strong> Chat:</strong> WhatsApp (desafortunadamente), Messages de Apple</li>
+<li><strong> Marcadores:</strong> Ninguno</li>
+<li><strong>Procesamiento de textos:</strong> Microsoft Word</li>
+<li><strong>Hojas de cálculo:</strong> Excel, Numbers</li>
+<li><strong> Presentaciones:</strong> No, no, no, no</li>
+<li><strong> Noticias</strong>: intenta evitarlo, pero en el navegador</li>
+<li><strong> Música:</strong> Spotify. Realmente lo intenté, Apple Music, pero no funcionó.</li>
+<li><strong>Gestión de contraseñas:</strong> BitWarden</li>
+<li><strong>Editor de código:</strong> Sublime</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Oda al Whisky</title>
         <author>
@@ -18,7 +60,7 @@
         <id>https://www.elmikewalsh.com/oda-al-whisky/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/20/whiskey2.jpg" medium="image" />
             <category term="Humor"/>
-            <category term="Everything"/>
+            <category term="Artículos Por Doquier"/>
 
         <updated>2023-11-03T15:32:03-04:00</updated>
             <summary></summary>
@@ -53,7 +95,7 @@
         <id>https://www.elmikewalsh.com/el-ultimo-de-los-mujicanos/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/16/cover.jpeg" medium="image" />
             <category term="Político"/>
-            <category term="Everything"/>
+            <category term="Artículos Por Doquier"/>
 
         <updated>2023-11-04T08:57:51-04:00</updated>
             <summary></summary>
@@ -123,8 +165,9 @@ Un rompecabezas, ¿no?</div>
         <media:content url="https://www.elmikewalsh.com/media/posts/23/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T15:43:00-04:00</updated>
+        <updated>2023-11-17T17:05:22-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -264,8 +307,9 @@ Un rompecabezas, ¿no?</div>
         <id>https://www.elmikewalsh.com/los-conductores-veraneantes-de-miedo/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/27/cover-2xl.webp" medium="image" />
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T15:53:11-04:00</updated>
+        <updated>2023-11-17T17:04:51-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -371,8 +415,9 @@ Un rompecabezas, ¿no?</div>
         <media:content url="https://www.elmikewalsh.com/media/posts/24/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T16:01:01-04:00</updated>
+        <updated>2023-11-17T17:05:16-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -519,8 +564,9 @@ Un rompecabezas, ¿no?</div>
         <media:content url="https://www.elmikewalsh.com/media/posts/25/cover-2xl.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T16:21:41-04:00</updated>
+        <updated>2023-11-17T17:05:09-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -691,8 +737,9 @@ Un rompecabezas, ¿no?</div>
         <id>https://www.elmikewalsh.com/20-observaciones-ironisecos-sobre-la-vida/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/26/cover-2xl-2.webp" medium="image" />
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-04T09:01:18-04:00</updated>
+        <updated>2023-11-17T17:04:57-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -742,8 +789,9 @@ Un rompecabezas, ¿no?</div>
         <id>https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/15/cover.jpeg" medium="image" />
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T16:24:13-04:00</updated>
+        <updated>2023-11-17T17:05:39-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -806,8 +854,9 @@ Un rompecabezas, ¿no?</div>
         <id>https://www.elmikewalsh.com/una-historia-de-chile-y-sus-maravillosos-terremotos/</id>
         <media:content url="https://www.elmikewalsh.com/media/posts/14/cover.jpeg" medium="image" />
             <category term="Humor"/>
+            <category term="Artículos Por Doquier"/>
 
-        <updated>2023-11-06T16:40:44-04:00</updated>
+        <updated>2023-11-17T17:05:53-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
