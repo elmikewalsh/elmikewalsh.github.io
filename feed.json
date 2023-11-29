@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.elmikewalsh.com/defendiendo-tu-cibercastillo-arte-de-guerra-digital/",
+            "url": "https://www.elmikewalsh.com/defendiendo-tu-cibercastillo-arte-de-guerra-digital/",
+            "title": "Defendiendo tu cibercastillo: arte de guerra digital",
+            "content_html": "<p>En el mundo actual, nuestra existencia virtual es como una fortaleza. Al igual que los castillos requerían fortificaciones para su protección, también lo hace su presencia en línea. Puede sonar desalentador, pero no te preocupes, hemos hurgado en los sabios consejos del legendario Sun Tzu, maestro estratega, para ayudarte a fortalecer tus defensas digitales sin sentir que te estás preparando para la guerra.</p>\n<h3>Conoce las reglas del juego de mesa</h3>\n<p>En primer lugar, analicemos la importancia de conocer el campo de juego. Como dijo Sun Tzu: </p>\n<blockquote>\n<p><strong><em>Si conoces al enemigo y te conoces a ti mismo, no debes temer el resultado de cien batallas</em></strong></p>\n</blockquote>\n<p>Esto se traduce en el ámbito digital como la comprensión de sus diversas plataformas, el conocimiento de dónde se almacena su información confidencial y la identificación de cualquier vulnerabilidad potencial en su configuración en línea. Dónde ha configurado las cuentas, qué información ha proporcionado, qué tan segura es su contraseña, etc.</p>\n<p>La defensa no es el único factor en juego aquí: ser como un diablito astuto es igualmente importante (en un sentido positivo, por supuesto... por lo general...). Sun Tzu valoraba el engaño, y el mismo principio se aplica en esta situación. Esté atento a los correos electrónicos engañosos que intentan extraer su información confidencial o lo atraen para que haga clic en enlaces dudosos. La adaptabilidad también es crucial. El mundo digital está en constante evolución, por lo que sus defensas también deben evolucionar. Manténgase a la vanguardia actualizando la configuración de seguridad, eligiendo contraseñas seguras (por favor, evita 'contraseña123'), instalando y usando un administrador de contraseñas (<a href=\"https://bitwarden.com\" target=\"_blank\" rel=\"noopener noreferrer\">Bitwarden</a> y <a href=\"https://proton.me/pass\" target=\"_blank\" rel=\"noopener noreferrer\">Proton Pass</a> son buenos), e implementando la autenticación de dos factores para mayor seguridad.</p>\n<h3>¡Sube tu nivel ninja!</h3>\n<p>No olvide que proteger sus datos es solo una pieza del rompecabezas; Salvaguardar su identidad es igual de crucial. Tu personalidad digital merece tanta precaución y protección como tu “yo” físico. Al profundizar en las estrategias de Sun Tzu, te estás equipando con las habilidades de un ninja: rápido, esquivo a las amenazas y fortificado contra cualquier brecha (y los ninjas son geniales, por supuesto).</p>\n<p>Armado con una sabiduría atemporal y conocimientos modernos, podrás maniobrar a través del reino en línea como un profesional experimentado, fortificando tu fortaleza virtual contra los intrusos cibernéticos. Es como convertirte en tu propio héroe personal de ciberseguridad sin necesidad de una capa de superhéroe, y puedes volver a usar tu ropa interior debajo de los pantalones (tos, tos, Superman, tos).</p>\n<hr>\n<p><strong>Crédito de foto:</strong> <a href=\"https://pixabay.com/photos/terracotta-army-china-xian-soldier-1865006/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pixabay.com/photos/terracotta-army-china-xian-soldier-1865006/</a></p>",
+            "image": "https://www.elmikewalsh.com/media/posts/30/art-of-war-series.webp",
+            "author": {
+                "name": "elmikewalsh"
+            },
+            "tags": [
+                   "Observaciones",
+                   "A Leer Todo"
+            ],
+            "date_published": "2023-11-28T07:11:00-04:00",
+            "date_modified": "2023-11-29T07:18:46-04:00"
+        },
+        {
             "id": "https://www.elmikewalsh.com/privacidad-una-introduccion/",
             "url": "https://www.elmikewalsh.com/privacidad-una-introduccion/",
             "title": "Privacidad: Una Introducción",
@@ -21,7 +37,7 @@
             "tags": [
                    "Tech",
                    "Observaciones",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2023-11-21T08:35:44-04:00",
             "date_modified": "2023-11-21T08:39:56-04:00"
@@ -37,7 +53,7 @@
             },
             "tags": [
                    "Tech",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2023-11-17T16:57:52-04:00",
             "date_modified": "2023-11-21T08:38:45-04:00"
@@ -53,7 +69,7 @@
             },
             "tags": [
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2019-09-07T17:58:42-04:00",
             "date_modified": "2023-11-03T15:32:03-04:00"
@@ -69,7 +85,7 @@
             },
             "tags": [
                    "Político",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-30T16:53:00-04:00",
             "date_modified": "2023-11-04T08:57:51-04:00"
@@ -86,7 +102,7 @@
             "tags": [
                    "Político",
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-26T15:26:00-04:00",
             "date_modified": "2023-11-17T17:05:22-04:00"
@@ -102,7 +118,7 @@
             },
             "tags": [
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-23T17:45:00-04:00",
             "date_modified": "2023-11-17T17:04:51-04:00"
@@ -119,7 +135,7 @@
             "tags": [
                    "Político",
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-20T17:19:00-04:00",
             "date_modified": "2023-11-17T17:05:16-04:00"
@@ -136,7 +152,7 @@
             "tags": [
                    "Político",
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-19T17:33:00-04:00",
             "date_modified": "2023-11-17T17:05:09-04:00"
@@ -152,26 +168,10 @@
             },
             "tags": [
                    "Humor",
-                   "Artículos Por Doquier"
+                   "A Leer Todo"
             ],
             "date_published": "2017-01-13T17:38:00-04:00",
             "date_modified": "2023-11-17T17:04:57-04:00"
-        },
-        {
-            "id": "https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/",
-            "url": "https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/",
-            "title": "Cómo la vida te jode, según la religión o política",
-            "content_html": "<h3 class=\"bs fq hc pp bx\">El famoso ‘shit happens’ de inglés: muchos sabores, un solo olor</h3>\n<p>En inglés existe un sinfín de listas de cómo a veces las cosas pasan mal. En este caso, hay una riqueza del idioma inglés con la frase <em class=\"jf\">Shit Happens</em>. Sin embargo, la traducción literal —la mierda sucede—, es algo torpe y no comúnmente utilizada. Por otro lado, las frases que se usa en español/castellano en condiciones similares —<strong class=\"ic qd\"><em class=\"jf\">Cosas que pasan</em></strong> / <strong class=\"ic qd\"><em class=\"jf\">Es así </em></strong>/ <strong class=\"ic qd\"><em class=\"jf\">No queda otra</em></strong><em class=\"jf\">—</em> tampoco sirven porque no captan el sentido de <em class=\"jf\">Shit Happens</em>, una frase que indica que cosas malas suceden (de la nada) sobre las cuales no tenemos control. Además hay una sugerencia de que sufriremos (o ya sufrimos) a causa de ello.</p>\n<figure class=\"post__image post__image\" ><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.elmikewalsh.com/media/posts/15/1-2.png\" alt=\"\" width=\"512\" height=\"512\" sizes=\"100vw\" srcset=\"https://www.elmikewalsh.com/media/posts/15/responsive/1-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/15/responsive/1-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/15/responsive/1-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/15/responsive/1-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/15/responsive/1-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/15/responsive/1-2-2xl.webp 1600w\"></figure>\n<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href=\"https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors\" class=\"bc co ic id ie if\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>\n</figure>\n<p id=\"6612\" class=\"ia ib dg bt ic b id qz if ra rb rc rd re rf rg in\" data-selectable-paragraph=\"\">Pero me mata esto porque es bastante chistoso la lista anteriormente mencionada. Entonces, aunque no una traducción literal, una frase que mejor capta la idea de <em class=\"jf\">Shit Happens</em> sería <strong class=\"ic qd\"><em class=\"jf\">La vida te jode</em></strong>.</p>\n<p id=\"4bae\" class=\"ia ib dg bt ic b id qz if ra rb rc rd re rf rg in\" data-selectable-paragraph=\"\">Entonces, sin más demora…</p>\n<hr>\n<h3 id=\"7865\" class=\"py gw dg bt bs di rr rs rt ru rv rw rx ry rz sa sb\">Como la vida te jode en…</h3>\n<ul class=\"\">\n<li id=\"184d\" class=\"ia ib dg bt ic b id zt if zu rb zv rd zw rf zx in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Taoísmo:</strong> La vida te jode.</li>\n<li id=\"0b7b\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Confucianismo: </strong>Confucio dice «La vida te jode».</li>\n<li id=\"61be\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Budismo:</strong> Si la vida te jode, no te jode en realidad.</li>\n<li id=\"9b6f\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Budismo Zen:</strong> ¿Cuál es el sonido de la vida jodiéndote?</li>\n</ul>\n<figure class=\"post__image post__image\" ><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.elmikewalsh.com/media/posts/15/2-2.png\" alt=\"\" width=\"512\" height=\"512\" sizes=\"100vw\" srcset=\"https://www.elmikewalsh.com/media/posts/15/responsive/2-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/15/responsive/2-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/15/responsive/2-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/15/responsive/2-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/15/responsive/2-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/15/responsive/2-2-2xl.webp 1600w\"></figure>\n<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href=\"https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors\" class=\"bc co ic id ie if\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>\n</figure>\n<ul class=\"\">\n<li id=\"d9b2\" class=\"ia ib dg bt ic b id qz if ra rb rc rd re rf rg in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Hinduismo:</strong> La vida me ha jodido antes.</li>\n<li id=\"dab6\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Mormonismo: </strong>La vida me joderá otra vez.</li>\n<li id=\"e0c6\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Islam:</strong> Si la vida me jode, es la voluntad de Alá.</li>\n<li id=\"0816\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Estoicismo:</strong>La vida jodida es su propia recompensa.</li>\n<li id=\"a981\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Protestantismo: </strong>Que la vida le jode a otro.</li>\n<li id=\"b79d\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Catolicismo:</strong> La vida te jode porque lo mereces.</li>\n<li id=\"82c5\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Judismo:</strong> ¿Por qué la vida siempre nos jode?</li>\n<li id=\"8016\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Capitalismo: </strong>La vida me jode más a mi que a ti.</li>\n<li id=\"36d8\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Materialismo: </strong>Gane a quien la vida más jode.</li>\n</ul>\n<figure class=\"post__image post__image\" ><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.elmikewalsh.com/media/posts/15/3-2.png\" alt=\"\" width=\"512\" height=\"512\" sizes=\"100vw\" srcset=\"https://www.elmikewalsh.com/media/posts/15/responsive/3-2-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/15/responsive/3-2-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/15/responsive/3-2-md.webp 768w ,https://www.elmikewalsh.com/media/posts/15/responsive/3-2-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/15/responsive/3-2-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/15/responsive/3-2-2xl.webp 1600w\"></figure>\n<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href=\"https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors\" class=\"bc co ic id ie if\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>\n</figure>\n<ul class=\"\">\n<li id=\"6f3b\" class=\"ia ib dg bt ic b id qz if ra rb rc rd re rf rg in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Ateísmo: </strong>No puedo creer que la vida nos jode.</li>\n<li id=\"1267\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Adventista del Séptimo Día: </strong>La vida nos jode solo el sábado.</li>\n<li id=\"98df\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Existencialismo: </strong>La vida nos jode absurdamente.</li>\n<li id=\"19c5\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Agnosticismo: </strong>¿Puede ser que la vida nos jode?</li>\n<li id=\"c512\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Testigos de Jehová: </strong>Toc, toc… la vida te jode.</li>\n<li id=\"7c85\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Feminismo: </strong>La vida nos jode mejor que a los hombres.</li>\n<li id=\"70cd\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Comunismo: </strong>A todos les jode la vida… menos a los líderes.</li>\n<li id=\"0f3f\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Correctísmo político:</strong> A todos la vida le da una mala pasada de vez en cuando.</li>\n<li id=\"62f6\" class=\"ia ib dg bt ic b id abb if abc rb abd rd abe rf abf in zy zz aba\" data-selectable-paragraph=\"\"><strong class=\"ic qd\">Masoquismo:</strong> ¡Oh! ¡Oh! ¡Jódeme más! ¡Me gusta!</li>\n</ul>\n<figure class=\"post__image post__image\" ><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.elmikewalsh.com/media/posts/15/4-2xl-3.webp\" alt=\"\" width=\"512\" height=\"512\" sizes=\"100vw\" srcset=\"https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-xs.webp 300w ,https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-sm.webp 480w ,https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-md.webp 768w ,https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-lg.webp 1024w ,https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-xl.webp 1360w ,https://www.elmikewalsh.com/media/posts/15/responsive/4-2xl-3-2xl.webp 1600w\"></figure>\n<figcaption >Créditos del imagen: Vecteezy, Poop Emoticon Vectors (<a href=\"https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors\" class=\"bc co ic id ie if\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vecteezy.com/vector-art/82342-poop-emoticon-vectors</a>)</figcaption>\n</figure>",
-            "image": "https://www.elmikewalsh.com/media/posts/15/cover.jpeg",
-            "author": {
-                "name": "elmikewalsh"
-            },
-            "tags": [
-                   "Humor",
-                   "Artículos Por Doquier"
-            ],
-            "date_published": "2017-01-05T16:48:00-04:00",
-            "date_modified": "2023-11-17T17:05:39-04:00"
         }
     ]
 }

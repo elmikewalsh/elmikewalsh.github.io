@@ -21,9 +21,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://www.elmikewalsh.com/blog/articulos-por-doquier/</loc>
-</url>
-<url>
 <loc>https://www.elmikewalsh.com/blog/humor/</loc>
 </url>
 <url>
@@ -34,6 +31,9 @@
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/blog/tech/</loc>
+</url>
+<url>
+<loc>https://www.elmikewalsh.com/blog/todos-articulos/</loc>
 </url>
 <url>
 <loc>https://www.elmikewalsh.com/como-la-vida-te-jode-segun-la-religion-o-politica/</loc>
@@ -72,6 +72,14 @@
 <lastmod>2023-11-08T09:59:19-04:00</lastmod>
 <image:image>
 <image:loc>https://www.elmikewalsh.com/media/posts/22/bw-resume.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.elmikewalsh.com/defendiendo-tu-cibercastillo-arte-de-guerra-digital/</loc>
+<lastmod>2023-11-29T07:18:46-04:00</lastmod>
+<image:image>
+<image:loc>https://www.elmikewalsh.com/media/posts/30/art-of-war-series.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
