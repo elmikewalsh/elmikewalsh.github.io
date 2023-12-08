@@ -10,18 +10,20 @@
     },
     "items": [
         {
-            "id": "https://www.elmikewalsh.com/archivos/",
-            "url": "https://www.elmikewalsh.com/archivos/",
-            "title": "Archivos",
-            "content_html": "<h3 class=\"align-right\">2023</h3>\n<p>[posts tags=\"2023\" count=\"40\"]</p>\n<h3 class=\"align-right\">2019</h3>\n<p>[posts tags=\"2019\" count=\"40\"]</p>\n<h3 class=\"align-right\">2017</h3>\n<p>[posts tags=\"2017\" count=\"40\"]</p>\n<h3 class=\"align-right\">2016</h3>\n<p>[posts tags=\"2016\" count=\"40\"]</p>",
-            "image": "https://www.elmikewalsh.com/media/posts/32/bw-journal-2xl-2xl.webp",
+            "id": "https://www.elmikewalsh.com/se-vende-todo-dignidad-no-incluida/",
+            "url": "https://www.elmikewalsh.com/se-vende-todo-dignidad-no-incluida/",
+            "title": "Se vende todo (dignidad no incluida)",
+            "content_html": "<p>Recuerdo una época pasada, una época dorada, cuando este espacio interconectado llamado internet era un lugar diferente. Era un lugar para mostrar quién eras, sin vergüenza. GeoCities y MySpace existieron (no los extraño), Google no. Era un lugar para construir espacios y páginas con colores primarios, y contemplar la espantosa fealdad que resultaba y decir: “Yo. Hice. Eso.\" Y fue creado, sin ninguna otra razón que la de hacer algo y tal vez –sólo tal vez– alguien más lo encontraría.</p>\n<h3>Eso era entonces, esto es ahora:</h3>\n<p>El internet se ha transformado en gran medida en el equivalente digital de un centro comercial, donde todo el mundo quiere venderte algo o conseguir que te suscribas a las últimas tendencias. Considerándolo todo, cada sitio parece ser igual que el siguiente sitio web, excepto que “es nuestra versión especial; suscríbete / compra nuestro XYZ, no el otro”. Todos los sitios web parecen tener una ventana emergente y algunos intentan bloquear lo que estás buscando. Otros están tan llenos de anuncios y banners que tienes que buscar para encontrar lo que realmente quieres.</p>\n<p>Tenemos bloqueadores de publicidad inteligentes e instalados. Los sitios web, desesperados por conseguir visitas y dinero, contraatacaron, obligándonos a veces a “desactivar” el bloqueador de publicidad, como si lo que estuviéramos haciendo fuera… malo. (Consejo rápido: me encanta Safari; cuando la ventana emergente no te da la opción de cerrarla, simplemente presiona el Modo Lector y todo desaparecerá). :)</p>\n<p>Cuando volvemos a casa (o dondequiera que vivamos) cerramos las ventanas, apagamos las luces y dejamos el mundo afuera. Luego nos conectamos a nuestras redes sociales para subir fotos de cada momento de nuestra vida (dejando de vivir la vida precisamente para documentarla mejor). Lo que llevamos puesto (o no). Qué estamos haciendo. Dónde lo estamos haciendo. Con quién. Es algo así como el equivalente a vivir en una casa de cristal, quitarte toda la ropa, sacar un megáfono y anunciar al mundo que la fiesta es en tu casa.</p>\n<p><strong>Ewwwwww.</strong></p>\n<p>Supongo que nadie se detendrá ni por un momento a pensar por qué (y para qué) hacemos lo que hacemos cuando nos conectamos. Estamos demasiado ocupados apagando nuestros cerebros para hacer lo que siempre hacemos.</p>\n<p>A mucha gente le preocupa que la IA pronto sea más inteligente que los humanos y que deberíamos dejar de desarrollar esa tecnología. Yo diría que la humanidad tiene tanta prisa por hacerse estúpida que IA no tendrá que alcanzarnos en absoluto; simplemente nos volveremos tontos hasta que IA nos pase de largo de forma natural.</p>\n<p><strong>Crédito de foto:</strong> <a href=\"https://pixabay.com/photos/christmas-shoping-center-store-1931054/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pixabay.com/photos/christmas-shoping-center-store-1931054/</a></p>",
+            "image": "https://www.elmikewalsh.com/media/posts/33/bw-everything-is-for-sale.webp",
             "author": {
                 "name": "elmikewalsh"
             },
             "tags": [
+                   "La Vida",
+                   "2023"
             ],
-            "date_published": "2023-12-05T11:07:10-04:00",
-            "date_modified": "2023-12-05T11:48:11-04:00"
+            "date_published": "2023-12-08T17:01:43-04:00",
+            "date_modified": "2023-12-08T17:02:26-04:00"
         },
         {
             "id": "https://www.elmikewalsh.com/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/",
@@ -33,7 +35,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Observaciones",
+                   "La Vida",
                    "A Leer Todo",
                    "2023"
             ],
@@ -68,7 +70,7 @@
             },
             "tags": [
                    "Tech",
-                   "Observaciones",
+                   "La Vida",
                    "A Leer Todo",
                    "2023"
             ],
