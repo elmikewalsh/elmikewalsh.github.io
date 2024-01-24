@@ -3,7 +3,7 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmike.cl/feed.xml" rel="self" />
     <link href="https://www.elmike.cl" />
-    <updated>2024-01-04T07:10:30-04:00</updated>
+    <updated>2024-01-24T12:03:09-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://www.elmike.cl/suficiente/</id>
         <media:content url="https://www.elmike.cl/media/posts/38/enough-2.webp" medium="image" />
             <category term="La Vida"/>
+            <category term="A Leer Todo"/>
             <category term="2024"/>
 
         <updated>2024-01-03T17:36:02-04:00</updated>
@@ -45,6 +46,7 @@
         <id>https://www.elmike.cl/el-cierre-simplificado/</id>
         <media:content url="https://www.elmike.cl/media/posts/37/our-tree.jpg" medium="image" />
             <category term="La Vida"/>
+            <category term="A Leer Todo"/>
             <category term="2023"/>
 
         <updated>2023-12-22T08:31:46-04:00</updated>
@@ -78,6 +80,7 @@
             <category term="Político"/>
             <category term="La Vida"/>
             <category term="Humor"/>
+            <category term="A Leer Todo"/>
             <category term="2023"/>
 
         <updated>2023-12-13T13:02:04-04:00</updated>
@@ -107,6 +110,7 @@
         <id>https://www.elmike.cl/se-vende-todo-dignidad-no-incluida/</id>
         <media:content url="https://www.elmike.cl/media/posts/33/bw-everything-is-for-sale.webp" medium="image" />
             <category term="La Vida"/>
+            <category term="A Leer Todo"/>
             <category term="2023"/>
 
         <updated>2023-12-08T17:01:43-04:00</updated>
