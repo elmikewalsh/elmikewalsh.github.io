@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://www.elmike.cl/perdi-mi-contrasena-puedo-tener-la-tuya/",
+            "url": "https://www.elmike.cl/perdi-mi-contrasena-puedo-tener-la-tuya/",
+            "title": "Perdí mi contraseña, ¿puedo tener la tuya?",
+            "content_html": "<p>Es 2024; si aún estás utilizando una contraseña básica como <em>contraseña1234</em> (vergüenza para ti) o usando la misma contraseña para todas tus cuentas en línea, simplemente estás pidiendo un mundo de problemas digitales (y de la vida real).</p>\n<p>Puede resultar un poco de miedo para las personas comenzando a usar un gestor de contraseñas, pero en pocas palabras: ¿preferirías tomar un poco de tiempo ahora para configurar un pequeño programa que puedes usar de forma gratuita y en cualquier lugar, para que tus contraseñas estén seguras, o eres del tipo que prefiere llamar a los bancos apresuradamente para cancelar tarjetas, enviar correos electrónicos de soporte a empresas explicando que te hackearon mientras esperas impacientemente una respuesta? Si perteneces al primer grupo, ¡sigue leyendo!</p>\n<hr>\n<h3>Elige un gestor de contraseñas gratuito</h3>\n<p>Primero, necesitas elegir uno. Hay opciones gratuitas y pagadas, pero hay dos opciones que son más que suficientes para tus necesidades, y ambas son gratuitas:</p>\n<ul>\n<li><a href=\"https://bitwarden.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Bitwarden</a></li>\n<li><a href=\"https://proton.me/pass\" target=\"_blank\" rel=\"noopener noreferrer\">Proton Pass</a></li>\n</ul>\n<p>La elección es tuya. Yo tuve acceso a Bitwarden primero, así que principalmente lo uso. El diseño está un poco anticuado. Por otro lado, Proton Pass es mucho más agradable visualmente, pero no es tan maduro como producto como Bitwarden. De todos modos, elige uno e instálalo. Luego, el siguiente paso es el más importante:</p>\n<h3>Crea una contraseña maestra fuerte</h3>\n<p>Un buen gestor de contraseñas requerirá que establezcas una contraseña maestra para acceder al gestor de contraseñas. Un buen gestor de contraseñas TAMPOCO almacenará tu contraseña maestra. Como resultado, si la pierdes o la olvidas, no podrás recuperarla ni solicitar que la empresa te la envíe. Tampoco podrás generar una nueva. Entonces, ESTA contraseña es la que tendrá que ser buena y también una que puedas recordar. (Este es el paso que te causará problemas más adelante si no piensas en ello un poco).</p>\n<h3>Importa contraseñas existentes</h3>\n<p>Si tienes contraseñas guardadas en tu navegador, muchos gestores de contraseñas gratuitos te permiten importarlas. Es una buena idea y te ahorrará tiempo. ¡Adelante!</p>\n<h3>Almacena automáticamente las nuevas contraseñas</h3>\n<p>Permite que el gestor de contraseñas almacene automáticamente las nuevas contraseñas cuando inicies sesión.</p>\n<h3>Generar nuevas contraseñas</h3>\n<p>Utiliza el gestor de contraseñas para generar nuevas contraseñas manualmente y también verifica si tu contraseña se encuentra en una violación de datos. Algunos gestores de contraseñas, como Bitwarden, te permitirán configurar fácilmente la longitud de la contraseña (40, 50 e incluso 100 caracteres). Estas serán contraseñas que probablemente no puedas memorizar nunca. Sin embargo, no es necesario, siempre y cuando recuerdes la contraseña maestra que estableciste en el paso #2, tendrás acceso a ella. Tampoco importa qué navegador uses, ya que hay una extensión que puedes instalar y utilizar en tu computadora, teléfono, etc.</p>\n<p>Pasos rápidos y fáciles. En 2024 no hay excusa para usar una contraseña débil. Puedes dedicar un pequeño tiempo ahora para configurar tranquilamente un gestor de contraseñas... o mucho más tiempo (y estresante) más adelante.</p>\n<p>¡Buena suerte!</p>\n<p><strong>Crédito de foto:</strong> <a href=\"https://pixabay.com/illustrations/security-professional-secret-5199236/\" target=\"_blank\" rel=\"noopener noreferrer\">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>",
+            "image": "https://www.elmike.cl/media/posts/40/lost-my-password.webp",
+            "author": {
+                "name": "elmikewalsh"
+            },
+            "tags": [
+                   "¿Cómo se hace...?",
+                   "Tech",
+                   "A Leer Todo",
+                   "2024"
+            ],
+            "date_published": "2024-02-05T14:27:27-03:00",
+            "date_modified": "2024-02-05T14:31:57-03:00"
+        },
+        {
             "id": "https://www.elmike.cl/el-juego-de-los-nombres/",
             "url": "https://www.elmike.cl/el-juego-de-los-nombres/",
             "title": "El Juego De Los Nombres",
@@ -165,23 +183,6 @@
             ],
             "date_published": "2023-11-17T17:57:52-03:00",
             "date_modified": "2023-12-22T07:44:20-03:00"
-        },
-        {
-            "id": "https://www.elmike.cl/oda-al-whisky/",
-            "url": "https://www.elmike.cl/oda-al-whisky/",
-            "title": "Oda al Whisky",
-            "content_html": "<p>Algunas reflexiones acerca del líquido mágico que es el whisky.</p>\n<blockquote>\n<p>Es malo tener demasiado de cualquier cosa, pero demasiado buen whiskey es apenas suficiente. - Mark Twain</p>\n</blockquote>\n<blockquote>\n<p>A mí me gusta los whiskeys viejos y las mujeres jóvenes. - Errol Flynn</p>\n</blockquote>\n<blockquote>\n<p>Whiskey es el brillo del sol en forma líquida.  - George Bernard Shaw</p>\n</blockquote>\n<blockquote>\n<p>Siempre debes andar con un frasco de whiskey, en caso de mórdida de serpiente. Además, es recomendable andar siempre con una serpiente.  - W. C. Fields</p>\n</blockquote>\n<blockquote>\n<p>¡Dios mío! Tanto me gusta tomar el escocés que a veces creo que me llamo Igor Stra-whiskey!  - Igor Stravinsky</p>\n</blockquote>",
-            "image": "https://www.elmike.cl/media/posts/20/whiskey2.jpg",
-            "author": {
-                "name": "elmikewalsh"
-            },
-            "tags": [
-                   "Humor",
-                   "A Leer Todo",
-                   "2019"
-            ],
-            "date_published": "2019-09-07T17:58:42-04:00",
-            "date_modified": "2023-12-05T12:19:12-03:00"
         }
     ]
 }
