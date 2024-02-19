@@ -3,19 +3,19 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmike.cl/feed.xml" rel="self" />
     <link href="https://www.elmike.cl" />
-    <updated>2024-02-05T14:31:57-03:00</updated>
+    <updated>2024-02-19T08:54:45-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmike.cl</id>
 
     <entry>
-        <title>Perdí mi contraseña, ¿puedo tener la tuya?</title>
+        <title>El arte de una buena contraseña</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/perdi-mi-contrasena-puedo-tener-la-tuya/"/>
-        <id>https://www.elmike.cl/perdi-mi-contrasena-puedo-tener-la-tuya/</id>
+        <link href="https://www.elmike.cl/el-arte-de-una-buena-contrasena/"/>
+        <id>https://www.elmike.cl/el-arte-de-una-buena-contrasena/</id>
         <media:content url="https://www.elmike.cl/media/posts/40/lost-my-password.webp" medium="image" />
             <category term="¿Cómo se hace...?"/>
             <category term="Tech"/>
@@ -69,7 +69,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.cl/media/posts/39/naming-game.webp" class="type:primaryImage" alt="" /></p>
-                <p>La marca personal en internet puede ser medio complicada, sobre todo cuando le agregas el tema de tener un sitio web multilingüe. La disponibilidad del nombre de dominio, la capacidad de pronunciar o escribir un nombre son factores importantes.</p>
+                <p>Presentarse en el internet puede ser medio complicada, sobre todo cuando le agregas el tema de tener un sitio web multilingüe. La disponibilidad del nombre de dominio, la capacidad de pronunciar o escribir un nombre son factores importantes.</p>
 <p>Hace poco le di los toques finales (por ahora, al menos) a la configuración de mi sitio web personal. Al principio, opté por un nombre de dominio y un subdominio para los que hablan inglés. Quedó algo así:</p>
 <ul>
 <li>elmikewalsh.com</li>
@@ -83,7 +83,10 @@
 <li><strong>El:</strong> Sin problemas en tierras hispanohablantes con este.</li>
 </ul>
 <hr>
-<p>Así que tener que deletrear m-i-k-e-w-a-l-s-h para compartir mi nombre de dominio o dirección de correo electrónico es un fastidio. Especialmente por teléfono. (Por cierto, una buena prueba para la marca personal: si puedes decirlo en una conversación telefónica y la otra persona puede anotarlo, vas bien).</p>
+<p>Así que tener que deletrear m-i-k-e-w-a-l-s-h para compartir mi nombre de dominio o dirección de correo electrónico es un fastidio. Especialmente por teléfono.</p>
+<blockquote>
+<p>Por cierto, una buena prueba para el nombre/email/lo que sea que buscas: si puedes decirlo en una conversación telefónica y la otra persona puede anotarlo, vas bien.</p>
+</blockquote>
 <p><strong>Así es como lo solucioné:</strong></p>
 <ol>
 <li>Tengo dos nombres de dominio separados: lo más cortos posible y solo las extensiones son diferentes.</li>
