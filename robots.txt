@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://www.elmike.cl/sitemap.xml
