@@ -587,7 +587,20 @@ textarea {
     height: var(--navbar-height);
   }
 }
-
+.top.is-visible {
+  background: var(--section-bg);
+  -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
+          box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
+  opacity: 1;
+  position: fixed;
+  -webkit-transform: translate(0, 0);
+          transform: translate(0, 0);
+  -webkit-transition: height 0.3s, background 0.3s, opacity 0.24s, -webkit-transform 0.24s;
+  transition: height 0.3s, background 0.3s, opacity 0.24s, -webkit-transform 0.24s;
+  transition: transform 0.24s, height 0.3s, background 0.3s, opacity 0.24s;
+  transition: transform 0.24s, height 0.3s, background 0.3s, opacity 0.24s, -webkit-transform 0.24s;
+  width: 100%;
+}
 @media all and (min-width: 56.25em) {
   .top.is-hidden {
     opacity: 0;
