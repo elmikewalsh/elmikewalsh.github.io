@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Escribo Cosas</title>
-    <link href="https://www.elmike.cl/feed.xml" rel="self" />
-    <link href="https://www.elmike.cl" />
+    <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
+    <link href="https://www.elmikewalsh.cl" />
     <updated>2024-06-11T09:39:34-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
-    <id>https://www.elmike.cl</id>
+    <id>https://www.elmikewalsh.cl</id>
 
     <entry>
         <title>$1.000.000 Construyendo Casas con Martillo GPT</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/1000000-construyendo-casas-con-martillogpt/"/>
-        <id>https://www.elmike.cl/1000000-construyendo-casas-con-martillogpt/</id>
-        <media:content url="https://www.elmike.cl/media/posts/41/gpt-hammer.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/"/>
+        <id>https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer.webp" medium="image" />
             <category term="La Vida"/>
             <category term="Humor"/>
             <category term="A Leer Todo"/>
@@ -26,7 +26,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/41/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -66,9 +66,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/el-arte-de-una-buena-contrasena/"/>
-        <id>https://www.elmike.cl/el-arte-de-una-buena-contrasena/</id>
-        <media:content url="https://www.elmike.cl/media/posts/40/lost-my-password.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/"/>
+        <id>https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/40/lost-my-password.webp" medium="image" />
             <category term="¿Cómo se hace...?"/>
             <category term="Tecnología"/>
             <category term="A Leer Todo"/>
@@ -78,7 +78,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/40/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/40/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -118,9 +118,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/el-juego-de-los-nombres/"/>
-        <id>https://www.elmike.cl/el-juego-de-los-nombres/</id>
-        <media:content url="https://www.elmike.cl/media/posts/39/naming-game.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/el-juego-de-los-nombres/"/>
+        <id>https://www.elmikewalsh.cl/el-juego-de-los-nombres/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/39/naming-game.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
@@ -130,7 +130,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/39/naming-game.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/39/naming-game.webp" class="type:primaryImage" alt="" /></p>
                 <p>Presentarse en el internet puede ser medio complicada, sobre todo cuando le agregas el tema de tener un sitio web multilingüe. La disponibilidad del nombre de dominio, la capacidad de pronunciar o escribir un nombre son factores importantes.</p>
 <p>Hace poco le di los toques finales (por ahora, al menos) a la configuración de mi sitio web personal. Al principio, opté por un nombre de dominio y un subdominio para los que hablan inglés. Quedó algo así:</p>
 <ul>
@@ -168,9 +168,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/suficiente/"/>
-        <id>https://www.elmike.cl/suficiente/</id>
-        <media:content url="https://www.elmike.cl/media/posts/38/enough-2.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/suficiente/"/>
+        <id>https://www.elmikewalsh.cl/suficiente/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/38/enough-2.webp" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2024"/>
@@ -179,7 +179,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/38/enough-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/38/enough-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Quentin Tarantino comentó recientemente que planea hacer 10 películas y eso es todo. (nota: en contexto, indicó que estaría bien haciendo algo más adelante a pesar de haber hecho 10 películas, por lo que no es un número fijo). Mencionó querer retirarse en la cima del juego. Similar a algunos, pero no a todos, los atletas. Lo mismo se aplica a todo; los proyectos de nosotros “simples mortales”. Nuestros trabajos. Nuestras ambiciones. Nuestro deseo de hacer más, tener más, obtener más, visitar más, mirar más, consumir más.</p>
 <p><strong>¿En qué momento es suficiente?</strong></p>
 <p>Suficiente significa lo necesario para satisfacer una necesidad o deseo. Entonces, una vez que llegas a ese punto, todo lo demás es extra. Innecesario. Incluso un desperdicio.</p>
@@ -196,9 +196,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/el-cierre-simplificado/"/>
-        <id>https://www.elmike.cl/el-cierre-simplificado/</id>
-        <media:content url="https://www.elmike.cl/media/posts/37/our-tree.jpg" medium="image" />
+        <link href="https://www.elmikewalsh.cl/el-cierre-simplificado/"/>
+        <id>https://www.elmikewalsh.cl/el-cierre-simplificado/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/37/our-tree.jpg" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
@@ -207,7 +207,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/37/our-tree.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/37/our-tree.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Según el calendario gregoriano, un año más (2023) está llegando a su fin. Esa época del año en la que muchas personas en todo el mundo entran en el furor comercial anual y compran, compran, compran, comen, comen, comen y beben, beben, beben.</p>
 <p>Consigamos regalos XYZ para personas XYZ. La Persona X seguramente nos dará un regalo, por lo que tenemos que tener uno para regalárselo a la Persona X.</p>
 <ul>
@@ -228,9 +228,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/4-formas-de-cagar-una-pregunta-de-si-no/"/>
-        <id>https://www.elmike.cl/4-formas-de-cagar-una-pregunta-de-si-no/</id>
-        <media:content url="https://www.elmike.cl/media/posts/35/4-ways-to.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/"/>
+        <id>https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" medium="image" />
             <category term="Político"/>
             <category term="La Vida"/>
             <category term="Humor"/>
@@ -241,7 +241,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/35/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -271,9 +271,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/se-vende-todo-dignidad-no-incluida/"/>
-        <id>https://www.elmike.cl/se-vende-todo-dignidad-no-incluida/</id>
-        <media:content url="https://www.elmike.cl/media/posts/33/bw-everything-is-for-sale.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/se-vende-todo-dignidad-no-incluida/"/>
+        <id>https://www.elmikewalsh.cl/se-vende-todo-dignidad-no-incluida/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/33/bw-everything-is-for-sale.webp" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
@@ -282,7 +282,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/33/bw-everything-is-for-sale.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/33/bw-everything-is-for-sale.webp" class="type:primaryImage" alt="" /></p>
                 <p>Recuerdo una época pasada, una época dorada, cuando este espacio interconectado llamado internet era un lugar diferente. Era un lugar para mostrar quién eras, sin vergüenza. GeoCities y MySpace existieron (no los extraño), Google no. Era un lugar para construir espacios y páginas con colores primarios, y contemplar la espantosa fealdad que resultaba y decir: “Yo. Hice. Eso." Y fue creado, sin ninguna otra razón que la de hacer algo y tal vez –sólo tal vez– alguien más lo encontraría.</p>
 <h3>Eso era entonces, esto es ahora:</h3>
 <p>El internet se ha transformado en gran medida en el equivalente digital de un centro comercial, donde todo el mundo quiere venderte algo o conseguir que te suscribas a las últimas tendencias. Considerándolo todo, cada sitio parece ser igual que el siguiente sitio web, excepto que “es nuestra versión especial; suscríbete / compra nuestro XYZ, no el otro”. Todos los sitios web parecen tener una ventana emergente y algunos intentan bloquear lo que estás buscando. Otros están tan llenos de anuncios y banners que tienes que buscar para encontrar lo que realmente quieres.</p>
@@ -300,9 +300,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/"/>
-        <id>https://www.elmike.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/</id>
-        <media:content url="https://www.elmike.cl/media/posts/30/art-of-war-series.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/"/>
+        <id>https://www.elmikewalsh.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/30/art-of-war-series.webp" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
@@ -311,7 +311,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/30/art-of-war-series.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/30/art-of-war-series.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -340,9 +340,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/cruzando-las-montanas/"/>
-        <id>https://www.elmike.cl/cruzando-las-montanas/</id>
-        <media:content url="https://www.elmike.cl/media/posts/31/photos-tag-image.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/cruzando-las-montanas/"/>
+        <id>https://www.elmikewalsh.cl/cruzando-las-montanas/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/31/photos-tag-image.webp" medium="image" />
             <category term="Pintoresco"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
@@ -351,20 +351,20 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/31/photos-tag-image.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/31/photos-tag-image.webp" class="type:primaryImage" alt="" /></p>
                 <p>Una nota rápida para compartir algunas fotos de un viaje a través de las montañas a un par de pueblos de Argentina. Todos pasamos momentos divertidos (y con chocolate). :)</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_0993-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_0993-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1148-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1148-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1154-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1154-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1397-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1397-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1399-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1399-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1404-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1404-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1406-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1406-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1421-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1421-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1357-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1357-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1371-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1371-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmike.cl/media/posts/31/gallery/IMG_1373-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmike.cl/media/posts/31/gallery/IMG_1373-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_0993-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_0993-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1148-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1148-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1154-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1154-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1397-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1397-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1399-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1399-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1404-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1404-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1406-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1406-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1421-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1421-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1357-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1357-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1371-2.webp" data-size="2000x1125"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1371-2-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
 </div></div>
 <p class="align-center"><em>San Martin de los Andes y Bariloche, Argentina.</em></p>
             ]]>
@@ -375,9 +375,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmike.cl/privacidad-una-introduccion/"/>
-        <id>https://www.elmike.cl/privacidad-una-introduccion/</id>
-        <media:content url="https://www.elmike.cl/media/posts/29/privacy.webp" medium="image" />
+        <link href="https://www.elmikewalsh.cl/privacidad-una-introduccion/"/>
+        <id>https://www.elmikewalsh.cl/privacidad-una-introduccion/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/29/privacy.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
@@ -387,7 +387,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmike.cl/media/posts/29/privacy.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/29/privacy.webp" class="type:primaryImage" alt="" /></p>
                 <p>La privacidad es un tema candente en 2023. Una preocupación para algunos, una palabra de moda para otros. ¿Debería importarme? ¿Qué puedo hacer? ¿Es demasiado tarde? ¿Por qué molestarse?</p>
 <p>Me encantaría decir que esta es tu parada única para todas las respuestas, pero ¿quién soy yo sino un par de manos escribiendo? (Nota: en 2023, este sitio web utiliza tecnología antigua; soy un ser humano que escribe este artículo desde cero; inteligencia artificial no tiene nada que ver).</p>
 <p><strong>Pero algunas reflexiones sobre la privacidad, por lo que vale:</strong></p>
