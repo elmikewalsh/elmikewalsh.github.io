@@ -3,7 +3,7 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmike.cl/feed.xml" rel="self" />
     <link href="https://www.elmike.cl" />
-    <updated>2024-06-10T08:59:26-04:00</updated>
+    <updated>2024-06-11T09:39:34-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -27,11 +27,19 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.cl/media/posts/41/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
-                <p>Me pasé 30 minutos buscando en Google cómo construir casas mientras dormía usando el nuevo Martillo y Clavos GPT, y las vendí con solo unos clics en Instagram. El internet está lleno de oportunidades. Solo con una búsqueda rápida en Google verás que hay cientos de resultados para un montón de personas con las mismas tres ideas de "ganar dinero mientras duermes" que ya saturaron el mercado.</p>
+                <div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i03o728o6">La Historia Completa</a></li>
+<li><a href="#mcetoc_1i03o728o7">La Casa Completa</a></li>
+<li><a href="#mcetoc_1i03o728o8">El Dinero Completo</a></li>
+</ul>
+</div>
+<p>Me pasé 30 minutos buscando en Google cómo construir casas mientras dormía usando el nuevo Martillo y Clavos GPT, y las vendí con solo unos clics en Instagram. El internet está lleno de oportunidades. Solo con una búsqueda rápida en Google verás que hay cientos de resultados para un montón de personas con las mismas tres ideas de "ganar dinero mientras duermes" que ya saturaron el mercado.</p>
 <blockquote>
 <p><strong>Resumen:</strong> Si hay un montón de artículos sobre cómo hacer esto, cualquier mercado real ya está saturado y solo competirás por lo poco que caiga de las personas que ya establecieron esos negocios.</p>
 </blockquote>
-<h3>La Historia Completa</h3>
+<h3 id="mcetoc_1i03o728o6">La Historia Completa</h3>
 <p>Ok, para aquellos de ustedes que están curiosos y quieren seguir leyendo (no se detuvieron arriba), creo que muchos de nosotros lo hemos considerado, especialmente en el mundo económico pospandémico lleno de inflación de 2023-2024:</p>
 <blockquote>
 <p>"¿Cómo puedo establecer un negocio rápidamente que haga, venda y envíe productos de manera rápida y automática, y solo reciba los ingresos automáticamente en mi cuenta bancaria?"</p>
@@ -40,13 +48,13 @@
 <p>Pero en serio, como la IA, ChatGPT, etc., están de moda en este momento, hice una búsqueda rápida sobre cómo hacer $XYZ/mes automáticamente usando ChatGPT. Porque... ¿por qué no, verdad?</p>
 <p>Parece que todos han escrito un artículo sobre este increíble milagro, que parece involucrar comprar diseños de stock, hacer que ChatGPT escupa mensajes tontos y automatizar la creación de camisetas/productos. ¿Y luego se venden solos, cierto?</p>
 <p>Me pregunto a mí mismo, "Auto, si todos tienen problemas económicos en este momento ... ¿quién demonios está comprando estas cosas?"</p>
-<h3>La Casa Completa</h3>
+<h3 id="mcetoc_1i03o728o7">La Casa Completa</h3>
 <p>Ahora, en teoría, los artículos describen un proceso interesante sobre cómo ganar dinero. Y, a menos que los autores lo hayan inventado (lo cual también es posible), entonces le está generando ingresos a alguien.</p>
 <p>Pero, como con cualquier cosa "de moda", una vez que alguien ve que XYZ es un éxito, entonces TODOS quieren hacerlo.</p>
 <p>Y después de que todos comienzan a hacerlo, ya no está "de moda". Porque, mira ... todos lo están haciendo.</p>
 <p>Así que eventualmente estaremos inundados con 1.000.000 tiendas en línea vendiendo tazas y camisetas con mensajes tontos proporcionados por GTP Chat.</p>
 <p>Está bien, todos lo están haciendo, así que sigue a la multitud.</p>
-<h3>El Dinero Completo</h3>
+<h3 id="mcetoc_1i03o728o8">El Dinero Completo</h3>
 <p>Aún así, supongo que la mayoría de las personas seguirán queriendo encontrar esa manera mágica y fácil de ganar dinero con poco o ningún esfuerzo. Supongo que hay formas de tomar Chat GPT (que es solo una herramienta, por cierto) y aplicarla a una nueva idea. Si vas a seguir este camino, al menos elige uno que nadie más esté siguiendo.</p>
 <p>Yo, por mi parte, he aplicado ChatGPT a nuestro kit de herramientas y ahora construye casas automáticamente. He escrito un script en Python para publicar las casas en Internet, ¡así que básicamente se venden solas! :)</p>
 <p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
@@ -71,23 +79,33 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.cl/media/posts/40/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
-                <p>Es 2024; si aún estás utilizando una contraseña básica como <em>contraseña1234</em> (vergüenza para ti) o usando la misma contraseña para todas tus cuentas en línea, simplemente estás pidiendo un mundo de problemas digitales (y de la vida real).</p>
+                <div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i03o96gkj">Elige un gestor de contraseñas gratuito</a></li>
+<li><a href="#mcetoc_1i03o96gkk">Crea una contraseña maestra fuerte</a></li>
+<li><a href="#mcetoc_1i03o96gkl">Importa contraseñas existentes</a></li>
+<li><a href="#mcetoc_1i03o96gkm">Almacena automáticamente las nuevas contraseñas</a></li>
+<li><a href="#mcetoc_1i03o96gkn">Generar nuevas contraseñas</a></li>
+</ul>
+</div>
+<p>Es 2024; si aún estás utilizando una contraseña básica como <em>contraseña1234</em> (vergüenza para ti) o usando la misma contraseña para todas tus cuentas en línea, simplemente estás pidiendo un mundo de problemas digitales (y de la vida real).</p>
 <p>Puede resultar un poco de miedo para las personas comenzando a usar un gestor de contraseñas, pero en pocas palabras: ¿preferirías tomar un poco de tiempo ahora para configurar un pequeño programa que puedes usar de forma gratuita y en cualquier lugar, para que tus contraseñas estén seguras, o eres del tipo que prefiere llamar a los bancos apresuradamente para cancelar tarjetas, enviar correos electrónicos de soporte a empresas explicando que te hackearon mientras esperas impacientemente una respuesta? Si perteneces al primer grupo, ¡sigue leyendo!</p>
 <hr>
-<h3>Elige un gestor de contraseñas gratuito</h3>
+<h3 id="mcetoc_1i03o96gkj">Elige un gestor de contraseñas gratuito</h3>
 <p>Primero, necesitas elegir uno. Hay opciones gratuitas y pagadas, pero hay dos opciones que son más que suficientes para tus necesidades, y ambas son gratuitas:</p>
 <ul>
 <li><a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">Bitwarden</a></li>
 <li><a href="https://proton.me/pass" target="_blank" rel="noopener noreferrer">Proton Pass</a></li>
 </ul>
 <p>La elección es tuya. Yo tuve acceso a Bitwarden primero, así que principalmente lo uso. El diseño está un poco anticuado. Por otro lado, Proton Pass es mucho más agradable visualmente, pero no es tan maduro como producto como Bitwarden. De todos modos, elige uno e instálalo. Luego, el siguiente paso es el más importante:</p>
-<h3>Crea una contraseña maestra fuerte</h3>
+<h3 id="mcetoc_1i03o96gkk">Crea una contraseña maestra fuerte</h3>
 <p>Un buen gestor de contraseñas requerirá que establezcas una contraseña maestra para acceder al gestor de contraseñas. Un buen gestor de contraseñas TAMPOCO almacenará tu contraseña maestra. Como resultado, si la pierdes o la olvidas, no podrás recuperarla ni solicitar que la empresa te la envíe. Tampoco podrás generar una nueva. Entonces, ESTA contraseña es la que tendrá que ser buena y también una que puedas recordar. (Este es el paso que te causará problemas más adelante si no piensas en ello un poco).</p>
-<h3>Importa contraseñas existentes</h3>
+<h3 id="mcetoc_1i03o96gkl">Importa contraseñas existentes</h3>
 <p>Si tienes contraseñas guardadas en tu navegador, muchos gestores de contraseñas gratuitos te permiten importarlas. Es una buena idea y te ahorrará tiempo. ¡Adelante!</p>
-<h3>Almacena automáticamente las nuevas contraseñas</h3>
+<h3 id="mcetoc_1i03o96gkm">Almacena automáticamente las nuevas contraseñas</h3>
 <p>Permite que el gestor de contraseñas almacene automáticamente las nuevas contraseñas cuando inicies sesión.</p>
-<h3>Generar nuevas contraseñas</h3>
+<h3 id="mcetoc_1i03o96gkn">Generar nuevas contraseñas</h3>
 <p>Utiliza el gestor de contraseñas para generar nuevas contraseñas manualmente y también verifica si tu contraseña se encuentra en una violación de datos. Algunos gestores de contraseñas, como Bitwarden, te permitirán configurar fácilmente la longitud de la contraseña (40, 50 e incluso 100 caracteres). Estas serán contraseñas que probablemente no puedas memorizar nunca. Sin embargo, no es necesario, siempre y cuando recuerdes la contraseña maestra que estableciste en el paso #2, tendrás acceso a ella. Tampoco importa qué navegador uses, ya que hay una extensión que puedes instalar y utilizar en tu computadora, teléfono, etc.</p>
 <p>Pasos rápidos y fáciles. En 2024 no hay excusa para usar una contraseña débil. Puedes dedicar un pequeño tiempo ahora para configurar tranquilamente un gestor de contraseñas... o mucho más tiempo (y estresante) más adelante.</p>
 <p>¡Buena suerte!</p>
@@ -224,14 +242,25 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.cl/media/posts/35/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
-                <p>El domingo 17 de diciembre, Chile acudirá (nuevamente) a las urnas para votar la nueva propuesta de constitución. En términos políticos muy generales, mientras que la primera propuesta de hace un par de años fue vista como “izquierdista”, la nueva ha sido preparada por un grupo predominantemente de la derecha. Es una votación simple: ¿Aprueba usted la nueva constitución? Sí o No. Pregunta sencilla. ¿Qué tan difícil podría ser?</p>
+                <div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i03oc6sj1g">Responda no preparado / informado</a></li>
+<li><a href="#mcetoc_1i03oc6sj1h">Copie la respuesta de otra persona</a></li>
+<li><a href="#mcetoc_1i03oc6sj1i">Voto basado en quién es el presidente</a></li>
+<li><a href="#mcetoc_1i03oc6sj1j">No respondas la pregunta</a></li>
+</ul>
+</div>
+<p>El domingo 17 de diciembre, Chile acudirá (nuevamente) a las urnas para votar la nueva propuesta de constitución. En términos políticos muy generales, mientras que la primera propuesta de hace un par de años fue vista como “izquierdista”, la nueva ha sido preparada por un grupo predominantemente de la derecha. Es una votación simple: ¿Aprueba usted la nueva constitución? Sí o No. Pregunta sencilla. ¿Qué tan difícil podría ser?</p>
 <p>Es bastante fácil cagarla, si lo piensas bien (lo cual, desafortunadamente, es lo que hago). Entonces, aquí hay 4 formas de cagar una simple pregunta de sí o no:</p>
-<ol>
-<li><strong>Responda no preparado / informado:</strong> Para votar sobre una nueva constitución, es necesario leerla. Puedes discutir todo lo que quieras sobre lo larga que es, no todos tienen el nivel educativo para entenderla, etc. Si estás leyendo esto, puedes leer la constitución. ¿Es largo? Rayos que sí. Más de 170 páginas. ¿Es realmente interesante? No tanto. Pero considerando que es un documento de gran alcance que sirve como una especie de guía nacional durante quizás al menos 100 años, podría ser importante. Y considerando cuánto tiempo pasamos en el teléfono, en Netflix, en cosas que realmente no son esenciales para el día a día, es más irresponsabilidad o flojera que no lo leemos. Incluso si no lo lees todo, al menos lee algunas partes. Quizás las partes que sientes son los más importantes.</li>
-<li><strong>Copie la respuesta de otra persona:</strong> Me encanta ésta. La gente se queja todo el tiempo de que todo el mundo sólo está interesado en sí mismo y en su propio bienestar; El gobierno sólo está interesado en mantener el poder. Pero cuando llega el momento de votar sí o no a una constitución, la abrimos, vemos cuántas páginas tiene y recurrimos a…. las opiniones de otros y/o las noticias. Me duele pensar por mí, por favor piensa por mí. Mi favorito es cuando la gente se queja y se queja de lo corruptos que son los políticos y luego comprueba cuál va a votar su partido político favorito. Hermoso.</li>
-<li><strong> Voto basado en quién es el presidente: </strong>Esto es absurdo. Una constitución (preparada democráticamente) es más grande que una (o varias) administraciones. Algunas personas votarán a favor (o en contra) el domingo basándose únicamente en quién es actualmente el presidente. El actual presidente, por cierto, no tiene nada que ver con el nuevo documento. Es un poco como decir: "El equipo de fútbol que odio usa uniformes azules, por eso odio el fútbol".</li>
-<li><strong>No respondas la pregunta:</strong> Anular tu voto para presidente o senador o lo que sea es una cosa (aún piensas que esos votos anulados deberían tener alguna consecuencia). Pero este es un documento que estará disponible por un largo tiempo (si se aprueba), por lo que es bueno tener una opinión. Y además, no votar te expondrá a una multa.</li>
-</ol>
+<h3 id="mcetoc_1i03oc6sj1g">Responda no preparado / informado</h3>
+<p>Para votar sobre una nueva constitución, es necesario leerla. Puedes discutir todo lo que quieras sobre lo larga que es, no todos tienen el nivel educativo para entenderla, etc. Si estás leyendo esto, puedes leer la constitución. ¿Es largo? Rayos que sí. Más de 170 páginas. ¿Es realmente interesante? No tanto. Pero considerando que es un documento de gran alcance que sirve como una especie de guía nacional durante quizás al menos 100 años, podría ser importante. Y considerando cuánto tiempo pasamos en el teléfono, en Netflix, en cosas que realmente no son esenciales para el día a día, es más irresponsabilidad o flojera que no lo leemos. Incluso si no lo lees todo, al menos lee algunas partes. Quizás las partes que sientes son los más importantes.</p>
+<h3 id="mcetoc_1i03oc6sj1h">Copie la respuesta de otra persona</h3>
+<p>Me encanta ésta. La gente se queja todo el tiempo de que todo el mundo sólo está interesado en sí mismo y en su propio bienestar; El gobierno sólo está interesado en mantener el poder. Pero cuando llega el momento de votar sí o no a una constitución, la abrimos, vemos cuántas páginas tiene y recurrimos a…. las opiniones de otros y/o las noticias. Me duele pensar por mí, por favor piensa por mí. Mi favorito es cuando la gente se queja y se queja de lo corruptos que son los políticos y luego comprueba cuál va a votar su partido político favorito. Hermoso.</p>
+<h3 id="mcetoc_1i03oc6sj1i"><span style="font-family: var(--editor-font-family); font-size: inherit;">Voto basado en quién es el presidente</span></h3>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Esto es absurdo. Una constitución (preparada democráticamente) es más grande que una (o varias) administraciones. Algunas personas votarán a favor (o en contra) el domingo basándose únicamente en quién es actualmente el presidente. El actual presidente, por cierto, no tiene nada que ver con el nuevo documento. Es un poco como decir: "El equipo de fútbol que odio usa uniformes azules, por eso odio el fútbol".</span></p>
+<h3 id="mcetoc_1i03oc6sj1j">No respondas la pregunta</h3>
+<p>Anular tu voto para presidente o senador o lo que sea es una cosa (aún piensas que esos votos anulados deberían tener alguna consecuencia). Pero este es un documento que estará disponible por un largo tiempo (si se aprueba), por lo que es bueno tener una opinión. Y además, no votar te expondrá a una multa.</p>
 <p>Bueno, tendremos que ver cómo resulta esto el fin de semana. Estoy seguro de que hay muchas otras formas de cagar una simple pregunta de sí o no, pero hay que empezar por algún lado. Y ahora lo sabes.</p>
 <p><strong>Crédito de foto: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" rel="noopener noreferrer">https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic</a></p>
             ]]>
@@ -283,15 +312,22 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://www.elmike.cl/media/posts/30/art-of-war-series.webp" class="type:primaryImage" alt="" /></p>
-                <p>En el mundo actual, nuestra existencia virtual es como una fortaleza. Al igual que los castillos requerían fortificaciones para su protección, también lo hace su presencia en línea. Puede sonar desalentador, pero no te preocupes, hemos hurgado en los sabios consejos del legendario Sun Tzu, maestro estratega, para ayudarte a fortalecer tus defensas digitales sin sentir que te estás preparando para la guerra.</p>
-<h3>Conoce las reglas del juego de mesa</h3>
+                <div class="post__toc">
+<h3>Tabla de contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i03oclun1o">Conoce las reglas del juego de mesa</a></li>
+<li><a href="#mcetoc_1i03oclun1p">¡Sube tu nivel ninja!</a></li>
+</ul>
+</div>
+<p>En el mundo actual, nuestra existencia virtual es como una fortaleza. Al igual que los castillos requerían fortificaciones para su protección, también lo hace su presencia en línea. Puede sonar desalentador, pero no te preocupes, hemos hurgado en los sabios consejos del legendario Sun Tzu, maestro estratega, para ayudarte a fortalecer tus defensas digitales sin sentir que te estás preparando para la guerra.</p>
+<h3 id="mcetoc_1i03oclun1o">Conoce las reglas del juego de mesa</h3>
 <p>En primer lugar, analicemos la importancia de conocer el campo de juego. Como dijo Sun Tzu: </p>
 <blockquote>
 <p><strong><em>Si conoces al enemigo y te conoces a ti mismo, no debes temer el resultado de cien batallas</em></strong></p>
 </blockquote>
 <p>Esto se traduce en el ámbito digital como la comprensión de sus diversas plataformas, el conocimiento de dónde se almacena su información confidencial y la identificación de cualquier vulnerabilidad potencial en su configuración en línea. Dónde ha configurado las cuentas, qué información ha proporcionado, qué tan segura es su contraseña, etc.</p>
 <p>La defensa no es el único factor en juego aquí: ser como un diablito astuto es igualmente importante (en un sentido positivo, por supuesto... por lo general...). Sun Tzu valoraba el engaño, y el mismo principio se aplica en esta situación. Esté atento a los correos electrónicos engañosos que intentan extraer su información confidencial o lo atraen para que haga clic en enlaces dudosos. La adaptabilidad también es crucial. El mundo digital está en constante evolución, por lo que sus defensas también deben evolucionar. Manténgase a la vanguardia actualizando la configuración de seguridad, eligiendo contraseñas seguras (por favor, evita 'contraseña123'), instalando y usando un administrador de contraseñas (<a href="https://bitwarden.com" target="_blank" rel="noopener noreferrer">Bitwarden</a> y <a href="https://proton.me/pass" target="_blank" rel="noopener noreferrer">Proton Pass</a> son buenos), e implementando la autenticación de dos factores para mayor seguridad.</p>
-<h3>¡Sube tu nivel ninja!</h3>
+<h3 id="mcetoc_1i03oclun1p">¡Sube tu nivel ninja!</h3>
 <p>No olvide que proteger sus datos es solo una pieza del rompecabezas; Salvaguardar su identidad es igual de crucial. Tu personalidad digital merece tanta precaución y protección como tu “yo” físico. Al profundizar en las estrategias de Sun Tzu, te estás equipando con las habilidades de un ninja: rápido, esquivo a las amenazas y fortificado contra cualquier brecha (y los ninjas son geniales, por supuesto).</p>
 <p>Armado con una sabiduría atemporal y conocimientos modernos, podrás maniobrar a través del reino en línea como un profesional experimentado, fortificando tu fortaleza virtual contra los intrusos cibernéticos. Es como convertirte en tu propio héroe personal de ciberseguridad sin necesidad de una capa de superhéroe, y puedes volver a usar tu ropa interior debajo de los pantalones (tos, tos, Superman, tos).</p>
 <hr>
