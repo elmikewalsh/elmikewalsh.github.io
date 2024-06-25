@@ -3,7 +3,7 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-06-21T16:42:08-04:00</updated>
+    <updated>2024-06-25T08:22:36-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -192,6 +192,34 @@
         </content>
     </entry>
     <entry>
+        <title>Publii CMS: Traducción Español</title>
+        <author>
+            <name>dev</name>
+        </author>
+        <link href="https://www.elmikewalsh.cl/publii-cms-traduccion-espanol/"/>
+        <id>https://www.elmikewalsh.cl/publii-cms-traduccion-espanol/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/50/cover-publii-trans-1.webp" medium="image" />
+            <category term="Proyectos Encantadores"/>
+
+        <updated>2023-12-28T08:05:00-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/50/cover-publii-trans-1.webp" class="type:primaryImage" alt="" /></p>
+                <p>Recientemente he tenido múltiples proyectos basados en <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era la falta de una traducción completa al español. Entonces, me encargué de llenar el espacio en blanco.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.cl/media/posts/50/publii-trans-2-2xl.webp" alt="Dos pantallas de iMac con codificación y logotipo de Publii" width="1200" height="675" sizes="100vw" srcset="https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xs.webp 300w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-sm.webp 480w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-md.webp 768w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-lg.webp 1024w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xl.webp 1360w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-2xl.webp 1600w"></figure>
+<p>Durante un mes, revisé y traduje más de 1,300 líneas de código al español, tanto para el programa principal como para el editor de texto (las traducciones de temas pueden venir en una fecha futura).</p>
+<p>Una vez que se terminó esto, envié la solicitud de fusión desde mi <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, que fue aceptada justo al comienzo del nuevo año.</p>
+<p>Si está interesado, puede pinchar en el botón a continuación para descargar el paquete de idioma español más reciente para Publii CMS.</p>
+<h4>Detalles técnicos</h4>
+<ul>
+<li>La traducción del código se llevó a cabo usando <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</li>
+</ul>
+<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.4 Español</a></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>El Cierre: Simplificado</title>
         <author>
             <name>elmikewalsh</name>
@@ -356,7 +384,7 @@
         <link href="https://www.elmikewalsh.cl/cruzando-las-montanas/"/>
         <id>https://www.elmikewalsh.cl/cruzando-las-montanas/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/31/photos-tag-image.webp" medium="image" />
-            <category term="Pintoresco"/>
+            <category term="Fotografía"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
 
@@ -380,45 +408,6 @@
 <figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2.webp" data-size="1125x2000"><img loading="lazy" src="https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2-thumbnail.webp" alt="" width="720" height="1280"></a></figure>
 </div></div>
 <p class="align-center"><em>San Martin de los Andes y Bariloche, Argentina.</em></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Privacidad: Una Introducción</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.cl/privacidad-una-introduccion/"/>
-        <id>https://www.elmikewalsh.cl/privacidad-una-introduccion/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/29/privacy.webp" medium="image" />
-            <category term="Tecnología"/>
-            <category term="La Vida"/>
-            <category term="A Leer Todo"/>
-            <category term="2023"/>
-
-        <updated>2023-11-21T09:35:44-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/29/privacy.webp" class="type:primaryImage" alt="" /></p>
-                <p>La privacidad es un tema candente en 2023. Una preocupación para algunos, una palabra de moda para otros. ¿Debería importarme? ¿Qué puedo hacer? ¿Es demasiado tarde? ¿Por qué molestarse?</p>
-<p>Me encantaría decir que esta es tu parada única para todas las respuestas, pero ¿quién soy yo sino un par de manos escribiendo? (Nota: en 2023, este sitio web utiliza tecnología antigua; soy un ser humano que escribe este artículo desde cero; inteligencia artificial no tiene nada que ver).</p>
-<p><strong>Pero algunas reflexiones sobre la privacidad, por lo que vale:</strong></p>
-<ol>
-<li>La privacidad es una de esas cosas que no te das cuenta de que tienes (o estás perdiendo) hasta que empiezas a perderla (o ya no la tienes). Entonces lo valoras. Y en ese momento ya es demasiado difícil (o imposible)</li>
-<li>Un tema completamente diferente (Inteligencia Artificial) es en gran parte nuestra disposición de registrarnos y utilizar almacenamiento en línea, fotos en línea gratuitas (Google Fotos, por ejemplo) y cualquier otro servicio que ofrezca algo demasiado bueno para ser gratuito, como almacenamiento y funcionalidad. ¿O es simplemente una coincidencia que muchos de estos servicios “gratuitos” utilizaran a las personas como producto y luego recurrieran a planes pagos justo antes del inicio del gran auge de la IA? ¿A quién le importa la privacidad o lo que pueda pasar? ¡Solo regístrate para obtener mi almacenamiento de fotos gratuito!</li>
-<li>Muchos consideran que la privacidad es un tema “demasiado difícil”, que requiere trabajo y esfuerzo para atenderlo, y definitivamente se interesarán “más adelante”. Me imagino viviendo en una casa de cristal, caminando desnudo todo el día, sin preocuparme de que cualquiera que pase pueda tomarte fotos y videos ahora, porque más adelante invertirás en cortinas y eso resolverá todo.</li>
-</ol>
-<p>Entonces, ¿qué se puede hacer con respecto a la privacidad (al menos en línea)? Bueno, esto no pretende en absoluto ser un manual completo sobre cómo protegerse en línea. Sólo una pequeña lista de ideas y posibles soluciones/servicios. No estoy afiliado a ninguno de ellos y no obtengo nada si haces clic en cualquier enlace aquí.</p>
-<ul>
-<li><strong>Email:</strong> Bueno, parece que todo el mundo tiene su Gmail. Regístrate, espacio libre. Fotos gratis. Colaboración gratuita. Gratis, gratis, gratis. Hasta que no lo sea. Inicia sesión en cualquier sitio web fácilmente con tu Gmail. No pueden leer su correo electrónico. Eso es lo que dicen. Y simplemente puedes usar Google para buscar evidencia de eso. Recuerde, son un negocio y tienen un resultado final. Podría considerar opciones de correo electrónico más privadas, como <a href="https://proton.me/mail" target="_blank" rel="noopener noreferrer">ProtonMail</a>, <a href="https://skiff.com/mail" target="_blank" rel="noopener noreferrer">Skiff Mail</a> or <a href="https://postale.io/" target="_blank" rel="noopener noreferrer">postale.io</a>. El correo electrónico (o cualquier servicio) es tan privado como las leyes del país en el que reside el servicio, y es mejor considerar a los aliados/socios estratégicos de países extranjeros (considere buscar cosas como "Cinco ojos" y otros términos relacionados. No en Google. Ni en su navegador. Busque algo privado.</li>
-<li><strong>Search:</strong> Si lo escribes en un motor de búsqueda de Google, el mundo lo sabe. Y no te engañes pensando que "Privado/Incógnito" significa que nadie lo sabe. Considere usar un motor de búsqueda que no lo rastree a usted ni a cada una de sus pulsaciones de teclas, como <a href="https://duckduckgo.com" target="_blank" rel="noopener noreferrer">DuckDuckGo</a> or <a href="https://www.startpage.com/" target="_blank" rel="noopener noreferrer">Startpage</a> (que usa resultados de Google pero elimina la información de seguimiento).</li>
-<li><strong>Fotos:</strong> Google gana dinero vendiendo publicidad. Tu información. Entonces, cuanta más información recopilen sobre usted, más dinero podrán ganar. Utilice cualquier otro servicio. ¿Estoy diciendo que OneDrive o iCloud son privados? Oh, cielos, no, no, no. ¿Tiene Apple (actualmente) un modelo de negocio para vender publicidad a cualquier persona en el universo? No. Entonces, si bien puede que no sea una solución ideal, considere que la conveniencia tiene un precio.</li>
-</ul>
-<p>La mayoría de los sitios web también utilizarán Google Analytics para rastrearlo, porque las empresas/sitios están obsesionados con ver cuánto tráfico reciben. Este sitio web, por cierto, no tiene instalado ningún seguimiento ni análisis. No me importa. Existe un método de contacto indicado en este sitio web; Si está interesado en él, lo encontrará con bastante facilidad.</p>
-<p>Bueno, esas son las reflexiones del momento. ¡Espero que a alguien le sirva de algo!</p>
-<hr>
-<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/es/fotos/camaras-de-seguridad-de-varios-colores-LfaN1gswV5c" target="_blank" rel="noopener noreferrer">https://unsplash.com/es/fotos/camaras-de-seguridad-de-varios-colores-LfaN1gswV5c</a></p>
             ]]>
         </content>
     </entry>
