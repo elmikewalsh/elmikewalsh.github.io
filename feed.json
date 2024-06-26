@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/",
+            "url": "https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/",
+            "title": "Perplexity y Copywrong: El Arte de la IA",
+            "content_html": "<h2>Perplexity, derechos de autor y citar tu trabajo - los buenos viejos tiempos</h2>\n<p>La IA está en las noticias. En las conversaciones diarias. En tus redes sociales (si es que aún las usas). La IA es la varita mágica digital que hará realidad todos tus sueños: construir tu código, pintar tus cuadros y escribir tus artículos. O, al menos, en algunos casos escribirá tus artículos. En otros casos, simplemente los robará de personas que ya los escribieron (¿personas todavía escribe cosas en internet?)</p>\n<h3>Qué Confuso: Perplexity</h3>\n<p>En caso de que no lo hayas oído, el último escándalo involucra a la empresa Perplexity, que, en resumen, fue atrapada copiando artículos que no eran suyos y no atribuyendo la fuente de los artículos. No voy a resumir, ya que la empresa no vale la pena. Puedes ponerte al día aquí - <a href=\"https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/\" target=\"_blank\" rel=\"noopener noreferrer\">https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/</a></p>\n<p>En resumen, es el equivalente digital de ir a una tienda, robar un producto, cambiar la etiqueta y venderlo en tu tienda. ¡Increíble modelo de negocio! ¿Por qué no se le ocurrió a nadie antes?</p>\n<h3>Acreditación a la Antigua</h3>\n<p>Siendo un poco mayor, me acuerdo de actos musicales famosos como Milli Vanilli (nota al margen: historia trágica. búscala en internet. Incluso podrías encontrar una nota periodística original, en lugar de tripe reciclado por IA). O simplemente haz clic aquí - <a href=\"https://es.wikipedia.org/wiki/Milli_Vanilli\" target=\"_blank\" rel=\"noopener noreferrer\">https://es.wikipedia.org/wiki/Milli_Vanilli</a></p>\n<p>¿Por qué es famoso Milli Vanilli? Principalmente por supuestamente cantar cuando no lo hacían.</p>\n<p>En aquel entonces, reclamar que algo era tuyo cuando no lo era no era bien recibido.</p>\n<p>Hoy, sin embargo, aparentemente es un modelo de negocio muy exitoso.</p>\n<p>Recuerdo que en la escuela si entregabas una tarea sin atribuir tus fuentes, recibías un 0.</p>\n<p>¿Tal vez ese debería seguir siendo el modelo a seguir?</p>\n<p><strong>Crédito de foto:</strong> <span class=\"s1\"><a href=\"https://pixabay.com/illustrations/internet-copyright-protection-1013675/\" target=\"_blank\" rel=\"noopener noreferrer\">pixabay.com</a></span></p>",
+            "image": "https://www.elmikewalsh.cl/media/posts/51/perplexing-copywrong.jpg",
+            "author": {
+                "name": "elmikewalsh"
+            },
+            "tags": [
+                   "Tecnología",
+                   "La Vida"
+            ],
+            "date_published": "2024-06-26T09:32:00-04:00",
+            "date_modified": "2024-06-26T18:47:04-04:00"
+        },
+        {
             "id": "https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/",
             "url": "https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/",
             "title": "$1.000.000 Construyendo Casas con Martillo GPT",
@@ -164,23 +180,6 @@
             ],
             "date_published": "2023-11-28T08:11:00-03:00",
             "date_modified": "2024-06-21T16:19:29-04:00"
-        },
-        {
-            "id": "https://www.elmikewalsh.cl/cruzando-las-montanas/",
-            "url": "https://www.elmikewalsh.cl/cruzando-las-montanas/",
-            "title": "Cruzando Las Montañas",
-            "content_html": "<p>Una nota rápida para compartir algunas fotos de un viaje a través de las montañas a un par de pueblos de Argentina. Todos pasamos momentos divertidos (y con chocolate). :)</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_0993-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_0993-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1148-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1148-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1154-2.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1154-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1397-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1397-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1399-2.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1399-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1404-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1404-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1406-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1406-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1421-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1421-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1357-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1357-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1371-2.webp\" data-size=\"2000x1125\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1371-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2.webp\" data-size=\"1125x2000\"><img loading=\"lazy\" src=\"https://www.elmikewalsh.cl/media/posts/31/gallery/IMG_1373-2-thumbnail.webp\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n</div></div>\n<p class=\"align-center\"><em>San Martin de los Andes y Bariloche, Argentina.</em></p>",
-            "image": "https://www.elmikewalsh.cl/media/posts/31/photos-tag-image.webp",
-            "author": {
-                "name": "elmikewalsh"
-            },
-            "tags": [
-                   "Fotografía",
-                   "A Leer Todo",
-                   "2023"
-            ],
-            "date_published": "2023-11-25T09:16:00-03:00",
-            "date_modified": "2024-06-21T16:18:58-04:00"
         }
     ]
 }
