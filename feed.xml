@@ -3,19 +3,19 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-07-05T19:05:55-04:00</updated>
+    <updated>2024-07-05T19:11:07-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.cl</id>
 
     <entry>
-        <title>La Peste Negra Digita</title>
+        <title>La Peste Negra Digital</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/la-peste-negra-digita/"/>
-        <id>https://www.elmikewalsh.cl/la-peste-negra-digita/</id>
+        <link href="https://www.elmikewalsh.cl/la-peste-negra-digital/"/>
+        <id>https://www.elmikewalsh.cl/la-peste-negra-digital/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/52/peste-negra.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="La Vida"/>
