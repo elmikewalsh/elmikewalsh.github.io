@@ -3,12 +3,136 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-07-08T10:36:41-04:00</updated>
+    <updated>2024-07-08T17:58:52-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.cl</id>
 
+    <entry>
+        <title>Bitwarden: Llaves de tu Reino Digital</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.cl/bitwarden-llaves-de-tu-reino-digital/"/>
+        <id>https://www.elmikewalsh.cl/bitwarden-llaves-de-tu-reino-digital/</id>
+        <media:content url="https://www.elmikewalsh.cl/media/posts/54/bitwarden.webp" medium="image" />
+            <category term="¿Cómo se hace...?"/>
+            <category term="Tecnología"/>
+            <category term="2024"/>
+
+        <updated>2024-07-08T17:57:33-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/54/bitwarden.webp" class="type:primaryImage" alt="Un montón de llaves sobre un fondo oscuro." /></p>
+                <div class="post__toc">
+<h3>Tabla de Contenidos</h3>
+<ul>
+<li><a href="#mcetoc_1i2a5lc9b23h">¿Por qué me debería importar?</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23i">Comenzando con Bitwarden: Tu Primer Gestor de Contraseñas</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23j">Paso 1: Visita el Sitio Web de Bitwarden</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23k">Paso 2: Descarga el Software</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23l">Paso 3: Crea Tu Cuenta</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23m">Paso 4: Verifica Tu Correo Electrónico</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23n">Paso 5: Inicia Sesión y Configura Tu Bóveda</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23o">Paso 6: Agrega Tu Primer Elemento</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23p">Paso 7: Organiza Tu Bóveda</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23q">Paso 8: Instala Extensiones del Navegador</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23r">Paso 9: Importa Contraseñas Existentes</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23s">Paso 10: Habilita la Autenticación de Dos Factores</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23t">Paso 11: Sincroniza en Todos Tus Dispositivos</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23u">Paso 12: Explora Funciones Avanzadas</a></li>
+<li><a href="#mcetoc_1i2a5lc9b23v">¡Lo Lograste!</a></li>
+</ul>
+</div>
+<h3 id="mcetoc_1i2a5lc9b23h">¿Por qué me debería importar?</h3>
+<p>En 2024, usar un gestor de contraseñas es súper importante – casi vital. Ya que casi todo se hace en línea — desde la banca hasta ir al baño (bueno, no del todo todavía), redes sociales y compras — las personas están más expuestas a posibles violaciones de datos que nunca antes. Es muy importante <a href="https://www.elmikewalsh.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/">defender tu cibercastillo</a> (perdona la ridícula ilustración) de la gente a la que le gusta meter las manos donde no deben</p>
+<p>Los gestores de contraseñas ofrecen una solución segura al generar contraseñas complejas y únicas para cada una de tus cuentas, reduciendo el riesgo de usar contraseñas fáciles de adivinar o reutilizadas en varios sitios. Esta práctica no solo fortalece la seguridad personal, sino que también protege contra ataques de relleno de credenciales, donde los hackers usan contraseñas comprometidas de un sitio para acceder a otros (lo cual es una forma complicada de decir que si los hackers consiguen tu contraseña en una brecha de datos, pueden probar todas tus cuentas, por si usas la misma contraseña en todas partes).</p>
+<p>A medida que abrimos cuentas y usamos servicios en más y más sitios, mantener un nivel de seguridad consistente se vuelve desafiante sin un gestor de contraseñas. Estas herramientas no solo almacenan contraseñas de manera segura, sino que también simplifican el proceso de inicio de sesión en diferentes dispositivos, mejorando tanto la conveniencia como la seguridad. Al centralizar la gestión de contraseñas, los usuarios pueden centrarse en sus actividades en línea sin la preocupación constante de recordar o asegurar múltiples contraseñas manualmente.</p>
+<p>Yo, como tú, dudaba en empezar, pensando que sería difícil, complicado y mucho trabajo (y me gusta la tecnología). Me fui con <a href="https://bitwarden.com/es-la/" target="_blank" rel="noopener noreferrer">Bitwarden</a> porque tenía excelentes reseñas Y... era (y es) gratis. Si te gusta esto, puedes <a href="https://www.elmikewalsh.cl/apps-por-defecto-apps-por-doquier/">ver una lista de otros programas / servicios que recomiendo</a>.</p>
+<h3 id="mcetoc_1i2a5lc9b23i">Comenzando con Bitwarden: Tu Primer Gestor de Contraseñas</h3>
+<p>Ok, entonces estás considerando configurar este complejo y aterrador "gestor de contraseñas". Antes de comenzar, podría ayudar simplificar la idea de un "gestor de contraseñas" un poco. Imagina que a lo largo del día tuvieras que desbloquear 40 puertas con llaves físicas. Cada llave es diferente. Y es algo bueno; si todas las cerraduras usaran la misma llave, ¿puedes imaginar qué pasaría si perdieras una, verdad?</p>
+<p>Usar la misma contraseña en tu correo electrónico, banco, redes sociales, cuenta de Netflix, etc., es como usar una sola llave física para abrir todas tus cerraduras. Buena suerte si pierdes tu llave o alguien la roba para hacerse una copia.</p>
+<p>¿Qué tal si tuvieras un pequeño software GRATUITO que pudieras usar en cualquier lugar al que fueras (tu navegador – ¿te gusta Firefox? ¿Prefieres Safari? ¿Navegas con Brave? ¿Opera? ¿Chrome (puaj)? – este software está disponible para todos esos navegadores. No importa si usas Windows, Mac, incluso Linux. ¿Teléfono Android? Chequeado. ¿iPhone? Chequeado.</p>
+<p>Bitwarden es uno de esos programas. (hay otros, pero estamos viendo este).</p>
+<p>¿Qué tal si, usando este software GRATUITO, pudieras crear solo UNA contraseña compleja y segura y solo tendrías que recordar esa contraseña. Porque una vez que abres tu Bitwarden con esa contraseña, todas tus otras contraseñas están guardadas de forma segura dentro. Y esas contraseñas podrían ser súper seguras y súper largas. (Quizás de 30, 40, 60 caracteres; una mezcla horrible de letras, números, mayúsculas, etc.). Nunca más tendrías que pensar en una nueva y segura contraseña, porque el programa genera automáticamente una para ti.</p>
+<p>Bitwarden hace eso. ¿Interesado? Esto toma un poco de tiempo para configurarlo, pero una vez completo, estás listo. Yo di el salto. Toma un poco acostumbrarse. Pero es muuuucho mejor. Sigue los pasos:</p>
+<h3 id="mcetoc_1i2a5lc9b23j">Paso 1: Visita el Sitio Web de Bitwarden</h3>
+<p>Dirígete al <a href="https://bitwarden.com/es-la/" target="_blank" rel="noopener noreferrer">sitio web oficial de Bitwarden</a>. Puedes echar un vistazo y aprender sobre el producto, la empresa, etc. Pero estamos aquí por el software gratuito, así que continuemos...</p>
+<h3 id="mcetoc_1i2a5lc9b23k">Paso 2: Descarga el Software</h3>
+<p>Una vez en la página de inicio de Bitwarden, haz clic en el botón "Descargar" en la barra de navegación superior. Serás llevado a una página con varias opciones de descarga. Bitwarden está disponible en múltiples plataformas, incluyendo Windows, macOS, Linux, iOS y Android. Elige la plataforma que se adapte a tus necesidades y sigue las instrucciones para descargar la aplicación.</p>
+<p>Por ejemplo, si usas Windows:</p>
+<ol>
+<li>Haz clic en el ícono de "Windows".</li>
+<li>La descarga comenzará automáticamente.</li>
+<li>Una vez que la descarga esté completa, abre el archivo del instalador y sigue las instrucciones en pantalla para instalar Bitwarden en tu computadora.</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23l">Paso 3: Crea Tu Cuenta</h3>
+<p>Después de instalar Bitwarden, abre la aplicación. Se te pedirá crear una cuenta. Así es como se hace:</p>
+<ol>
+<li>Haz clic en el botón "Crear Cuenta".</li>
+<li>Ingresa tu dirección de correo electrónico, una contraseña maestra fuerte y tu nombre. Asegúrate de que tu contraseña maestra sea algo que puedas recordar pero también algo difícil de adivinar para otros. Bitwarden te ayudará a evaluar la fortaleza de tu contraseña.</li>
+<li>Confirma tu contraseña y haz clic en "Enviar".</li>
+</ol>
+<blockquote>
+<p>Una nota súper súper importante en este paso que repetiré varias veces – asegúrate de que tu CONTRASEÑA MAESTRA sea algo que recordarás fácilmente. Parte de la razón por la que Bitwarden es tan seguro es que ellos no conocen tu contraseña. No tienen acceso y no pueden enviarte un enlace para restablecerla. Puedes cambiar la contraseña más tarde, pero necesitarás saber la contraseña actual. <span style="color: #ba372a;"><strong>¡Tu contraseña maestra no puede recuperarse si la olvidas! Así que si olvidas tu CONTRASEÑA MAESTRA, estás jodido; no puedes entrar, no puedes recuperar tu contraseña.</strong></span> ¡Asegúrate de elegir una CONTRASEÑA MAESTRA que recordarás! ¡PRESTA MUCHA ATENCIÓN A ESTE PASO!</p>
+</blockquote>
+<h3 id="mcetoc_1i2a5lc9b23m">Paso 4: Verifica Tu Correo Electrónico</h3>
+<p>Bitwarden enviará un correo de verificación a la dirección que proporcionaste. Revisa tu bandeja de entrada y haz clic en el enlace de verificación en el correo electrónico. Este paso es crucial para asegurar tu cuenta.</p>
+<h3 id="mcetoc_1i2a5lc9b23n">Paso 5: Inicia Sesión y Configura Tu Bóveda</h3>
+<p>Con tu cuenta verificada, inicia sesión en Bitwarden con tu correo electrónico y contraseña maestra. Ahora entrarás en tu bóveda, el lugar seguro donde se almacenarán todas tus contraseñas.</p>
+<h3 id="mcetoc_1i2a5lc9b23o">Paso 6: Agrega Tu Primer Elemento</h3>
+<p>Para añadir tu primera contraseña:</p>
+<ol>
+<li>Haz clic en el botón "+" o en el botón "Añadir Elemento".</li>
+<li>Se te pedirá ingresar el nombre del elemento (por ejemplo, Gmail, Facebook), el nombre de usuario y la contraseña. Si aún no tienes una contraseña fuerte, Bitwarden puede generar una para ti. Solo haz clic en el botón "Generar" y se creará una contraseña fuerte y aleatoria.</li>
+<li>Una vez que hayas llenado los detalles, haz clic en "Guardar".</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23p">Paso 7: Organiza Tu Bóveda</h3>
+<p>A medida que añades más elementos, puede que quieras organizarlos en carpetas. Esto hace que sea más fácil encontrar contraseñas específicas más tarde. Para crear una carpeta:</p>
+<ol>
+<li>Haz clic en "Carpetas" en la barra lateral.</li>
+<li>Haz clic en "Añadir Carpeta".</li>
+<li>Nombra tu carpeta y haz clic en "Guardar".</li>
+<li>Ahora puedes mover elementos a esta carpeta editando el elemento y seleccionando la carpeta en el menú desplegable.</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23q">Paso 8: Instala Extensiones del Navegador</h3>
+<p>Bitwarden ofrece extensiones del navegador para Chrome (puaj), Firefox, Safari, Edge y más. Estas extensiones te permiten autocompletar contraseñas directamente desde tu bóveda, facilitando el inicio de sesión en sitios web.</p>
+<ol>
+<li>Vuelve a la página de descargas de Bitwarden y selecciona tu navegador.</li>
+<li>Sigue las instrucciones para añadir la extensión.</li>
+<li>Una vez instalada, inicia sesión en la extensión con tu cuenta de Bitwarden.</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23r">Paso 9: Importa Contraseñas Existentes</h3>
+<p>Si has estado almacenando contraseñas en tu navegador o en otro gestor de contraseñas, puedes importarlas a Bitwarden. Así es como se hace:</p>
+<ol>
+<li>Exporta tus contraseñas de tu gestor actual. Esto generalmente se encuentra en el menú de configuración u opciones bajo "Exportar".</li>
+<li>En Bitwarden, haz clic en "Herramientas" y luego en "Importar Datos".</li>
+<li>Selecciona el formato de tu archivo exportado y cárgalo en Bitwarden.</li>
+<li>Haz clic en "Importar" y todas tus contraseñas se añadirán a tu bóveda.</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23s">Paso 10: Habilita la Autenticación de Dos Factores</h3>
+<p>Para una capa extra de seguridad, habilita la autenticación de dos factores (2FA) en tu cuenta de Bitwarden.</p>
+<ol>
+<li>Ve a "Configuración" en tu cuenta de Bitwarden.</li>
+<li>Haz clic en "Inicio de sesión en dos pasos".</li>
+<li>Sigue las instrucciones para configurar 2FA usando una aplicación como Google Authenticator o Authy.</li>
+</ol>
+<h3 id="mcetoc_1i2a5lc9b23t">Paso 11: Sincroniza en Todos Tus Dispositivos</h3>
+<p>Asegúrate de que tus contraseñas estén disponibles en todos tus dispositivos. Instala Bitwarden en tu teléfono e inicia sesión con tu cuenta. Tu bóveda se sincronizará automáticamente, asegurándote tener acceso a tus contraseñas dondequiera que vayas.</p>
+<h3 id="mcetoc_1i2a5lc9b23u">Paso 12: Explora Funciones Avanzadas</h3>
+<p>Bitwarden ofrece muchas funciones avanzadas como notas seguras, compartir contraseñas y almacenamiento de archivos cifrados. Aunque estas y otras ofertas pagadas no son para nada necesarias, puedes ver si te gusta lo que ofrecen. Si Bitwarden no es lo tuyo, también podría recomendarte Proton Pass.</p>
+<h3 id="mcetoc_1i2a5lc9b23v">¡Lo Lograste!</h3>
+<p>¡Felicidades! Ya has configurado Bitwarden, y puedes generar contraseñas súper largas y seguras que son diferentes para todos tus sitios web – y solo necesitas recordar esa única CONTRASEÑA MAESTRA...</p>
+<blockquote>
+<p>Asegúrate de que tu CONTRASEÑA MAESTRA sea algo que recordarás fácilmente. Parte de la razón por la que Bitwarden es tan seguro es que ellos no conocen tu contraseña. No tienen acceso y no pueden enviarte un enlace para restablecerla. Puedes cambiar la contraseña más tarde, pero necesitarás saber la contraseña actual. <span style="color: #ba372a;"><strong>¡Tu contraseña maestra no puede recuperarse si la olvidas! Así que si olvidas tu CONTRASEÑA MAESTRA, estás jodido; no puedes entrar, no puedes recuperar tu contraseña.</strong></span> ¡Asegúrate de elegir una CONTRASEÑA MAESTRA que recordarás! ¡PRESTA MUCHA ATENCIÓN A ESTE PASO!</p>
+</blockquote>
+<p>¡Espero que esto haya sido de ayuda!</p>
+<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>La Peste Negra Digital</title>
         <author>
@@ -379,62 +503,6 @@
 <p>Tómate el tiempo para detenerte, relajarte, mirar a tu alrededor y disfrutar. Déjalo ir. Mantenlo simple. Siéntate a mirar <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" rel="noopener noreferrer">Una Navidad de Charlie Brown</a>.</p>
 <p>Disfrute de las vacaciones y viva para contarlo.</p>
 <p><strong>Foto:</strong> Nuestro árbol de Navidad. Simple. Casero. Reutilizable.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>4 formas de cagar una pregunta de sí / no</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/"/>
-        <id>https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" medium="image" />
-            <category term="Político"/>
-            <category term="La Vida"/>
-            <category term="Humor"/>
-            <category term="A Leer Todo"/>
-            <category term="2023"/>
-
-        <updated>2023-12-13T14:02:04-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
-                <div class="post__toc">
-<h3>Tabla de contenidos</h3>
-<ul>
-<li><a href="#mcetoc_1i03oc6sj1g">Responda no preparado / informado</a></li>
-<li><a href="#mcetoc_1i03oc6sj1h">Copie la respuesta de otra persona</a></li>
-<li><a href="#mcetoc_1i03oc6sj1i">Voto basado en quién es el presidente</a></li>
-<li><a href="#mcetoc_1i03oc6sj1j">No respondas la pregunta</a></li>
-</ul>
-</div>
-<p>El domingo 17 de diciembre, Chile acudirá (nuevamente) a las urnas para votar la nueva propuesta de constitución. En términos políticos muy generales, mientras que la primera propuesta de hace un par de años fue vista como “izquierdista”, la nueva ha sido preparada por un grupo predominantemente de la derecha. Es una votación simple: ¿Aprueba usted la nueva constitución? Sí o No. Pregunta sencilla. ¿Qué tan difícil podría ser?</p>
-<p>Es bastante fácil cagarla, si lo piensas bien (lo cual, desafortunadamente, es lo que hago). Entonces, aquí hay 4 formas de cagar una simple pregunta de sí o no:</p>
-<h3 id="mcetoc_1i03oc6sj1g">Responda no preparado / informado</h3>
-<p>Para votar sobre una nueva constitución, es necesario leerla. Puedes discutir todo lo que quieras sobre lo larga que es, no todos tienen el nivel educativo para entenderla, etc. Si estás leyendo esto, puedes leer la constitución. ¿Es largo? Rayos que sí. Más de 170 páginas. ¿Es realmente interesante? No tanto. Pero considerando que es un documento de gran alcance que sirve como una especie de guía nacional durante quizás al menos 100 años, podría ser importante. Y considerando cuánto tiempo pasamos en el teléfono, en Netflix, en cosas que realmente no son esenciales para el día a día, es más irresponsabilidad o flojera que no lo leemos. Incluso si no lo lees todo, al menos lee algunas partes. Quizás las partes que sientes son los más importantes.</p>
-<h3 id="mcetoc_1i03oc6sj1h">Copie la respuesta de otra persona</h3>
-<p>Me encanta ésta. La gente se queja todo el tiempo de que todo el mundo sólo está interesado en sí mismo y en su propio bienestar; El gobierno sólo está interesado en mantener el poder. Pero cuando llega el momento de votar sí o no a una constitución, la abrimos, vemos cuántas páginas tiene y recurrimos a…. las opiniones de otros y/o las noticias. Me duele pensar por mí, por favor piensa por mí. Mi favorito es cuando la gente se queja y se queja de lo corruptos que son los políticos y luego comprueba cuál va a votar su partido político favorito. Hermoso.</p>
-<h3 id="mcetoc_1i03oc6sj1i"><span style="font-family: var(--editor-font-family); font-size: inherit;">Voto basado en quién es el presidente</span></h3>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Esto es absurdo. Una constitución (preparada democráticamente) es más grande que una (o varias) administraciones. Algunas personas votarán a favor (o en contra) el domingo basándose únicamente en quién es actualmente el presidente. El actual presidente, por cierto, no tiene nada que ver con el nuevo documento. Es un poco como decir: "El equipo de fútbol que odio usa uniformes azules, por eso odio el fútbol".</span></p>
-<h3 id="mcetoc_1i03oc6sj1j">No respondas la pregunta</h3>
-<p>Anular tu voto para presidente o senador o lo que sea es una cosa (aún piensas que esos votos anulados deberían tener alguna consecuencia). Pero este es un documento que estará disponible por un largo tiempo (si se aprueba), por lo que es bueno tener una opinión. Y además, no votar te expondrá a una multa.</p>
-<p>Bueno, tendremos que ver cómo resulta esto el fin de semana. Estoy seguro de que hay muchas otras formas de cagar una simple pregunta de sí o no, pero hay que empezar por algún lado. Y ahora lo sabes.</p>
-<p><strong>Crédito de foto: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" rel="noopener noreferrer">https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic</a></p>
-<hr>
-<p><em>Esto pretende ser una parte de un serie de artículos sobre elecciones en general, con mención específico a Chile. Quizás te interesa también leer las otras misivas en el serie:</em></p>
-<blockquote>
-<div class="post__series">
-<h3>Ejercer el deber cívico</h3>
-<ul>
-<li><a href="https://www.elmikewalsh.cl/llego-otro-ano-electoral-lo-vas-a-cagar-de-nuevo/">Llegó otro año electoral: ¿lo vas a cagar de nuevo?</a></li>
-<li><a href="https://www.elmikewalsh.cl/guia-pictorica-del-voto-en-chile/">Guía pictórica del voto en chile</a></li>
-<li><a href="https://www.elmikewalsh.cl/querido-votante-los-arboles-no-te-dejan-ver-el-bosque/">Querido votante, los árboles no te dejan ver el bosque</a></li>
-<li>4 formas de cagar una pregunta de sí / no</li>
-</ul>
-</div>
-</blockquote>
             ]]>
         </content>
     </entry>
