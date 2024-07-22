@@ -3,7 +3,7 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-07-17T16:30:09-04:00</updated>
+    <updated>2024-07-22T10:08:40-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -142,6 +142,7 @@
         <id>https://www.elmikewalsh.cl/squarespace-apesta/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/53/squarespace-sucks-2.webp" medium="image" />
             <category term="Tecnología"/>
+            <category term="La Vida"/>
             <category term="2024"/>
 
         <updated>2024-06-28T19:00:00-04:00</updated>
@@ -180,7 +181,7 @@
         <id>https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/51/perplexing-copywrong.jpg" medium="image" />
             <category term="Tecnología"/>
-            <category term="La Vida"/>
+            <category term="Humor"/>
 
         <updated>2024-06-22T09:32:00-04:00</updated>
             <summary></summary>
@@ -211,10 +212,7 @@
         <link href="https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/"/>
         <id>https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer.webp" medium="image" />
-            <category term="La Vida"/>
             <category term="Humor"/>
-            <category term="A Leer Todo"/>
-            <category term="2024"/>
 
         <updated>2024-03-01T09:10:44-03:00</updated>
             <summary></summary>
@@ -454,7 +452,6 @@
         <id>https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/</id>
         <media:content url="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" medium="image" />
             <category term="Político"/>
-            <category term="La Vida"/>
             <category term="Humor"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>

@@ -37,10 +37,11 @@
             },
             "tags": [
                    "Tecnología",
+                   "La Vida",
                    "2024"
             ],
             "date_published": "2024-06-28T19:00:00-04:00",
-            "date_modified": "2024-07-08T10:36:41-04:00"
+            "date_modified": "2024-07-22T10:08:40-04:00"
         },
         {
             "id": "https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/",
@@ -53,10 +54,10 @@
             },
             "tags": [
                    "Tecnología",
-                   "La Vida"
+                   "Humor"
             ],
             "date_published": "2024-06-22T09:32:00-04:00",
-            "date_modified": "2024-07-05T12:37:17-04:00"
+            "date_modified": "2024-07-22T10:06:44-04:00"
         },
         {
             "id": "https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/",
@@ -68,13 +69,10 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "La Vida",
-                   "Humor",
-                   "A Leer Todo",
-                   "2024"
+                   "Humor"
             ],
             "date_published": "2024-03-01T09:10:44-03:00",
-            "date_modified": "2024-06-21T16:15:24-04:00"
+            "date_modified": "2024-07-22T10:06:33-04:00"
         },
         {
             "id": "https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/",
@@ -172,13 +170,12 @@
             },
             "tags": [
                    "Político",
-                   "La Vida",
                    "Humor",
                    "A Leer Todo",
                    "2023"
             ],
             "date_published": "2023-12-13T14:02:04-03:00",
-            "date_modified": "2024-06-21T16:42:08-04:00"
+            "date_modified": "2024-07-22T10:07:19-04:00"
         }
     ]
 }
