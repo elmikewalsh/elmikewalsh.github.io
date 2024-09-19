@@ -3,7 +3,7 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-07-22T10:08:40-04:00</updated>
+    <updated>2024-09-18T12:30:32-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
@@ -16,7 +16,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/bitwarden-llaves-de-tu-reino-digital/"/>
         <id>https://www.elmikewalsh.cl/bitwarden-llaves-de-tu-reino-digital/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/54/bitwarden.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/54/bitwarden-keys.webp" medium="image" />
             <category term="Tutoriales"/>
             <category term="Tecnología"/>
             <category term="2024"/>
@@ -25,7 +25,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/54/bitwarden.webp" class="type:primaryImage" alt="Un montón de llaves sobre un fondo oscuro." /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/54/bitwarden-keys.webp" class="type:primaryImage" alt="Un montón de llaves sobre un fondo oscuro." /></p>
                 <div class="post__toc">
 <h3>Tabla de Contenidos</h3>
 <ul>
@@ -50,7 +50,7 @@
 <p>En 2024, usar un gestor de contraseñas es súper importante – casi vital. Ya que casi todo se hace en línea — desde la banca hasta ir al baño (bueno, no del todo todavía), redes sociales y compras — las personas están más expuestas a posibles violaciones de datos que nunca antes. Es muy importante <a href="https://www.elmikewalsh.cl/defendiendo-tu-cibercastillo-arte-de-la-guerra-digital/">defender tu cibercastillo</a> (perdona la ridícula ilustración) de la gente a la que le gusta meter las manos donde no deben</p>
 <p>Los gestores de contraseñas ofrecen una solución segura al generar contraseñas complejas y únicas para cada una de tus cuentas, reduciendo el riesgo de usar contraseñas fáciles de adivinar o reutilizadas en varios sitios. Esta práctica no solo fortalece la seguridad personal, sino que también protege contra ataques de relleno de credenciales, donde los hackers usan contraseñas comprometidas de un sitio para acceder a otros (lo cual es una forma complicada de decir que si los hackers consiguen tu contraseña en una brecha de datos, pueden probar todas tus cuentas, por si usas la misma contraseña en todas partes).</p>
 <p>A medida que abrimos cuentas y usamos servicios en más y más sitios, mantener un nivel de seguridad consistente se vuelve desafiante sin un gestor de contraseñas. Estas herramientas no solo almacenan contraseñas de manera segura, sino que también simplifican el proceso de inicio de sesión en diferentes dispositivos, mejorando tanto la conveniencia como la seguridad. Al centralizar la gestión de contraseñas, los usuarios pueden centrarse en sus actividades en línea sin la preocupación constante de recordar o asegurar múltiples contraseñas manualmente.</p>
-<p>Yo, como tú, dudaba en empezar, pensando que sería difícil, complicado y mucho trabajo (y me gusta la tecnología). Me fui con <a href="https://bitwarden.com/es-la/" target="_blank" rel="noopener noreferrer">Bitwarden</a> porque tenía excelentes reseñas Y... era (y es) gratis. Si te gusta esto, puedes <a href="https://www.elmikewalsh.cl/apps-por-defecto-apps-por-doquier/">ver una lista de otros programas / servicios que recomiendo</a>.</p>
+<p>Yo, como tú, dudaba en empezar, pensando que sería difícil, complicado y mucho trabajo (y me gusta la tecnología). Me fui con <a href="https://bitwarden.com/es-la/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a> porque tenía excelentes reseñas Y... era (y es) gratis. Si te gusta esto, puedes <a href="https://www.elmikewalsh.cl/apps-por-defecto-apps-por-doquier/">ver una lista de otros programas / servicios que recomiendo</a>.</p>
 <h3 id="mcetoc_1i2a5lc9b23i">Comenzando con Bitwarden: Tu Primer Gestor de Contraseñas</h3>
 <p>Ok, entonces estás considerando configurar este complejo y aterrador "gestor de contraseñas". Antes de comenzar, podría ayudar simplificar la idea de un "gestor de contraseñas" un poco. Imagina que a lo largo del día tuvieras que desbloquear 40 puertas con llaves físicas. Cada llave es diferente. Y es algo bueno; si todas las cerraduras usaran la misma llave, ¿puedes imaginar qué pasaría si perdieras una, verdad?</p>
 <p>Usar la misma contraseña en tu correo electrónico, banco, redes sociales, cuenta de Netflix, etc., es como usar una sola llave física para abrir todas tus cerraduras. Buena suerte si pierdes tu llave o alguien la roba para hacerse una copia.</p>
@@ -59,7 +59,7 @@
 <p>¿Qué tal si, usando este software GRATUITO, pudieras crear solo UNA contraseña compleja y segura y solo tendrías que recordar esa contraseña. Porque una vez que abres tu Bitwarden con esa contraseña, todas tus otras contraseñas están guardadas de forma segura dentro. Y esas contraseñas podrían ser súper seguras y súper largas. (Quizás de 30, 40, 60 caracteres; una mezcla horrible de letras, números, mayúsculas, etc.). Nunca más tendrías que pensar en una nueva y segura contraseña, porque el programa genera automáticamente una para ti.</p>
 <p>Bitwarden hace eso. ¿Interesado? Esto toma un poco de tiempo para configurarlo, pero una vez completo, estás listo. Yo di el salto. Toma un poco acostumbrarse. Pero es muuuucho mejor. Sigue los pasos:</p>
 <h3 id="mcetoc_1i2a5lc9b23j">Paso 1: Visita el Sitio Web de Bitwarden</h3>
-<p>Dirígete al <a href="https://bitwarden.com/es-la/" target="_blank" rel="noopener noreferrer">sitio web oficial de Bitwarden</a>. Puedes echar un vistazo y aprender sobre el producto, la empresa, etc. Pero estamos aquí por el software gratuito, así que continuemos...</p>
+<p>Dirígete al <a href="https://bitwarden.com/es-la/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">sitio web oficial de Bitwarden</a>. Puedes echar un vistazo y aprender sobre el producto, la empresa, etc. Pero estamos aquí por el software gratuito, así que continuemos...</p>
 <h3 id="mcetoc_1i2a5lc9b23k">Paso 2: Descarga el Software</h3>
 <p>Una vez en la página de inicio de Bitwarden, haz clic en el botón "Descargar" en la barra de navegación superior. Serás llevado a una página con varias opciones de descarga. Bitwarden está disponible en múltiples plataformas, incluyendo Windows, macOS, Linux, iOS y Android. Elige la plataforma que se adapte a tus necesidades y sigue las instrucciones para descargar la aplicación.</p>
 <p>Por ejemplo, si usas Windows:</p>
@@ -129,7 +129,7 @@
 <p>Asegúrate de que tu CONTRASEÑA MAESTRA sea algo que recordarás fácilmente. Parte de la razón por la que Bitwarden es tan seguro es que ellos no conocen tu contraseña. No tienen acceso y no pueden enviarte un enlace para restablecerla. Puedes cambiar la contraseña más tarde, pero necesitarás saber la contraseña actual. <span style="color: #ba372a;"><strong>¡Tu contraseña maestra no puede recuperarse si la olvidas! Así que si olvidas tu CONTRASEÑA MAESTRA, estás jodido; no puedes entrar, no puedes recuperar tu contraseña.</strong></span> ¡Asegúrate de elegir una CONTRASEÑA MAESTRA que recordarás! ¡PRESTA MUCHA ATENCIÓN A ESTE PASO!</p>
 </blockquote>
 <p>¡Espero que esto haya sido de ayuda!</p>
-<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/a-pile-of-keys-sitting-on-top-of-a-table-r8VbpgMS6Uc" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -140,7 +140,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/squarespace-apesta/"/>
         <id>https://www.elmikewalsh.cl/squarespace-apesta/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/53/squarespace-sucks-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/53/squarespace.sucks.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="La Vida"/>
             <category term="2024"/>
@@ -149,7 +149,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/53/squarespace-sucks-2.webp" class="type:primaryImage" alt="Hombre con dos dedos medios arriba." /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/53/squarespace.sucks.webp" class="type:primaryImage" alt="Hombre con dos dedos medios arriba." /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -165,10 +165,10 @@
 <p>Las transferencias de dominios no deberían ser muy complicadas. Era tan sencillo cuando Google Domains estaba a cargo. Simplemente te enviaban un correo electrónico y literalmente solo hacías clic en un enlace y la transferencia de tu dominio estaba hecha y confirmada. ¿Pero bajo Squarespace? Olvídalo. Toman cinco días completos para completar una transferencia de dominio, lo que hace que aquellos que tienen prisa se enfurezcan. Sí, cinco días. Eso no es más que una eternidad en años de Internet. Por lo menos era expedita, simple y eficiente en el mundo de Google Domains.</p>
 <h3 id="mcetoc_1i22i885ca0">Soporte glacialmente lento</h3>
 <p>Una palabra sobre el soporte al cliente con Squarespace: si alguna vez necesitas ayuda de estos chicos, ten paciencia. Y espera. Y espera un poco más. Su equipo de soporte por correo electrónico y chat fue terrible, al menos en mi experiencia. La comunicación fue bastante pobre, podría tomar días obtener una respuesta de ellos. Es evidente que Squarespace entiende poco o nada de cómo funciona esto.</p>
-<p>Desde que me di cuenta de que Google Domains estaba a la venta, comencé a migrar mis dominios. ¿Mi ruta de escape? <a href="https://www.cloudflare.com/" target="_blank" rel="noopener noreferrer">Cloudflare</a>. No es broma: ha sido, al menos para mí, una de las experiencias más agradables que he tenido (son unas de <a href="https://www.elmikewalsh.cl/apps-por-defecto-apps-por-doquier/">mis recomendaciones de herramientas digitales</a>). No solo el proceso de transferencia está optimizado, sino que también es seguro y ofrece excelentes opciones de dominio. Además, no hay aumento de precios. Continuar con Cloudflare es sencillo, el precio en año 1 será el mismo cada año: sin sorpresas anuales aquí.</p>
+<p>Desde que me di cuenta de que Google Domains estaba a la venta, comencé a migrar mis dominios. ¿Mi ruta de escape? <a href="https://www.cloudflare.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Cloudflare</a>. No es broma: ha sido, al menos para mí, una de las experiencias más agradables que he tenido (son unas de <a href="https://www.elmikewalsh.cl/apps-por-defecto-apps-por-doquier/">mis recomendaciones de herramientas digitales</a>). No solo el proceso de transferencia está optimizado, sino que también es seguro y ofrece excelentes opciones de dominio. Además, no hay aumento de precios. Continuar con Cloudflare es sencillo, el precio en año 1 será el mismo cada año: sin sorpresas anuales aquí.</p>
 <h3 id="mcetoc_1i22i885ca1">Abajo con Squarespace</h3>
 <p>Para cualquiera que gestione sus sitios y quiera organizar sus dominios de manera eficiente, Squarespace tiene un procedimiento de transferencia de dominios notablemente desordenado y un soporte casi inexistente. Si prefieres una solución mejor o más adecuada, Cloudflare es una excelente opción. Han sido profesionales, receptivos y es un placer tratar con ellos. Quizás esté de moda ser cuadrado, pero no ser Squarespace.</p>
-<p><strong>Crédito de foto:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" rel="noopener noreferrer">pexels.com</a></p>
+<p><strong>Crédito de foto:</strong> <a href="https://www.pexels.com/photo/back-view-of-man-carrying-a-backpack-with-arms-raised-doing-the-middle-finger-2618605/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pexels.com</a></p>
             ]]>
         </content>
     </entry>
@@ -179,7 +179,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/"/>
         <id>https://www.elmikewalsh.cl/perplexity-y-copywrong-el-arte-de-la-ia/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/51/perplexing-copywrong.jpg" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/51/perplexing-art-copywrong.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="Humor"/>
 
@@ -187,20 +187,20 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/51/perplexing-copywrong.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/51/perplexing-art-copywrong.webp" class="type:primaryImage" alt="" /></p>
                 <h3>Perplexity, derechos de autor y citar tu trabajo - los buenos viejos tiempos</h3>
 <p>La IA está en las noticias. En las conversaciones diarias. En tus redes sociales (si es que aún las usas). La IA es la varita mágica digital que hará realidad todos tus sueños: construir tu código, pintar tus cuadros y escribir tus artículos. O, al menos, en algunos casos escribirá tus artículos. En otros casos, simplemente los robará de personas que ya los escribieron (¿personas todavía escribe cosas en internet?)</p>
 <h3>Qué Confuso: Perplexity</h3>
-<p>En caso de que no lo hayas oído, el último escándalo involucra a la empresa Perplexity, que, en resumen, fue atrapada copiando artículos que no eran suyos y no atribuyendo la fuente de los artículos. No voy a resumir, ya que la empresa no vale la pena. Puedes ponerte al día aquí - <a href="https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/" target="_blank" rel="noopener noreferrer">https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/</a></p>
+<p>En caso de que no lo hayas oído, el último escándalo involucra a la empresa Perplexity, que, en resumen, fue atrapada copiando artículos que no eran suyos y no atribuyendo la fuente de los artículos. No voy a resumir, ya que la empresa no vale la pena. Puedes ponerte al día aquí - <a href="https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://laboratoriodeperiodismo.org/forbes-y-wired-destapan-practicas-poco-eticas-y-legalmente-cuestionables-de-la-ia-perplexity/</a></p>
 <p>En resumen, es el equivalente digital de ir a una tienda, robar un producto, cambiar la etiqueta y venderlo en tu tienda. ¡Increíble modelo de negocio! ¿Por qué no se le ocurrió a nadie antes?</p>
 <h3>Acreditación a la Antigua</h3>
-<p>Siendo un poco mayor, me acuerdo de actos musicales famosos como Milli Vanilli (nota al margen: historia trágica. búscala en internet. Incluso podrías encontrar una nota periodística original, en lugar de tripe reciclado por IA). O simplemente haz clic aquí - <a href="https://es.wikipedia.org/wiki/Milli_Vanilli" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Milli_Vanilli</a></p>
+<p>Siendo un poco mayor, me acuerdo de actos musicales famosos como Milli Vanilli (nota al margen: historia trágica. búscala en internet. Incluso podrías encontrar una nota periodística original, en lugar de tripe reciclado por IA). O simplemente haz clic aquí - <a href="https://es.wikipedia.org/wiki/Milli_Vanilli" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://es.wikipedia.org/wiki/Milli_Vanilli</a></p>
 <p>¿Por qué es famoso Milli Vanilli? Principalmente por supuestamente cantar cuando no lo hacían.</p>
 <p>En aquel entonces, reclamar que algo era tuyo cuando no lo era no era bien recibido.</p>
 <p>Hoy, sin embargo, aparentemente es un modelo de negocio muy exitoso.</p>
 <p>Recuerdo que en la escuela si entregabas una tarea sin atribuir tus fuentes, recibías un 0.</p>
 <p>¿Tal vez ese debería seguir siendo el modelo a seguir?</p>
-<p><strong>Crédito de foto:</strong> <span class="s1"><a href="https://pixabay.com/illustrations/internet-copyright-protection-1013675/" target="_blank" rel="noopener noreferrer">pixabay.com</a></span></p>
+<p><strong>Crédito de foto:</strong> <span class="s1"><a href="https://pixabay.com/illustrations/internet-copyright-protection-1013675/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></span></p>
             ]]>
         </content>
     </entry>
@@ -211,14 +211,14 @@
         </author>
         <link href="https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/"/>
         <id>https://www.elmikewalsh.cl/1000000-construyendo-casas-con-martillogpt/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer-2.webp" medium="image" />
             <category term="Humor"/>
 
         <updated>2024-03-01T09:10:44-03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/41/gpt-hammer-2.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -249,7 +249,7 @@
 <h3 id="mcetoc_1i03o728o8">El Dinero Completo</h3>
 <p>Aún así, supongo que la mayoría de las personas seguirán queriendo encontrar esa manera mágica y fácil de ganar dinero con poco o ningún esfuerzo. Supongo que hay formas de tomar Chat GPT (que es solo una herramienta, por cierto) y aplicarla a una nueva idea. Si vas a seguir este camino, al menos elige uno que nadie más esté siguiendo.</p>
 <p>Yo, por mi parte, he aplicado ChatGPT a nuestro kit de herramientas y ahora construye casas automáticamente. He escrito un script en Python para publicar las casas en Internet, ¡así que básicamente se venden solas! :)</p>
-<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" rel="noopener noreferrer">unsplash.com</a></p>
+<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -260,7 +260,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/"/>
         <id>https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/40/lost-my-password.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/40/lost-my-password-2.webp" medium="image" />
             <category term="Tutoriales"/>
             <category term="Tecnología"/>
             <category term="A Leer Todo"/>
@@ -270,7 +270,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/40/lost-my-password.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/40/lost-my-password-2.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -287,8 +287,8 @@
 <h3 id="mcetoc_1i03o96gkj">Elige un gestor de contraseñas gratuito</h3>
 <p>Primero, necesitas elegir uno. Hay opciones gratuitas y pagadas, pero hay dos opciones que son más que suficientes para tus necesidades, y ambas son gratuitas:</p>
 <ul>
-<li><a href="https://bitwarden.com/" target="_blank" rel="noopener noreferrer">Bitwarden</a></li>
-<li><a href="https://proton.me/pass" target="_blank" rel="noopener noreferrer">Proton Pass</a></li>
+<li><a href="https://bitwarden.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a></li>
+<li><a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a></li>
 </ul>
 <p>La elección es tuya. Yo tuve acceso a Bitwarden primero, así que principalmente lo uso. El diseño está un poco anticuado. Por otro lado, Proton Pass es mucho más agradable visualmente, pero no es tan maduro como producto como Bitwarden. De todos modos, elige uno e instálalo. Luego, el siguiente paso es el más importante:</p>
 <h3 id="mcetoc_1i03o96gkk">Crea una contraseña maestra fuerte</h3>
@@ -301,7 +301,7 @@
 <p>Utiliza el gestor de contraseñas para generar nuevas contraseñas manualmente y también verifica si tu contraseña se encuentra en una violación de datos. Algunos gestores de contraseñas, como Bitwarden, te permitirán configurar fácilmente la longitud de la contraseña (40, 50 e incluso 100 caracteres). Estas serán contraseñas que probablemente no puedas memorizar nunca. Sin embargo, no es necesario, siempre y cuando recuerdes la contraseña maestra que estableciste en el paso #2, tendrás acceso a ella. Tampoco importa qué navegador uses, ya que hay una extensión que puedes instalar y utilizar en tu computadora, teléfono, etc.</p>
 <p>Pasos rápidos y fáciles. En 2024 no hay excusa para usar una contraseña débil. Puedes dedicar un pequeño tiempo ahora para configurar tranquilamente un gestor de contraseñas... o mucho más tiempo (y estresante) más adelante.</p>
 <p>¡Buena suerte!</p>
-<p><strong>Crédito de foto:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" rel="noopener noreferrer">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>
+<p><strong>Crédito de foto:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>
             ]]>
         </content>
     </entry>
@@ -312,7 +312,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/el-juego-de-los-nombres/"/>
         <id>https://www.elmikewalsh.cl/el-juego-de-los-nombres/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/39/naming-game.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/39/the-naming-game.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
@@ -322,7 +322,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/39/naming-game.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/39/the-naming-game.webp" class="type:primaryImage" alt="" /></p>
                 <p>Presentarse en el internet puede ser medio complicada, sobre todo cuando le agregas el tema de tener un sitio web multilingüe. La disponibilidad del nombre de dominio, la capacidad de pronunciar o escribir un nombre son factores importantes.</p>
 <p>Hace poco le di los toques finales (por ahora, al menos) a la configuración de mi sitio web personal. Al principio, opté por un nombre de dominio y un subdominio para los que hablan inglés. Quedó algo así:</p>
 <ul>
@@ -345,12 +345,12 @@
 <ol>
 <li>Tengo dos nombres de dominio separados: lo más cortos posible y solo las extensiones son diferentes.</li>
 <li>Para los hispanohablantes (y un pequeño impulso en los resultados de búsqueda al usar un ccTLD), pueden encontrarme en - elmike.cl (estás aquí)</li>
-<li>Para la versión en inglés de mi sitio personal, elegí - <a href="https://www.elmike.me" target="_blank" rel="noopener noreferrer">elmike.me</a></li>
+<li>Para la versión en inglés de mi sitio personal, elegí - <a href="https://www.elmike.me" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmike.me</a></li>
 <li>Para el correo electrónico personal, opté por la versión .me, ya que .me funciona bien en español también. Además, es más fácil de decir, ya que "cl" es impronunciable y terminas diciendo cada letra.</li>
 <li>También al eliminar mi apellido, un hispanohablante solo se queda con "mike". Para el hispanohablante (chileno) que no puede escribirlo (parece que hay bastantes), puedo decir: "Mike. Mee-Kay-con-Ka" y eso funcionará el 99% de las veces.</li>
 </ol>
 <p>Y para el otro 1%, la comunicación electrónica podría ser un problema completamente diferente.</p>
-<p>¿El dominio original <a href="https://www.elmikewalsh.com" target="_blank" rel="noopener noreferrer">elmikewalsh.com</a>? Armé una bonita página de inicio con una noche estrellada y dos fotos mías vinculadas a las versiones en español e inglés de mis sitios personales.</p>
+<p>¿El dominio original <a href="https://www.elmikewalsh.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmikewalsh.com</a>? Armé una bonita página de inicio con una noche estrellada y dos fotos mías vinculadas a las versiones en español e inglés de mis sitios personales.</p>
 <p>Y eso es todo lo que tengo que decir al respecto.</p>
             ]]>
         </content>
@@ -362,7 +362,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/suficiente/"/>
         <id>https://www.elmikewalsh.cl/suficiente/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/38/enough-2.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/38/enough.webp" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2024"/>
@@ -371,7 +371,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/38/enough-2.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/38/enough.webp" class="type:primaryImage" alt="" /></p>
                 <p>Quentin Tarantino comentó recientemente que planea hacer 10 películas y eso es todo. (nota: en contexto, indicó que estaría bien haciendo algo más adelante a pesar de haber hecho 10 películas, por lo que no es un número fijo). Mencionó querer retirarse en la cima del juego. Similar a algunos, pero no a todos, los atletas. Lo mismo se aplica a todo; los proyectos de nosotros “simples mortales”. Nuestros trabajos. Nuestras ambiciones. Nuestro deseo de hacer más, tener más, obtener más, visitar más, mirar más, consumir más.</p>
 <p><strong>¿En qué momento es suficiente?</strong></p>
 <p>Suficiente significa lo necesario para satisfacer una necesidad o deseo. Entonces, una vez que llegas a ese punto, todo lo demás es extra. Innecesario. Incluso un desperdicio.</p>
@@ -379,7 +379,7 @@
 <p>Existe una fuerte tendencia al minimalismo en varios círculos. También se pueden encontrar excesos en el minimalismo, ya que muchos intentan eliminar todo excepto los elementos esenciales y espartanos de la vida. En el mundo del diseño, el minimalismo parece significar “Utilice sólo blanco y negro, por favor. Ojalá solo texto”. Pero en algunos casos, suficiente significa más que blanco y negro.</p>
 <p>Hay un viejo refrán que dice “tomar todo con moderación”. Es una buena manera de evitar los excesos, pero claro, tomar “todo con moderación” es en sí mismo excesivo. Mas que suficiente" (así que debes soltarte las trenzas de vez en cuando).</p>
 <p>Es una buena idea detenerse de vez en cuando para preguntarse: "¿Qué es suficiente?" De lo contrario, es posible que nunca sepas cuándo has llegado.</p>
-<p><strong>Crédito de foto:</strong> <a href="https://www.shopify.com/stock-photos/photos/red-wine-in-kitchen" target="_blank" rel="noopener noreferrer">https://www.shopify.com/stock-photos/photos/red-wine-in-kitchen</a></p>
+<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/black-liquid-in-clear-wine-glass-on-brown-wooden-table-sd_TGAfxPsg" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
@@ -390,22 +390,20 @@
         </author>
         <link href="https://www.elmikewalsh.cl/publii-cms-traduccion-espanol/"/>
         <id>https://www.elmikewalsh.cl/publii-cms-traduccion-espanol/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/50/cover-publii-trans-1.webp" medium="image" />
             <category term="Mis Diseños"/>
 
         <updated>2023-12-28T08:05:00-03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/50/cover-publii-trans-1.webp" class="type:primaryImage" alt="" /></p>
-                <p>Recientemente he tenido múltiples proyectos basados en <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era la falta de una traducción completa al español. Entonces, me encargué de llenar el espacio en blanco.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.cl/media/posts/50/publii-trans-2-2xl.webp" alt="Dos pantallas de iMac con codificación y logotipo de Publii" width="1200" height="675" sizes="100vw" srcset="https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xs.webp 300w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-sm.webp 480w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-md.webp 768w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-lg.webp 1024w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xl.webp 1360w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-2xl.webp 1600w"></figure>
+                <p>Recientemente he tenido múltiples proyectos basados en <a href="https://getpublii.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Publii CMS</a>. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era la falta de una traducción completa al español. Entonces, me encargué de llenar el espacio en blanco.</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.elmikewalsh.cl/media/posts/50/publii-trans-2-2xl.webp" alt="Dos pantallas de iMac con codificación y logotipo de Publii" width="1200" height="675" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xs.webp 640w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-sm.webp 768w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-md.webp 1024w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-lg.webp 1366w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-xl.webp 1600w ,https://www.elmikewalsh.cl/media/posts/50/responsive/publii-trans-2-2xl-2xl.webp 1920w"></figure>
 <p>Durante un mes, revisé y traduje más de 1,300 líneas de código al español, tanto para el programa principal como para el editor de texto (las traducciones de temas pueden venir en una fecha futura).</p>
-<p>Una vez que se terminó esto, envié la solicitud de fusión desde mi <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, que fue aceptada justo al comienzo del nuevo año.</p>
+<p>Una vez que se terminó esto, envié la solicitud de fusión desde mi <a href="https://www.github.com/elmikewalsh" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Github</a>, que fue aceptada justo al comienzo del nuevo año.</p>
 <p>Si está interesado, puede pinchar en el botón a continuación para descargar el paquete de idioma español más reciente para Publii CMS.</p>
 <h4>Detalles técnicos</h4>
 <ul>
-<li>La traducción del código se llevó a cabo usando <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</li>
+<li>La traducción del código se llevó a cabo usando <a href="https://www.sublimetext.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Sublime Text</a>.</li>
 </ul>
 <p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.4 Español</a></p>
             ]]>
@@ -418,7 +416,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/el-cierre-simplificado/"/>
         <id>https://www.elmikewalsh.cl/el-cierre-simplificado/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/37/our-tree.jpg" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/37/our-tree-2-2xl-2.webp" medium="image" />
             <category term="La Vida"/>
             <category term="A Leer Todo"/>
             <category term="2023"/>
@@ -427,7 +425,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/37/our-tree.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/37/our-tree-2-2xl-2.webp" class="type:primaryImage" alt="" /></p>
                 <p>Según el calendario gregoriano, un año más (2023) está llegando a su fin. Esa época del año en la que muchas personas en todo el mundo entran en el furor comercial anual y compran, compran, compran, comen, comen, comen y beben, beben, beben.</p>
 <p>Consigamos regalos XYZ para personas XYZ. La Persona X seguramente nos dará un regalo, por lo que tenemos que tener uno para regalárselo a la Persona X.</p>
 <ul>
@@ -437,7 +435,7 @@
 <li>“El árbol tiene que ser más grande que el año pasado. Más árbol. ¡Más luces!”</li>
 </ul>
 <p>Cielos, me duele la cabeza y estoy estresado con solo escribir esto. Tira del freno de mano. Detente. Respira. Relájate. Aléjate de la máquina del estrés y <strong>nadie. saldrá. herido.</strong></p>
-<p>Tómate el tiempo para detenerte, relajarte, mirar a tu alrededor y disfrutar. Déjalo ir. Mantenlo simple. Siéntate a mirar <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" rel="noopener noreferrer">Una Navidad de Charlie Brown</a>.</p>
+<p>Tómate el tiempo para detenerte, relajarte, mirar a tu alrededor y disfrutar. Déjalo ir. Mantenlo simple. Siéntate a mirar <a href="https://tv.apple.com/us/movie/a-charlie-brown-christmas/umc.cmc.mbxalimrwrtq72wj4h601pyf" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Una Navidad de Charlie Brown</a>.</p>
 <p>Disfrute de las vacaciones y viva para contarlo.</p>
 <p><strong>Foto:</strong> Nuestro árbol de Navidad. Simple. Casero. Reutilizable.</p>
             ]]>
@@ -450,7 +448,7 @@
         </author>
         <link href="https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/"/>
         <id>https://www.elmikewalsh.cl/4-formas-de-cagar-una-pregunta-de-si-no/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" medium="image" />
+        <media:content url="https://www.elmikewalsh.cl/media/posts/35/4-ways-to-2.webp" medium="image" />
             <category term="Político"/>
             <category term="Humor"/>
             <category term="A Leer Todo"/>
@@ -460,7 +458,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/35/4-ways-to.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.elmikewalsh.cl/media/posts/35/4-ways-to-2.webp" class="type:primaryImage" alt="" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -481,7 +479,7 @@
 <h3 id="mcetoc_1i03oc6sj1j">No respondas la pregunta</h3>
 <p>Anular tu voto para presidente o senador o lo que sea es una cosa (aún piensas que esos votos anulados deberían tener alguna consecuencia). Pero este es un documento que estará disponible por un largo tiempo (si se aprueba), por lo que es bueno tener una opinión. Y además, no votar te expondrá a una multa.</p>
 <p>Bueno, tendremos que ver cómo resulta esto el fin de semana. Estoy seguro de que hay muchas otras formas de cagar una simple pregunta de sí o no, pero hay que empezar por algún lado. Y ahora lo sabes.</p>
-<p><strong>Crédito de foto: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" rel="noopener noreferrer">https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic</a></p>
+<p><strong>Crédito de foto: </strong><a href="https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://unsplash.com/photos/a-person-is-casting-a-vote-into-a-box-T9CXBZLUvic</a></p>
 <hr>
 <p><em>Esto pretende ser una parte de un serie de artículos sobre elecciones en general, con mención específico a Chile. Quizás te interesa también leer las otras misivas en el serie:</em></p>
 <blockquote>
