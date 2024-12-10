@@ -5,6 +5,7 @@
     "home_page_url": "https://www.elmikewalsh.cl",
     "feed_url": "https://www.elmikewalsh.cl/feed.json",
     "user_comment": "",
+    "icon": "https://www.elmikewalsh.cl/media/website/favicon512x512-xs.webp",
     "author": {
         "name": "elmikewalsh"
     },
@@ -65,9 +66,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tutoriales",
-                   "Tecnología",
-                   "2024"
+                   "Tecnología"
             ],
             "date_published": "2024-07-08T17:57:33-04:00",
             "date_modified": "2024-09-18T12:30:32-03:00"
@@ -83,8 +82,7 @@
             },
             "tags": [
                    "Tecnología",
-                   "La Vida",
-                   "2024"
+                   "La Vida"
             ],
             "date_published": "2024-06-28T19:00:00-04:00",
             "date_modified": "2024-09-18T12:28:01-03:00"
@@ -130,10 +128,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "Tutoriales",
-                   "Tecnología",
-                   "A Leer Todo",
-                   "2024"
+                   "Tecnología"
             ],
             "date_published": "2024-02-05T14:27:27-03:00",
             "date_modified": "2024-09-18T12:25:08-03:00"
@@ -149,9 +144,7 @@
             },
             "tags": [
                    "Tecnología",
-                   "La Vida",
-                   "A Leer Todo",
-                   "2024"
+                   "La Vida"
             ],
             "date_published": "2024-01-30T19:12:00-03:00",
             "date_modified": "2024-09-18T12:21:35-03:00"
@@ -166,9 +159,7 @@
                 "name": "elmikewalsh"
             },
             "tags": [
-                   "La Vida",
-                   "A Leer Todo",
-                   "2024"
+                   "La Vida"
             ],
             "date_published": "2024-01-03T18:36:02-03:00",
             "date_modified": "2024-09-18T12:21:00-03:00"
