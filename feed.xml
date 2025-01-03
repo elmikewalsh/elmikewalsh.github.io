@@ -3,12 +3,55 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2024-10-25T08:34:54-03:00</updated>
+    <updated>2025-01-03T19:53:16-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.cl</id>
 
+    <entry>
+        <title>Una Imagen Vale Más que Mil Palabras</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.cl/una-imagen-vale-mas-que-mil-palabras/"/>
+        <id>https://www.elmikewalsh.cl/una-imagen-vale-mas-que-mil-palabras/</id>
+
+        <updated>2025-01-03T19:53:16-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1"><a href="https://manuelmoreale.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Manu Moreale</a> hizo un buen punto el otro día en su artículo sobre <a href="https://manuelmoreale.com/on-featured-images-in-blog-posts" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">agregar imágenes innecesarias [en inglés]</a> a los textos solo por tener una foto. Dicen que una foto vale más que mil palabras. Este año, intentaré escribir esas mil palabras y usar fotos solo cuando sea necesario.</p>
+<p class="p1">Así que nada de imágenes de encabezado en las publicaciones solo por tener una (aunque también intentaré tomar - y compartir - más fotos en 2025).</p>
+<p class="p1">¡Lo siento! :)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Más Palabras, Menos Pensar</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.cl/mas-palabras-menos-pensar/"/>
+        <id>https://www.elmikewalsh.cl/mas-palabras-menos-pensar/</id>
+            <category term="La Vida"/>
+
+        <updated>2024-12-31T14:50:00-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p1">En algunos contextos, la frase "mide dos veces, corta una" tiene sentido. Pero a veces puedes pensar tanto que terminas sin hacer nada.</p>
+<p class="p1">Este año, espero soltarme más y escribir más, pensar menos. (Ay, Dios mío). :)</p>
+<p class="p1">Simplemente dejar que los dedos bailen sobre el teclado y que todo fluya. Es verano en el hemisferio sur, lo que significa que hace calor. Y no me gusta el calor.</p>
+<p class="p1">Las estaciones son geniales: si te aburres de un tipo de clima, solo dale un poco de tiempo y cambiará.</p>
+<p class="p1">Es maravilloso sentir la brisa y el viento helado en la cara en invierno.</p>
+<p class="p1">Y justo cuando estás harto de calentar la casa, llegan la primavera y el verano.</p>
+<p class="p1">Aun así, el calor del verano apesta: al fin y al cabo, en invierno siempre puedes ponerte una capa más de ropa.</p>
+<p class="p1">Pero en el calor del verano, cuando ya te quitaste todo, no hay más a dónde ir.</p>
+<p class="p1">Salud por ti, verano. Ahora, ¡sigamos adelante!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>14 Días en el Infierno Sin Internet</title>
         <author>
@@ -418,80 +461,6 @@
 <p>Pasos rápidos y fáciles. En 2024 no hay excusa para usar una contraseña débil. Puedes dedicar un pequeño tiempo ahora para configurar tranquilamente un gestor de contraseñas... o mucho más tiempo (y estresante) más adelante.</p>
 <p>¡Buena suerte!</p>
 <p><strong>Crédito de foto:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>El Juego De Los Nombres</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.cl/el-juego-de-los-nombres/"/>
-        <id>https://www.elmikewalsh.cl/el-juego-de-los-nombres/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/39/the-naming-game.webp" medium="image" />
-            <category term="Tecnología"/>
-            <category term="La Vida"/>
-
-        <updated>2024-01-30T19:12:00-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/39/the-naming-game.webp" class="type:primaryImage" alt="" /></p>
-                <p>Presentarse en el internet puede ser medio complicada, sobre todo cuando le agregas el tema de tener un sitio web multilingüe. La disponibilidad del nombre de dominio, la capacidad de pronunciar o escribir un nombre son factores importantes.</p>
-<p>Hace poco le di los toques finales (por ahora, al menos) a la configuración de mi sitio web personal. Al principio, opté por un nombre de dominio y un subdominio para los que hablan inglés. Quedó algo así:</p>
-<ul>
-<li>elmikewalsh.com</li>
-<li>en.elmikewalsh.com</li>
-</ul>
-<p>Todo bien y bonito... en un entorno de habla inglesa. Nadie tendría problemas escribiendo "mike", "Walsh" es difícil de malinterpretar, y a pesar de que "el" es en español, la mayoría de los angloparlantes entenderían la idea.</p>
-<p>Desafortunadamente, en un contexto de habla hispana, no es tan fácil. Aquí están las trampas que experimenté:</p>
-<ul>
-<li><strong>Mike:</strong> En Chile, al menos, te dicen "Maik", "Maikol" o "Mike". Así que hay una probabilidad de 1 entre 3 de que esa parte se escriba correctamente.</li>
-<li><strong>Walsh:</strong> En español (y otros idiomas romances), hay una bonita combinación de consonantes y vocales. Mi apellido no sigue esa fluidez. Así que casi el 100% de las veces, tengo que deletrearlo.</li>
-<li><strong>El:</strong> Sin problemas en tierras hispanohablantes con este.</li>
-</ul>
-<hr>
-<p>Así que tener que deletrear m-i-k-e-w-a-l-s-h para compartir mi nombre de dominio o dirección de correo electrónico es un fastidio. Especialmente por teléfono.</p>
-<blockquote>
-<p>Por cierto, una buena prueba para el nombre/email/lo que sea que buscas: si puedes decirlo en una conversación telefónica y la otra persona puede anotarlo, vas bien.</p>
-</blockquote>
-<p><strong>Así es como lo solucioné:</strong></p>
-<ol>
-<li>Tengo dos nombres de dominio separados: lo más cortos posible y solo las extensiones son diferentes.</li>
-<li>Para los hispanohablantes (y un pequeño impulso en los resultados de búsqueda al usar un ccTLD), pueden encontrarme en - elmike.cl (estás aquí)</li>
-<li>Para la versión en inglés de mi sitio personal, elegí - <a href="https://www.elmike.me" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmike.me</a></li>
-<li>Para el correo electrónico personal, opté por la versión .me, ya que .me funciona bien en español también. Además, es más fácil de decir, ya que "cl" es impronunciable y terminas diciendo cada letra.</li>
-<li>También al eliminar mi apellido, un hispanohablante solo se queda con "mike". Para el hispanohablante (chileno) que no puede escribirlo (parece que hay bastantes), puedo decir: "Mike. Mee-Kay-con-Ka" y eso funcionará el 99% de las veces.</li>
-</ol>
-<p>Y para el otro 1%, la comunicación electrónica podría ser un problema completamente diferente.</p>
-<p>¿El dominio original <a href="https://www.elmikewalsh.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">elmikewalsh.com</a>? Armé una bonita página de inicio con una noche estrellada y dos fotos mías vinculadas a las versiones en español e inglés de mis sitios personales.</p>
-<p>Y eso es todo lo que tengo que decir al respecto.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Suficiente</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.cl/suficiente/"/>
-        <id>https://www.elmikewalsh.cl/suficiente/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/38/enough.webp" medium="image" />
-            <category term="La Vida"/>
-
-        <updated>2024-01-03T18:36:02-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/38/enough.webp" class="type:primaryImage" alt="" /></p>
-                <p>Quentin Tarantino comentó recientemente que planea hacer 10 películas y eso es todo. (nota: en contexto, indicó que estaría bien haciendo algo más adelante a pesar de haber hecho 10 películas, por lo que no es un número fijo). Mencionó querer retirarse en la cima del juego. Similar a algunos, pero no a todos, los atletas. Lo mismo se aplica a todo; los proyectos de nosotros “simples mortales”. Nuestros trabajos. Nuestras ambiciones. Nuestro deseo de hacer más, tener más, obtener más, visitar más, mirar más, consumir más.</p>
-<p><strong>¿En qué momento es suficiente?</strong></p>
-<p>Suficiente significa lo necesario para satisfacer una necesidad o deseo. Entonces, una vez que llegas a ese punto, todo lo demás es extra. Innecesario. Incluso un desperdicio.</p>
-<p><em><strong>¿El vaso esta medio lleno o medio vacío?</strong></em> (¿Ahora… es en verdad la pregunta correcta?)</p>
-<p>Existe una fuerte tendencia al minimalismo en varios círculos. También se pueden encontrar excesos en el minimalismo, ya que muchos intentan eliminar todo excepto los elementos esenciales y espartanos de la vida. En el mundo del diseño, el minimalismo parece significar “Utilice sólo blanco y negro, por favor. Ojalá solo texto”. Pero en algunos casos, suficiente significa más que blanco y negro.</p>
-<p>Hay un viejo refrán que dice “tomar todo con moderación”. Es una buena manera de evitar los excesos, pero claro, tomar “todo con moderación” es en sí mismo excesivo. Mas que suficiente" (así que debes soltarte las trenzas de vez en cuando).</p>
-<p>Es una buena idea detenerse de vez en cuando para preguntarse: "¿Qué es suficiente?" De lo contrario, es posible que nunca sepas cuándo has llegado.</p>
-<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/black-liquid-in-clear-wine-glass-on-brown-wooden-table-sd_TGAfxPsg" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
             ]]>
         </content>
     </entry>
