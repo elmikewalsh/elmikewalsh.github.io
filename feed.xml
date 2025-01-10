@@ -3,12 +3,47 @@
     <title>Escribo Cosas</title>
     <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
     <link href="https://www.elmikewalsh.cl" />
-    <updated>2025-01-03T19:53:16-03:00</updated>
+    <updated>2025-01-10T20:30:10-03:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://www.elmikewalsh.cl</id>
 
+    <entry>
+        <title>Servicios de Email: Un Desahogo</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://www.elmikewalsh.cl/servicios-de-email-un-desahogo/"/>
+        <id>https://www.elmikewalsh.cl/servicios-de-email-un-desahogo/</id>
+            <category term="Tecnología"/>
+
+        <updated>2025-01-10T20:30:10-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <p>Me imagino que la mayoría de las personas simplemente abre su confiable cuenta de Gmail, revisa y envía correos, y listo. Pero cuando piensas en cambiar a un servicio que no lea ni espíe abiertamente tus correos, se vuelve todo un desafío.</p>
+<p>Sinceramente, siento que mi cabeza podría explotar en cualquier momento. Podría entrar en muchos detalles sobre cada servicio que probé y descarté, pero estoy feliz de decir que mi cruzada está llegando a su fin. Con eso en mente, quiero compartir mis hallazgos, con la esperanza de que puedan ayudar a quienes estén buscando un buen servicio confiable.</p>
+<p><strong>Contexto rápido:</strong> no estoy buscando un servicio de correo militarmente encriptado ni de alto nivel de seguridad. Solo quiero un servicio con cifrado básico, de una empresa que no espíe mis datos ni me cobre una fortuna. Esto es lo que he encontrado, junto con mis opiniones:</p>
+<h3><strong>Proton</strong></h3>
+<p>Tuve configurada esta cuenta para mi familia. La verdad, solo puedo decir cosas buenas del servicio en sí. ¿El problema? Cuando decidimos que el plan era más caro de lo que estábamos dispuestos a pagar, comenzó la migración… y con ello los problemas:</p>
+<ul>
+<li>Como organización, pude exportar todos los correos de los miembros excepto los míos. Apareció un error desconocido, y soporte finalmente me dijo que era un problema raro y poco probable de solucionar. En lugar de recibir un archivo MBOX fácil de usar, tuve que exportar archivos EML e importarlos al siguiente servicio.</li>
+<li>Cuando cancelamos nuestro plan (el Visionary, nada menos), confirmaron la cancelación, pero en secreto nos bajaron a un plan Unlimited. No esperaba que me cobraran de nuevo, y tuve que cancelar por segunda vez. Ese servicio es terrible.</li>
+</ul>
+<h3><strong>Fastmail</strong></h3>
+<p>Fastmail ofrecía un plan familiar a un precio razonable. La configuración fue rápida y sencilla. No tengo mucho que decir. No me gustó la aplicación móvil porque incluye cosas como Notas, Calendario y Archivos, y no hay forma de quitarlos. Fastmail fue "meh" para mí: ni lo disfruté ni lo odié. Puede que sea para ti, pero no para mí.</p>
+<h3><strong>Purelymail</strong></h3>
+<p>La configuración fue genial, fácil, y con precios súper razonables ($10 USD al año) por espacio ilimitado, dominios y cuentas de correo. Sin embargo, el backend es feo como pegarle a la mamá, y si no sabes configurar registros DNS, este servicio no es para ti.</p>
+<h3><strong>MXRoute</strong></h3>
+<p>Estoy probándolo ahora mismo, y puede que sea justo lo que necesito. Actualizaré esta sección cuando tenga más información.</p>
+<h3><strong>iCloud Mail</strong></h3>
+<p>Realmente quiero que este servicio me guste. De verdad. Más adelante explicaré por qué no puedo usarlo. En mi caso, tiene que ver con manejar múltiples dominios y querer bandejas separadas para cada uno.</p>
+<hr>
+<p>Eso es todo por ahora. Espero que esta información te sea útil. ¡Actualizaré esto cuando tenga más tiempo!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Una Imagen Vale Más que Mil Palabras</title>
         <author>
@@ -412,55 +447,6 @@
 <p>Aún así, supongo que la mayoría de las personas seguirán queriendo encontrar esa manera mágica y fácil de ganar dinero con poco o ningún esfuerzo. Supongo que hay formas de tomar Chat GPT (que es solo una herramienta, por cierto) y aplicarla a una nueva idea. Si vas a seguir este camino, al menos elige uno que nadie más esté siguiendo.</p>
 <p>Yo, por mi parte, he aplicado ChatGPT a nuestro kit de herramientas y ahora construye casas automáticamente. He escrito un script en Python para publicar las casas en Internet, ¡así que básicamente se venden solas! :)</p>
 <p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/white-and-gray-metal-pipe-8pgK7WMSnXs" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">unsplash.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Como crear una buena contraseña</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/"/>
-        <id>https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/40/lost-my-password-2.webp" medium="image" />
-            <category term="Tecnología"/>
-
-        <updated>2024-02-05T14:27:27-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/40/lost-my-password-2.webp" class="type:primaryImage" alt="" /></p>
-                <div class="post__toc">
-<h3>Tabla de contenidos</h3>
-<ul>
-<li><a href="#mcetoc_1i03o96gkj">Elige un gestor de contraseñas gratuito</a></li>
-<li><a href="#mcetoc_1i03o96gkk">Crea una contraseña maestra fuerte</a></li>
-<li><a href="#mcetoc_1i03o96gkl">Importa contraseñas existentes</a></li>
-<li><a href="#mcetoc_1i03o96gkm">Almacena automáticamente las nuevas contraseñas</a></li>
-<li><a href="#mcetoc_1i03o96gkn">Generar nuevas contraseñas</a></li>
-</ul>
-</div>
-<p>Es 2024; si aún estás utilizando una contraseña básica como <em>contraseña1234</em> (vergüenza para ti) o usando la misma contraseña para todas tus cuentas en línea, simplemente estás pidiendo un mundo de problemas digitales (y de la vida real).</p>
-<p>Puede resultar un poco de miedo para las personas comenzando a usar un gestor de contraseñas, pero en pocas palabras: ¿preferirías tomar un poco de tiempo ahora para configurar un pequeño programa que puedes usar de forma gratuita y en cualquier lugar, para que tus contraseñas estén seguras, o eres del tipo que prefiere llamar a los bancos apresuradamente para cancelar tarjetas, enviar correos electrónicos de soporte a empresas explicando que te hackearon mientras esperas impacientemente una respuesta? Si perteneces al primer grupo, ¡sigue leyendo!</p>
-<hr>
-<h3 id="mcetoc_1i03o96gkj">Elige un gestor de contraseñas gratuito</h3>
-<p>Primero, necesitas elegir uno. Hay opciones gratuitas y pagadas, pero hay dos opciones que son más que suficientes para tus necesidades, y ambas son gratuitas:</p>
-<ul>
-<li><a href="https://bitwarden.com/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Bitwarden</a></li>
-<li><a href="https://proton.me/pass" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton Pass</a></li>
-</ul>
-<p>La elección es tuya. Yo tuve acceso a Bitwarden primero, así que principalmente lo uso. El diseño está un poco anticuado. Por otro lado, Proton Pass es mucho más agradable visualmente, pero no es tan maduro como producto como Bitwarden. De todos modos, elige uno e instálalo. Luego, el siguiente paso es el más importante:</p>
-<h3 id="mcetoc_1i03o96gkk">Crea una contraseña maestra fuerte</h3>
-<p>Un buen gestor de contraseñas requerirá que establezcas una contraseña maestra para acceder al gestor de contraseñas. Un buen gestor de contraseñas TAMPOCO almacenará tu contraseña maestra. Como resultado, si la pierdes o la olvidas, no podrás recuperarla ni solicitar que la empresa te la envíe. Tampoco podrás generar una nueva. Entonces, ESTA contraseña es la que tendrá que ser buena y también una que puedas recordar. (Este es el paso que te causará problemas más adelante si no piensas en ello un poco).</p>
-<h3 id="mcetoc_1i03o96gkl">Importa contraseñas existentes</h3>
-<p>Si tienes contraseñas guardadas en tu navegador, muchos gestores de contraseñas gratuitos te permiten importarlas. Es una buena idea y te ahorrará tiempo. ¡Adelante!</p>
-<h3 id="mcetoc_1i03o96gkm">Almacena automáticamente las nuevas contraseñas</h3>
-<p>Permite que el gestor de contraseñas almacene automáticamente las nuevas contraseñas cuando inicies sesión.</p>
-<h3 id="mcetoc_1i03o96gkn">Generar nuevas contraseñas</h3>
-<p>Utiliza el gestor de contraseñas para generar nuevas contraseñas manualmente y también verifica si tu contraseña se encuentra en una violación de datos. Algunos gestores de contraseñas, como Bitwarden, te permitirán configurar fácilmente la longitud de la contraseña (40, 50 e incluso 100 caracteres). Estas serán contraseñas que probablemente no puedas memorizar nunca. Sin embargo, no es necesario, siempre y cuando recuerdes la contraseña maestra que estableciste en el paso #2, tendrás acceso a ella. Tampoco importa qué navegador uses, ya que hay una extensión que puedes instalar y utilizar en tu computadora, teléfono, etc.</p>
-<p>Pasos rápidos y fáciles. En 2024 no hay excusa para usar una contraseña débil. Puedes dedicar un pequeño tiempo ahora para configurar tranquilamente un gestor de contraseñas... o mucho más tiempo (y estresante) más adelante.</p>
-<p>¡Buena suerte!</p>
-<p><strong>Crédito de foto:</strong> <a href="https://pixabay.com/illustrations/security-professional-secret-5199236/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">https://pixabay.com/illustrations/security-professional-secret-5199236/</a></p>
             ]]>
         </content>
     </entry>
