@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Escribo Cosas</title>
-    <link href="https://www.elmikewalsh.cl/feed.xml" rel="self" />
-    <link href="https://www.elmikewalsh.cl" />
+    <link href="https://www.elmikewalsh.com/es/feed.xml" rel="self" />
+    <link href="https://www.elmikewalsh.com/es" />
     <updated>2025-05-22T18:45:51-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
-    <id>https://www.elmikewalsh.cl</id>
+    <id>https://www.elmikewalsh.com/es</id>
 
     <entry>
         <title>Cómo elegir un servicio de email sin volverse loco</title>
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/como-elegir-un-servicio-de-email-sin-volverse-loco/"/>
-        <id>https://www.elmikewalsh.cl/como-elegir-un-servicio-de-email-sin-volverse-loco/</id>
+        <link href="https://www.elmikewalsh.com/es/como-elegir-un-servicio-de-email-sin-volverse-loco/"/>
+        <id>https://www.elmikewalsh.com/es/como-elegir-un-servicio-de-email-sin-volverse-loco/</id>
             <category term="Tecnología"/>
 
         <updated>2025-05-21T20:39:00-04:00</updated>
@@ -37,7 +37,7 @@
 <li><a href="#mcetoc_1irt2l8el8i">Fastmail</a></li>
 </ul>
 </div>
-<p class="p1">Probablemente me descargué todos los programas de email (Canary, Spark, em, Edison, etc.) de la App Store, y los borré después. <a href="https://www.elmikewalsh.cl/servicios-de-email-un-desahogo/">Ya había comentado sobre algunos servicios de email</a>; algunas opiniones cambiaron. Todavía no me siento del todo cómodo con el servicio que uso actualmente (volví a Proton). Acá va una actualización de lo que había comentado antes, con la esperanza de que escribirlo me ayude a llegar a una conclusión definitiva:</p>
+<p class="p1">Probablemente me descargué todos los programas de email (Canary, Spark, em, Edison, etc.) de la App Store, y los borré después. <a href="https://www.elmikewalsh.com/es/servicios-de-email-un-desahogo/">Ya había comentado sobre algunos servicios de email</a>; algunas opiniones cambiaron. Todavía no me siento del todo cómodo con el servicio que uso actualmente (volví a Proton). Acá va una actualización de lo que había comentado antes, con la esperanza de que escribirlo me ayude a llegar a una conclusión definitiva:</p>
 <h3 id="mcetoc_1irt2l8el8a" class="p1">Postale.io</h3>
 <p class="p1">Este fue el primer servicio que usé con mi propio dominio, dejando atrás Gmail. Nada más que cosas buenas que decir. Precio excelente para necesidades básicas y dominios personalizados ilimitados. Me fui principalmente porque quería más opciones y, idealmente, una app nativa gratuita y bonita, que ellos no ofrecen. Rediseñaron su sitio web y panel de administración hace poco, pero siguen usando el webmail Roundcube, que es feo como el demonio. Como mi solución de email tiene que servir para miembros de mi familia con distintos niveles tecnológicos, que sea intuitivo y “lindo” es importante.</p>
 <h3 id="mcetoc_1irt2l8el8b" class="p1">Proton</h3>
@@ -78,8 +78,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/publii-cms-enlaces-directos-idioma/"/>
-        <id>https://www.elmikewalsh.cl/publii-cms-enlaces-directos-idioma/</id>
+        <link href="https://www.elmikewalsh.com/es/publii-cms-enlaces-directos-idioma/"/>
+        <id>https://www.elmikewalsh.com/es/publii-cms-enlaces-directos-idioma/</id>
             <category term="Tecnología"/>
             <category term="La Vida"/>
 
@@ -102,8 +102,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/si-es-suizo-es-seguro-estas-seguro/"/>
-        <id>https://www.elmikewalsh.cl/si-es-suizo-es-seguro-estas-seguro/</id>
+        <link href="https://www.elmikewalsh.com/es/si-es-suizo-es-seguro-estas-seguro/"/>
+        <id>https://www.elmikewalsh.com/es/si-es-suizo-es-seguro-estas-seguro/</id>
             <category term="Tecnología"/>
 
         <updated>2025-01-31T19:53:28-03:00</updated>
@@ -133,8 +133,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/bariloche-desde-arriba-hacia-abajo/"/>
-        <id>https://www.elmikewalsh.cl/bariloche-desde-arriba-hacia-abajo/</id>
+        <link href="https://www.elmikewalsh.com/es/bariloche-desde-arriba-hacia-abajo/"/>
+        <id>https://www.elmikewalsh.com/es/bariloche-desde-arriba-hacia-abajo/</id>
             <category term="Fotos"/>
 
         <updated>2025-01-25T14:18:00-03:00</updated>
@@ -143,14 +143,14 @@
             <![CDATA[
                 <p>Hice un viaje familiar en noviembre de 2024, cruzando la cordillera hasta Bariloche, Argentina. Comparto algunas fotos desde la cima del Cerro Otto y otros lugares. Noviembre es un mes ideal para ir, con buen clima y pocos turistas.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2465.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2465-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2480.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2480-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2481.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2481-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2486.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2486-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2487.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2487-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2490.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2490-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2491.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2491-thumbnail.webp" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2501.webp" data-size="1613x907"><img src="https://www.elmikewalsh.cl/media/posts/65/gallery/IMG_2501-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2465.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2465-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2480.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2480-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2481.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2481-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2486.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2486-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2487.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2487-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2490.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2490-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2491.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2491-thumbnail.webp" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2501.webp" data-size="1613x907"><img src="https://www.elmikewalsh.com/es/media/posts/65/gallery/IMG_2501-thumbnail.webp" alt="" width="720" height="405"></a></figure>
 </div></div>
 <p class="align-center"><em>Bariloche, Argentina.</em></p>
             ]]>
@@ -161,8 +161,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/a-la-mierda-microsoft/"/>
-        <id>https://www.elmikewalsh.cl/a-la-mierda-microsoft/</id>
+        <link href="https://www.elmikewalsh.com/es/a-la-mierda-microsoft/"/>
+        <id>https://www.elmikewalsh.com/es/a-la-mierda-microsoft/</id>
             <category term="Tecnología"/>
 
         <updated>2025-01-19T17:50:00-03:00</updated>
@@ -188,8 +188,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/servicios-de-email-un-desahogo/"/>
-        <id>https://www.elmikewalsh.cl/servicios-de-email-un-desahogo/</id>
+        <link href="https://www.elmikewalsh.com/es/servicios-de-email-un-desahogo/"/>
+        <id>https://www.elmikewalsh.com/es/servicios-de-email-un-desahogo/</id>
             <category term="Tecnología"/>
 
         <updated>2025-01-10T20:30:10-03:00</updated>
@@ -233,8 +233,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/una-imagen-vale-mas-que-mil-palabras/"/>
-        <id>https://www.elmikewalsh.cl/una-imagen-vale-mas-que-mil-palabras/</id>
+        <link href="https://www.elmikewalsh.com/es/una-imagen-vale-mas-que-mil-palabras/"/>
+        <id>https://www.elmikewalsh.com/es/una-imagen-vale-mas-que-mil-palabras/</id>
 
         <updated>2025-01-03T19:53:16-03:00</updated>
             <summary></summary>
@@ -251,8 +251,8 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/mas-palabras-menos-pensar/"/>
-        <id>https://www.elmikewalsh.cl/mas-palabras-menos-pensar/</id>
+        <link href="https://www.elmikewalsh.com/es/mas-palabras-menos-pensar/"/>
+        <id>https://www.elmikewalsh.com/es/mas-palabras-menos-pensar/</id>
             <category term="La Vida"/>
 
         <updated>2024-12-31T14:50:00-03:00</updated>
@@ -276,9 +276,9 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/14-dias-en-el-infierno-sin-internet/"/>
-        <id>https://www.elmikewalsh.cl/14-dias-en-el-infierno-sin-internet/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/60/no-internet-hell-2.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/es/14-dias-en-el-infierno-sin-internet/"/>
+        <id>https://www.elmikewalsh.com/es/14-dias-en-el-infierno-sin-internet/</id>
+        <media:content url="https://www.elmikewalsh.com/es/media/posts/60/no-internet-hell-2.webp" medium="image" />
             <category term="Tecnología"/>
             <category term="Humor"/>
 
@@ -286,7 +286,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/60/no-internet-hell-2.webp" class="type:primaryImage" alt="Vista pos-apocalíptica de una ciudad." /></p>
+                    <p><img src="https://www.elmikewalsh.com/es/media/posts/60/no-internet-hell-2.webp" class="type:primaryImage" alt="Vista pos-apocalíptica de una ciudad." /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -322,16 +322,16 @@
         <author>
             <name>elmikewalsh</name>
         </author>
-        <link href="https://www.elmikewalsh.cl/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/"/>
-        <id>https://www.elmikewalsh.cl/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/</id>
-        <media:content url="https://www.elmikewalsh.cl/media/posts/59/how-i-made-004.webp" medium="image" />
+        <link href="https://www.elmikewalsh.com/es/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/"/>
+        <id>https://www.elmikewalsh.com/es/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/</id>
+        <media:content url="https://www.elmikewalsh.com/es/media/posts/59/how-i-made-004.webp" medium="image" />
             <category term="Humor"/>
 
         <updated>2024-10-16T13:28:00-03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.elmikewalsh.cl/media/posts/59/how-i-made-004.webp" class="type:primaryImage" alt="Foto de un árbol pequeño saliendo de un montón de monedas" /></p>
+                    <p><img src="https://www.elmikewalsh.com/es/media/posts/59/how-i-made-004.webp" class="type:primaryImage" alt="Foto de un árbol pequeño saliendo de un montón de monedas" /></p>
                 <div class="post__toc">
 <h3>Tabla de contenidos</h3>
 <ul>
@@ -346,17 +346,17 @@
 <p class="p1">Estoy aquí para contarte cómo convertí ese sueño en realidad. Lo logré. <strong>Gané $0,04</strong> en un mes en Medium. Probablemente te estés preguntando, "¿Cómo puedo alcanzar este nivel de éxito?". No te preocupes. Te tengo cubierto.</p>
 <h3 id="mcetoc_1iaqh1cdq6a" class="p1">La ignorancia se escribe sola</h3>
 <p class="p1">Todo el mundo sabe que ser un experto está sobrevalorado. En Medium, la clave es aparentar saber cosas. Lo importante es la confianza. El truco está en echar mano de palabras de moda como “mindfulness”, “side hustle” y “mentalidad de crecimiento”. Si realmente quieres maximizar tus ganancias, mete algo sobre cripto, aunque tu único conocimiento de criptomonedas sea que no es una moneda física.</p>
-<p class="p1">Después de resistirme inicialmente, bajo el principio de que el trabajo duro y el esfuerzo valen la pena, cambié a este método, convencido de que mi “consejo” profundo sobre cómo maximizar el desarrollo de tu sitio web siguiendo mi enredado proceso de <a href="https://www.elmikewalsh.cl/wordpress-mi-generador-favorito-de-sitios-estaticos/">15 pasos para convertir tu WordPress en un sitio estático haría maravillas</a>. Spoiler: no funcionó.</p>
+<p class="p1">Después de resistirme inicialmente, bajo el principio de que el trabajo duro y el esfuerzo valen la pena, cambié a este método, convencido de que mi “consejo” profundo sobre cómo maximizar el desarrollo de tu sitio web siguiendo mi enredado proceso de <a href="https://www.elmikewalsh.com/es/wordpress-mi-generador-favorito-de-sitios-estaticos/">15 pasos para convertir tu WordPress en un sitio estático haría maravillas</a>. Spoiler: no funcionó.</p>
 <h3 id="mcetoc_1iaqh1cdq6b" class="p1">Encuentra tu nicho verdaderamente único que nadie está haciendo</h3>
-<p class="p1">Pensé que destacaría encontrando el nicho perfecto. Después de todo, Medium está lleno de artículos sobre nómadas digitales, minimalismo, y cómo hacer un producto digital y vender 325 variaciones por $50k al mes, así que decidí bajar aún más al nicho de lo único. Escribí sobre <a href="https://www.elmikewalsh.cl/el-arte-de-una-buena-contrasena/">cómo crear una buena contraseña</a>. Una obra maestra. Naturalmente, esperaba que el algoritmo lanzara mi post a lo más alto de la plataforma.</p>
+<p class="p1">Pensé que destacaría encontrando el nicho perfecto. Después de todo, Medium está lleno de artículos sobre nómadas digitales, minimalismo, y cómo hacer un producto digital y vender 325 variaciones por $50k al mes, así que decidí bajar aún más al nicho de lo único. Escribí sobre <a href="https://www.elmikewalsh.com/es/el-arte-de-una-buena-contrasena/">cómo crear una buena contraseña</a>. Una obra maestra. Naturalmente, esperaba que el algoritmo lanzara mi post a lo más alto de la plataforma.</p>
 <p class="p1">Lo que descubrí es que a Medium le encantan los nichos... si tu nicho resulta ser cripto, minimalismo o startups tecnológicas. ¿Una guía sincera y detallada sobre cómo hacer una buena contraseña? No tanto.</p>
 <h3 id="mcetoc_1iaqh1cdq6c" class="p1">El seguimiento de estadísticas neurótico</h3>
 <p class="p1">Esta es la verdadera alegría de Medium. Es como revisar tus redes sociales para ver los likes, pero en esteroides. El momento en que haces clic en “publicar”, te encuentras refrescando la página de estadísticas obsesivamente. Al principio, te sientes optimista. Te imaginas los cientos de visitas acumulándose, los comentarios llegando en masa, los aplausos sumándose. Pero en cambio, ves números que parecen más el precio de un chicle.</p>
 <p class="p1">Después de una semana vigilando mis estadísticas como un halcón, llegó mi primer gran logro. Un asombroso par de centavos. En ese momento, comencé a calcular cuánto tiempo me tomaría comprarme un café real con mis ganancias de Medium. (Spoiler: mucho tiempo).</p>
 <h3 id="mcetoc_1iaqh1cdq6d" class="p1">¡Muéstrame la plata!</h3>
 <p class="p1">Y entonces sucedió. Después de semanas de poner todo mi corazón y alma en mi contenido, llegó el momento de la verdad. Revisé mis estadísticas una última vez para el mes y lo vi: $0,04. Lo logré. La liga mayor.</p>
-<figure class="post__image post__image--center"><img  src="https://www.elmikewalsh.cl/media/posts/59/earnings-image.jpg" alt="Pantallazo mostrando las ganacias" width="728" height="562" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-xs.webp 640w ,https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-sm.webp 768w ,https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-md.webp 1024w ,https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-lg.webp 1366w ,https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-xl.webp 1600w ,https://www.elmikewalsh.cl/media/posts/59/responsive/earnings-image-2xl.webp 1920w"></figure>
-<p class="p1">Era hora de celebrar. Me serví un vaso de <a href="https://www.elmikewalsh.cl/oda-al-whisky/">whisky</a>, me senté, y disfruté del brillo de mi monumental éxito. ¿Podía permitirme un yate? No. ¿Un iPhone? Tampoco. Pero oficialmente era un escritor pagado. Técnicamente.</p>
+<figure class="post__image post__image--center"><img  src="https://www.elmikewalsh.com/es/media/posts/59/earnings-image.jpg" alt="Pantallazo mostrando las ganacias" width="728" height="562" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-xs.webp 640w ,https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-sm.webp 768w ,https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-md.webp 1024w ,https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-lg.webp 1366w ,https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-xl.webp 1600w ,https://www.elmikewalsh.com/es/media/posts/59/responsive/earnings-image-2xl.webp 1920w"></figure>
+<p class="p1">Era hora de celebrar. Me serví un vaso de <a href="https://www.elmikewalsh.com/es/oda-al-whisky/">whisky</a>, me senté, y disfruté del brillo de mi monumental éxito. ¿Podía permitirme un yate? No. ¿Un iPhone? Tampoco. Pero oficialmente era un escritor pagado. Técnicamente.</p>
 <h3 id="mcetoc_1iaqh1cdq6e" class="p1">Las lecciones aprendidas</h3>
 <p class="p1">Ganar plata en Medium es, bueno, posible. Técnicamente. Pero no se trata de la plata (¡menos mal!). Se trata de la emoción de poner tus pensamientos en el mundo y ver cómo resuenan con, seamos honestos, probablemente solo con tu mamá. Esos $0,04 son un símbolo de potencial. El potencial de que, algún día—quizás en muchos, muchos, muchos años—puedas comprarte un chicle.</p>
 <p class="p1">Así que, si estás listo para convertirte en millonario en Medium, recuerda esto: no se trata de lo que ganes. Se trata del viaje, de ver esa página de estadísticas avanzar poco a poco. Algún día, con suficiente perseverancia, podrías comprarte ese yate. O al menos una taza de café. ¡A toda máquina!</p>
