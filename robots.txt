@@ -1,3 +1,9 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://es.elmikewalsh.com/sitemap.xml
