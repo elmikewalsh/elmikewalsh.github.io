@@ -3,12 +3,50 @@
     <title>Escribo Cosas</title>
     <link href="https://es.elmikewalsh.com/feed.xml" rel="self" />
     <link href="https://es.elmikewalsh.com" />
-    <updated>2025-05-22T18:45:51-04:00</updated>
+    <updated>2025-08-01T21:23:33-04:00</updated>
     <author>
         <name>elmikewalsh</name>
     </author>
     <id>https://es.elmikewalsh.com</id>
 
+    <entry>
+        <title>Email: El Último Intento (Ahora Sí Que Sí)</title>
+        <author>
+            <name>elmikewalsh</name>
+        </author>
+        <link href="https://es.elmikewalsh.com/email-el-ultimo-intento-ahora-si-que-si/"/>
+        <id>https://es.elmikewalsh.com/email-el-ultimo-intento-ahora-si-que-si/</id>
+            <category term="Tecnología"/>
+
+        <updated>2025-06-13T21:19:00-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1j1k55ks27">Cómo por fin elegí un proveedor de correo sin volverme loco.</h3>
+<div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1j1k55ks28">¿Cómo llegué hasta acá?</a></li>
+<li><a href="#mcetoc_1j1k55ks29">Los Candidatos</a></li>
+</ul>
+</div>
+<p class="p3">Ya, este es otro capítulo más de mi odisea personal para tener un sistema de correo que no me diera rabia, que funcionara sin dramas y que simplemente pudiera usar y olvidarme del tema.</p>
+<h3 id="mcetoc_1j1k55ks28" class="p3">¿Cómo llegué hasta acá?</h3>
+<p class="p3">Esto es una continuación de este artículo, que a su vez era una actualización de este otro. Así que no voy a repetir todo el análisis de cada proveedor porque si querís hacer eso, podís perder días enteros leyendo en Reddit sobre cada uno (literalmente). Mejor te dejo aquí mis recomendaciones en orden, de mejor a peor, con un mini comentario de por qué sí o por qué no:</p>
+<h3 id="mcetoc_1j1k55ks29" class="p3">Los Candidatos</h3>
+<p class="p3"><strong><a href="https://proton.me" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Proton</a></strong> - Me fui por este. Y no solo eso: contraté el plan Visionary. Desde que volví (ya es la tercera vez que lo pruebo) han sacado Lumo, una app con IA, y otra de autenticación. O sea, se están moviendo harto. Con Visionary tenís todo incluido. ¡Bacán!</p>
+<p class="p3"><strong><a href="https://tuta.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Tuta</a></strong> - Estuve muy cerca de elegirlo. Si no fuera por Proton, esta sería la opción. Lo que me hizo dudar fue el diseño y la interfaz (y que además tenía que convencer a mi familia, así que no era solo para mí). Pero si querís puro correo a buen precio: dale con Tuta.</p>
+<p class="p3"><strong><a href="https://www.icloud.com/mail" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">iCloud Mail</a></strong> - Si estás metido en el ecosistema Apple y no te importan tanto las funciones avanzadas, esta es buena opción. Te deja crear correos con tu dominio y listo.</p>
+<p class="p3"><strong><a href="https://www.fastmail.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Fastmail</a></strong> - Difícil elegir entre este y Infomaniak. Me fui por Fastmail porque es fácil de configurar, tiene hartas funciones y el diseño no está mal. Pero ojo: su “privacidad” es más tipo “confía en nosotros” que algo técnico de verdad.</p>
+<p class="p3"><strong><a href="https://www.infomaniak.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Infomaniak</a></strong> - Quería que me gustara. De verdad quería. Tiene buenos precios y ofertas generosas. Incluso logré configurarlo desde Chile. Peeero… el soporte es una lata. Malísimo. Y la configuración es cero intuitiva, incluso si cachai de DNS y MX todos los días.</p>
+<p class="p3"><strong><a href="https://mxroute.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">MX Route</a></strong> - Si necesitai correo con tu dominio, puede ser. Pero la app Crossbox para el celular es horrible. Todo el diseño es estilo Google Material, y meh.</p>
+<p class="p3"><strong><a href="http://Postale.io" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Postale.io</a></strong> - Fue mi primer acercamiento al correo con dominio propio después de salir del mundo Gmail. Es sólido, buen precio, todo bien.</p>
+<p class="p3"><strong><a href="https://www.purelymail.com" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Purelymail</a></strong> - Si querís pagar casi nada por muchas funciones para correos con dominio, no te importa la interfaz y te manejai bien con lo técnico: esta es tu opción.</p>
+<p class="p3">Recomiendo sin problema los dos primeros. Yo probé Tuta con el periodo gratis de 14 días y pedí reembolso sin dramas, a pesar de lo que dicen algunos en Reddit. A veces basta con leer bien las instrucciones y seguirlas.</p>
+<p class="p3">Tómalo como una ayuda desde la trinchera. ¡Ojalá te sirva!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cómo elegir un servicio de email sin volverse loco</title>
         <author>
@@ -314,53 +352,6 @@
 <p class="p1">Después de una eternidad (o eso parecía), el internet volvió. Mi router brilló como un árbol de Navidad y volví a estar en línea. Pero la victoria fue agridulce. No había prisa por ver todo el Netflix que me perdí o por <a href="https://medium.com/@elmikewalsh/list/en-espanol-78da299bebeb" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">leer artículos sin fin de Medium</a>. En cambio, comencé a reflexionar sobre cómo llegamos aquí: cómo construimos un mundo digital tan sobrecargado de contenido que incluso el 4G puede sentirse lento ahora (o, al menos, eso es lo que me gustaría que pensaras. En realidad, fue una carrera frenética para hacer desaparecer dos semanas de proyectos atrasados).</p>
 <p>Es curioso, ¿no? Solíamos arreglarnos con sitios más simples y rápidos. Ahora necesitamos velocidades insanas solo para mantenernos al día con la basura que hemos metido en ellos. Así que si estás ahí afuera lidiando con tiempos de carga terribles y sitios lentos, te entiendo. Pero no te preocupes: no te estás perdiendo de nada más que de mierda que se está empujando y cargando más y más rápido.</p>
 <p><strong>Crédito de foto:</strong> <a href="https://pixabay.com/photos/city-disaster-end-of-the-world-fire-2444516/" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">pixabay.com</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hacerte en millonario en Medium (Cómo gané $0,04 en un mes)</title>
-        <author>
-            <name>elmikewalsh</name>
-        </author>
-        <link href="https://es.elmikewalsh.com/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/"/>
-        <id>https://es.elmikewalsh.com/hacerte-en-millonario-en-medium-como-gane-004-en-un-mes/</id>
-        <media:content url="https://es.elmikewalsh.com/media/posts/59/how-i-made-004.webp" medium="image" />
-            <category term="Humor"/>
-
-        <updated>2024-10-16T13:28:00-03:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://es.elmikewalsh.com/media/posts/59/how-i-made-004.webp" class="type:primaryImage" alt="Foto de un árbol pequeño saliendo de un montón de monedas" /></p>
-                <div class="post__toc">
-<h3>Tabla de contenidos</h3>
-<ul>
-<li><a href="#mcetoc_1iaqh1cdq6a">La ignorancia se escribe sola</a></li>
-<li><a href="#mcetoc_1iaqh1cdq6b">Encuentra tu nicho verdaderamente único que nadie está haciendo</a></li>
-<li><a href="#mcetoc_1iaqh1cdq6c">El seguimiento de estadísticas neurótico</a></li>
-<li><a href="#mcetoc_1iaqh1cdq6d">¡Muéstrame la plata!</a></li>
-<li><a href="#mcetoc_1iaqh1cdq6e">Las lecciones aprendidas</a></li>
-</ul>
-</div>
-<p class="p1">Ah, Medium. La tierra de los sueños, donde los escritores vienen a compartir sus pensamientos más profundos y sus peores opiniones sobre el minimalismo. Algunos están aquí por la comunidad, otros por el gusto de escribir, pero la mayoría de nosotros venimos por una cosa: plata. Esa gloriosa plata del <a href="https://medium.com/partner-program" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Medium Partner Program</a> (MPP), que nos dijeron que fluiría hacia nosotros solo por compartir nuestras brillantes ideas. La fiebre del oro digital.</p>
-<p class="p1">Estoy aquí para contarte cómo convertí ese sueño en realidad. Lo logré. <strong>Gané $0,04</strong> en un mes en Medium. Probablemente te estés preguntando, "¿Cómo puedo alcanzar este nivel de éxito?". No te preocupes. Te tengo cubierto.</p>
-<h3 id="mcetoc_1iaqh1cdq6a" class="p1">La ignorancia se escribe sola</h3>
-<p class="p1">Todo el mundo sabe que ser un experto está sobrevalorado. En Medium, la clave es aparentar saber cosas. Lo importante es la confianza. El truco está en echar mano de palabras de moda como “mindfulness”, “side hustle” y “mentalidad de crecimiento”. Si realmente quieres maximizar tus ganancias, mete algo sobre cripto, aunque tu único conocimiento de criptomonedas sea que no es una moneda física.</p>
-<p class="p1">Después de resistirme inicialmente, bajo el principio de que el trabajo duro y el esfuerzo valen la pena, cambié a este método, convencido de que mi “consejo” profundo sobre cómo maximizar el desarrollo de tu sitio web siguiendo mi enredado proceso de <a href="https://es.elmikewalsh.com/wordpress-mi-generador-favorito-de-sitios-estaticos/">15 pasos para convertir tu WordPress en un sitio estático haría maravillas</a>. Spoiler: no funcionó.</p>
-<h3 id="mcetoc_1iaqh1cdq6b" class="p1">Encuentra tu nicho verdaderamente único que nadie está haciendo</h3>
-<p class="p1">Pensé que destacaría encontrando el nicho perfecto. Después de todo, Medium está lleno de artículos sobre nómadas digitales, minimalismo, y cómo hacer un producto digital y vender 325 variaciones por $50k al mes, así que decidí bajar aún más al nicho de lo único. Escribí sobre <a href="https://es.elmikewalsh.com/el-arte-de-una-buena-contrasena/">cómo crear una buena contraseña</a>. Una obra maestra. Naturalmente, esperaba que el algoritmo lanzara mi post a lo más alto de la plataforma.</p>
-<p class="p1">Lo que descubrí es que a Medium le encantan los nichos... si tu nicho resulta ser cripto, minimalismo o startups tecnológicas. ¿Una guía sincera y detallada sobre cómo hacer una buena contraseña? No tanto.</p>
-<h3 id="mcetoc_1iaqh1cdq6c" class="p1">El seguimiento de estadísticas neurótico</h3>
-<p class="p1">Esta es la verdadera alegría de Medium. Es como revisar tus redes sociales para ver los likes, pero en esteroides. El momento en que haces clic en “publicar”, te encuentras refrescando la página de estadísticas obsesivamente. Al principio, te sientes optimista. Te imaginas los cientos de visitas acumulándose, los comentarios llegando en masa, los aplausos sumándose. Pero en cambio, ves números que parecen más el precio de un chicle.</p>
-<p class="p1">Después de una semana vigilando mis estadísticas como un halcón, llegó mi primer gran logro. Un asombroso par de centavos. En ese momento, comencé a calcular cuánto tiempo me tomaría comprarme un café real con mis ganancias de Medium. (Spoiler: mucho tiempo).</p>
-<h3 id="mcetoc_1iaqh1cdq6d" class="p1">¡Muéstrame la plata!</h3>
-<p class="p1">Y entonces sucedió. Después de semanas de poner todo mi corazón y alma en mi contenido, llegó el momento de la verdad. Revisé mis estadísticas una última vez para el mes y lo vi: $0,04. Lo logré. La liga mayor.</p>
-<figure class="post__image post__image--center"><img  src="https://es.elmikewalsh.com/media/posts/59/earnings-image.jpg" alt="Pantallazo mostrando las ganacias" width="728" height="562" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-xs.webp 640w ,https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-sm.webp 768w ,https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-md.webp 1024w ,https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-lg.webp 1366w ,https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-xl.webp 1600w ,https://es.elmikewalsh.com/media/posts/59/responsive/earnings-image-2xl.webp 1920w"></figure>
-<p class="p1">Era hora de celebrar. Me serví un vaso de <a href="https://es.elmikewalsh.com/oda-al-whisky/">whisky</a>, me senté, y disfruté del brillo de mi monumental éxito. ¿Podía permitirme un yate? No. ¿Un iPhone? Tampoco. Pero oficialmente era un escritor pagado. Técnicamente.</p>
-<h3 id="mcetoc_1iaqh1cdq6e" class="p1">Las lecciones aprendidas</h3>
-<p class="p1">Ganar plata en Medium es, bueno, posible. Técnicamente. Pero no se trata de la plata (¡menos mal!). Se trata de la emoción de poner tus pensamientos en el mundo y ver cómo resuenan con, seamos honestos, probablemente solo con tu mamá. Esos $0,04 son un símbolo de potencial. El potencial de que, algún día—quizás en muchos, muchos, muchos años—puedas comprarte un chicle.</p>
-<p class="p1">Así que, si estás listo para convertirte en millonario en Medium, recuerda esto: no se trata de lo que ganes. Se trata del viaje, de ver esa página de estadísticas avanzar poco a poco. Algún día, con suficiente perseverancia, podrías comprarte ese yate. O al menos una taza de café. ¡A toda máquina!</p>
-<p><strong>Crédito de foto:</strong> <a href="https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8" target="_blank" class="extlink extlink-icon-1 "  rel="noopener noreferrer">Unsplash.com</a></p>
             ]]>
         </content>
     </entry>
